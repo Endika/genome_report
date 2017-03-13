@@ -1,0 +1,51 @@
+health:
+  title: Salud
+  icon: health.png
+  data:
+    - title: Genética muscular
+      icon_result:
+        true: athlete.png
+        null: runner.png
+      snp:
+        - rs1815739
+diseases:
+  title: Enfermedades
+  icon: diseases.png
+  data:
+    - title: Riesgo de padecer Alzheimer
+      snp:
+        - rs429358
+        - rs7412
+    - title: Cáncer de mama
+      snp:
+        - rs1045485
+    - title: Cáncer de pulmón
+      snp:
+        - rs121434569
+    - title: Resistencia del virus VIH.
+      snp:
+        - rs333
+        - rs9264942
+        - rs2572886
+social:
+  title: Social
+  icon: social.png
+  data:
+    - title: Eres empático?
+      snp:
+        - rs53576
+    - title: Influencia en el placer de los alimentos
+      snp:
+        - rs1800497
+features:
+  title: Rasgos
+  icon: features.png
+  data:
+    - title: Seré calvo?
+      icon_result:
+        true: hair.png
+        null: bald_man.png
+      snp:
+        - rs6152
+
+
