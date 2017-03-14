@@ -6,7 +6,7 @@ rs429358:
     - Tienes un riesgo elevado de padecer Alzheimer. Si tienes problemas de corazón el riesgo aumemta.
     - false
   CC:
-    - Tienes riedgo de padecer Alzheimer.
+    - Tienes riesgo de padecer Alzheimer.
     - false
 rs7412:
   CC:
@@ -16,7 +16,7 @@ rs7412:
     - Seguir un tratamiento con olanzapina, te probocará un aumento de peso.
     - false
   CC:
-    - Seguir un tratamiento con olanzapina, reacionaras normal.
+    - Reacción normal al seguir un tratamiento con olanzapina.
     - null
 rs1045485:
   CC:
@@ -50,7 +50,7 @@ rs53576:
     - Falta de empatía?
     - false
   GG:
-    - Optimista y empático; Manejar bien el estrés
+    - Optimista y empático, maneja bien el estrés.
     - true
 rs6152:
   AA:
@@ -108,4 +108,114 @@ rs1805007:
     - false
   TT:
     - Eres pelirojo, riesgo muy alto de melanoma y de respuesta a los anestésicos.
+    - false
+rs9939609:
+  AA:
+    - Riesgo alto de obesidad y de diabetes tipo 2.
+    - false
+  AT:
+    - Riesgo de obesidad y de diabetes tipo 2.
+    - false
+  TT:
+    - Bajo riesgo de obesidad y de diabetes tipo 2.
+    - true
+rs662799:
+  AA:
+    - No hay riesgo de ataque cardíaco.
+    - true
+  AG:
+    - Alto riesgo de ataque cardíaco, cuida la dieta y no comas grasas.
+    - false
+  GG:
+    - Muy alto riesgo de ataque cardíaco, cuida mucho tu dieta no comas grasas.
+    - false
+rs7495174:
+  AA:
+    - Muy probable que tengas los ojos azules o verdes.
+    - null
+  AG:
+    - Algo probable que tengas los ojos azules o verdes
+    - null
+  GG:
+    - Algo probable que tengas los ojos azules o verdes
+    - null
+rs12913832:
+  AA:
+    - En el 85% de los casos ojos marrones, en el 14% ojos verdes y un 1% de casos con ojos azules.
+    - null
+  AG:
+    - Ojos marrones en el 56% de los casos, ojos verdes en el 37% y en el 7% ojos azules.
+    - null
+  GG:
+    - En el 72% de los casos ojos azules, en el 27% ojos verdes y un 1% de casos con ojos marrones.
+    - null
+rs7903146:
+  CC:
+    - Riesgo bajo de padecer diabetes de tipo 2
+    - true
+  CT:
+    - Riesgo alto de padecer diabetes tipo 2 y probablemente cáncer de colon.
+    - false
+  TT:
+    - Riesgo muy alto de padecer diabetes de tipo 2.
+    - false
+rs12255372:
+  GG:
+    - Riesgo normal de padecer diabetes tipo 2.
+    - true
+  GT:
+    - Riesgo alto de padecer diabetes de tipo 2.
+    - false
+  TT:
+    - Muy alto riesgo de padecer diabetes de tipo 2 y posiblemente cáncer de mama y cáncer de próstata agresivo.
+    - false
+rs1799971:
+  AA:
+    - No eres alcohólico, tus antojos de alcohol estan en la media.
+    - true
+  AG:
+    - Antojos de alcohol fuertes, posible alcohólico.
+    - false
+  GG:
+    - Tus antojos de alcohol son muy fuertes, posible alcohólico.
+    - false
+rs17822931:
+  CC:
+    - Cera de oído humeda, olor corporal normal, sudoroso normal
+    - null
+  CT:
+    - Cera de oído humeda, buen olor corporal.
+    - true
+  TT:
+    - Cera de oído seca, no hay olor corporal, probablemente ascendencia asiática, no eres sudoroso.
+    - true
+rs4680:
+  AA:
+    - Nivel Guerrero, ventaja en tareas de memoría y atención. Mayo nivel de dopamina.
+    - true
+  AG:
+    - Normal, niveles normales de dopamina.
+    - null
+  GG:
+    - Nivel Guerrero, mayor umbral del dolor, mucha resistencia al estrés, modestamente nivel cognitivo reducido.
+    - true
+rs1333049:
+  CC:
+    - Muy alto riesgo de enfermedad coronaria.
+    - false
+  CG:
+    - Riesgo alto de enfermedad coronaria.
+    - false
+  GG:
+    - Normal, estas en la media.
+    - true
+rs1801133:
+  CC:
+    - Común, niveles normales de homocisteína.
+    - true
+  CT:
+    - Riesgo, nivel de procesamiento del acido fólico menor. Este aelo esta relacionado a multiples posibles trastornos (autismo, cáncer gástrico, de pulmón, renal..., depresión, migraña, esquizofrenia, trombosis, sindrome de Down..)
+    - false
+  TT:
+    - Alto riesgo, nivel de procesamiento del acido fólico muy bajo y homocisteína elevada. Este aelo esta relacionado a multiples posibles trastornos (autismo, cáncer gástrico, de pulmón, renal..., depresión, migraña, esquizofrenia, trombosis, sindrome de Down..)
     - false

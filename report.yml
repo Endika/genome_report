@@ -8,6 +8,23 @@ health:
         null: runner.png
       snp:
         - rs1815739
+    - title: Diabetes tipo 2
+      snp:
+        - rs9939609
+        - rs7903146
+        - rs12255372
+    - title: Riesgo de padecer un ataque cardíaco?
+      snp:
+        - rs662799
+    - title: Dependencia al alcohol
+      snp:
+        - rs1799971
+    - title: Riesgo de padecer una enfermedad coronaria
+      snp:
+        - rs1333049
+    - title: Riesgo de metabolismo de folato y/o varios cáncer.
+      snp:
+        - rs1801133
 diseases:
   title: Enfermedades
   icon: diseases.png
@@ -22,7 +39,7 @@ diseases:
     - title: Cáncer de pulmón
       snp:
         - rs121434569
-    - title: Resistencia del virus VIH.
+    - title: Resistencia del virus VIH
       snp:
         - rs333
         - rs9264942
@@ -41,11 +58,21 @@ features:
   title: Rasgos
   icon: features.png
   data:
-    - title: Seré calvo?
+    - title: Seras calvo?
       icon_result:
         true: hair.png
         null: bald_man.png
       snp:
         - rs6152
+    - title: Color de ojos
+      snp:
+        - rs7495174
+        - rs12913832
+    - title: Cera de oído y olor corporal
+      snp:
+        - rs17822931
+    - title: Nivel cognitivo
+      snp:
+        - rs4680
 
 
