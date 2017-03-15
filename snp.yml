@@ -3,7 +3,7 @@ rs429358:
     - Riesgo normal de padecer Alzheimer
     - true
   CT:
-    - Tienes un riesgo elevado de padecer Alzheimer. Si tienes problemas de corazón el riesgo aumemta.
+    - Tienes un riesgo elevado de padecer Alzheimer. Si tienes problemas de corazón el riesgo aumenta.
     - false
   CC:
     - Tienes riesgo de padecer Alzheimer.
@@ -27,10 +27,6 @@ rs1045485:
     - true
   GG:
     - Riesgo normal de padecer cáncer de mama.
-    - true
-rs121434569:
-  T:
-    - Felicidades! detectado una variante protectora al cáncer del pulmón.
     - true
 rs1815739:
   CC:
@@ -59,14 +55,11 @@ rs6152:
   AG:
     - Riesgo alto de padecer calvicie, no te preocupes es la moda de hoy en día.
     - null
-  A:
-    - Se ha detectado una variante que reduce el riesgo de padecer calvicie.
-    - null
   GG:
     - Riesgo de ser calvo, buena suerte, puede que no sea así.
     - null
 rs333:
-  null:
+  --:
     - Tu organismo combate el VIH.
     - true
 rs9264942:
@@ -219,3 +212,63 @@ rs1801133:
   TT:
     - Alto riesgo, nivel de procesamiento del acido fólico muy bajo y homocisteína elevada. Este aelo esta relacionado a multiples posibles trastornos (autismo, cáncer gástrico, de pulmón, renal..., depresión, migraña, esquizofrenia, trombosis, sindrome de Down..)
     - false
+rs9340799:
+  AA:
+    - Las mujeres tienen un menor riesgo de endometriosis, pero riesgo normal de cáncer endometrial, y el deterioro cognitivo con la edad.
+    - true
+  AG:
+    - Las mujeres tienen un riesgo normal de la endometriosis, menor riesgo de cáncer endometrial y el riesgo superior del deterioro cognitivo.
+    - true
+  GG:
+    - Las mujeres tienen alto riesgo de endometriosis, pero la mitad el riesgo de cáncer endometrial y menos deterioro cognitivo.
+    - false
+rs1051730:
+  CC:
+    - Si eres fumador, tienes muy baja dependencia a la nicotica.
+    - true
+  CT:
+    - Dependencia alta, con riesgo de padecer cáncer de pulmón
+    - false
+  TT:
+    - Dependendia muy alta, y riesgo muy alto de cáncer de pulmón, y posible riesgo de abuso del alcohol.
+    - false
+rs4988235:
+  CC:
+    - Probabilidad muy alta de ser intolerante a la lactosa.
+    - false
+  CT:
+    - Probabilidad de ser intolerante a la lactosa.
+    - true
+  TT:
+    - No eres intolerante a la lactosa.
+    - true
+rs121965063:
+  GG:
+    - No hay deficiencia.
+    - true
+  GT:
+    - Portador de la mutación del factor XI, pueden presentar episodios hemorrágicos graves
+    - false
+  TT:
+    - Deficiencia del factor XI, sufres de episodios hemorrágicos graves, (hemorragias nasales, propenso a moretones, periodos menstruales abundantes y prolongados, u otras hemorragias anormales)
+    - false
+rs121908747:
+  CC:
+    - No eres portador.
+    - true
+rs113993960:
+  --:
+    - Portador de una mutación de fibrosis quística
+    - false
+  CT:
+    - No eres portador
+    - true
+  CC:
+    - No eres portador
+    - true
+  TT:
+    - No eres portador
+    - true
+  TC:
+    - No eres portador
+    - true

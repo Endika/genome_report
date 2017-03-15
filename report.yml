@@ -25,6 +25,12 @@ health:
     - title: Riesgo de metabolismo de folato y/o varios cáncer.
       snp:
         - rs1801133
+    - title: Receptores de Estrógenos (Fertilidad)
+      snp:
+        - rs9340799
+    - title: Deficiencia de factor XI?
+      snp:
+        - rs121965063
 diseases:
   title: Enfermedades
   icon: diseases.png
@@ -36,14 +42,15 @@ diseases:
     - title: Cáncer de mama
       snp:
         - rs1045485
-    - title: Cáncer de pulmón
-      snp:
-        - rs121434569
     - title: Resistencia del virus VIH
       snp:
         - rs333
         - rs9264942
         - rs2572886
+    - title: Portador de fibrosis quística?
+      snp:
+        - rs121908747
+        - rs113993960
 social:
   title: Social
   icon: social.png
@@ -54,6 +61,9 @@ social:
     - title: Influencia en el placer de los alimentos
       snp:
         - rs1800497
+    - title: Dependencia a la nicotina
+        snp:
+          - rs1051730
 features:
   title: Rasgos
   icon: features.png
@@ -74,5 +84,11 @@ features:
     - title: Nivel cognitivo
       snp:
         - rs4680
-
+diet:
+  title: Dieta
+  icon: diet.png
+  data:
+    - title: Intolerante a la lactosa?
+      snp:
+        - rs4988235
 
