@@ -14,7 +14,7 @@ pip install -r requirements.txt
 # How to run
 
 ```
-python report.py -g my_genome_file.txt -f pdf
+python report.py -g my_genome_file.txt -f html
 ```
 
 # TODO
