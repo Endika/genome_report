@@ -91,4 +91,11 @@ diet:
     - title: Intolerante a la lactosa?
       snp:
         - rs4988235
+    - title: C&oacute;mo perder peso?
+      snp:
+        - rs4994
+        - rs1042713
+        - rs1799883
+        - rs1801282
+        - rs1042714
 

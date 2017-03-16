@@ -272,3 +272,44 @@ rs113993960:
   TC:
     - No eres portador
     - true
+rs1042713:
+  --:
+    - Perteneces al 88% y solo pierdes peso con el ejercicio intenso.
+    - false
+  AA:
+    - Gen&eacute;tica privilegiada, perteneces al 12% y cualquier ejercicio es bueno para perder peso.
+    - true
+  TT:
+    - Gen&eacute;tica privilegiada, perteneces al 12% y cualquier ejercicio es bueno para perder peso.
+    - true
+rs4994:
+  --:
+    - Perteneces al 88% y solo pierdes peso con el ejercicio intenso.
+    - false
+  AA:
+    - Gen&eacute;tica privilegiada, perteneces al 12% y cualquier ejercicio es bueno para perder peso.
+    - true
+  TT:
+    - Gen&eacute;tica privilegiada, perteneces al 12% y cualquier ejercicio es bueno para perder peso.
+    - true
+rs1799883:
+  --:
+    - Lo siento, tu dieta tiene que ser muy muy baja en carboidratos.
+    - false
+  GG:
+    - Felicidades! cualquier dieta es valida.
+    - true
+rs1801282:
+  --:
+    - Obtendras mejores resultados si controla los carboidratos.
+    - false
+  CC:
+    - Eres un privilejiado cualquier dieta es buena para ti.
+    - true
+rs1042714:
+  --:
+    - Obtendras mejores resultados si controla los carboidratos.
+    - false
+  CC:
+    - Eres un privilejiado cualquier dieta es buena para ti.
+    - true
