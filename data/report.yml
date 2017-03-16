@@ -2,7 +2,7 @@ health:
   title: Salud
   icon: health.png
   data:
-    - title: Genética muscular
+    - title: Gen&eacute;tica muscular
       icon_result:
         true: athlete.png
         null: runner.png
@@ -13,7 +13,7 @@ health:
         - rs9939609
         - rs7903146
         - rs12255372
-    - title: Riesgo de padecer un ataque cardíaco?
+    - title: Riesgo de padecer un ataque card&iacute;aco?
       snp:
         - rs662799
     - title: Dependencia al alcohol
@@ -22,10 +22,10 @@ health:
     - title: Riesgo de padecer una enfermedad coronaria
       snp:
         - rs1333049
-    - title: Riesgo de metabolismo de folato y/o varios cáncer.
+    - title: Riesgo de metabolismo de folato y/o varios c&aacute;ncer.
       snp:
         - rs1801133
-    - title: Receptores de Estrógenos (Fertilidad)
+    - title: Receptores de Estr&oacute;genos (Fertilidad)
       snp:
         - rs9340799
     - title: Deficiencia de factor XI?
@@ -39,7 +39,7 @@ diseases:
       snp:
         - rs429358
         - rs7412
-    - title: Cáncer de mama
+    - title: C&aacute;ncer de mama
       snp:
         - rs1045485
     - title: Resistencia del virus VIH
@@ -47,7 +47,7 @@ diseases:
         - rs333
         - rs9264942
         - rs2572886
-    - title: Portador de fibrosis quística?
+    - title: Portador de fibrosis qu&iacute;stica?
       snp:
         - rs121908747
         - rs113993960
@@ -55,15 +55,15 @@ social:
   title: Social
   icon: social.png
   data:
-    - title: Eres empático?
+    - title: Eres emp&aacute;tico?
       snp:
         - rs53576
     - title: Influencia en el placer de los alimentos
       snp:
         - rs1800497
     - title: Dependencia a la nicotina
-        snp:
-          - rs1051730
+      snp:
+        - rs1051730
 features:
   title: Rasgos
   icon: features.png
@@ -78,7 +78,7 @@ features:
       snp:
         - rs7495174
         - rs12913832
-    - title: Cera de oído y olor corporal
+    - title: Cera de o&iacute;do y olor corporal
       snp:
         - rs17822931
     - title: Nivel cognitivo
