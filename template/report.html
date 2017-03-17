@@ -5,8 +5,15 @@
 
 </head>
 <body>
+
+<div class="jumbotron">
+      <div class="container">
+        <h1 class="display-3">Informe gen&oacute;mico</h1>
+        <p></p>
+      </div>
+</div>
+
 <div class="container">
-<h1>Informe gen&oacute;mico</h1>
 
 {% for key, category in result.iteritems() %}
 	<h3>
@@ -15,12 +22,12 @@
 	</h3>
 		<div class="row">
 	{% for data in category.data %}
-		<div class="col-6 col-sm-4" style="padding-bottom: 15px;{% if loop.index % 2 %}background-color: rgba(238, 238, 238, 0.15);{% endif %}">
-			<h4>{% if data.icon %}<img src="{{ data.icon }}" />{% endif %}
+		<div class="col-6 col-sm-4" style="padding-bottom: 15px;border: rgb(251, 251, 251) 1px solid;">
+			<h4 style="{% if data.repute == None %}color:#777777;{% elif data.repute == True %}color:#5ece5e;{% elif data.repute == False %}color:rgb(255, 175, 175);{% endif %}">{% if data.icon %}<img src="{{ data.icon }}" />{% endif %}
 			{{ data.title }} {% if data.repute == None %}{% elif data.repute == True %}(Bueno){% elif data.repute == False %}(Malo){% endif %}</h4>
 			{% for snp in data.snp %}
-				<div style="padding: 1px 5px; {% if loop.index % 2 %}background-color: #eee;{% endif %}">
-					<h6>SNP {{ snp.snp }}, cromosoma {{ snp.chromosome }} tu genotipo {{ snp.genotype }}</h6>
+				<div style="padding: 1px 5px; {% if loop.index % 2 %}background-color: rgb(251, 251, 251);{% endif %}">
+					<h6 style="font-style:italic;font-size:9px;">SNP {{ snp.snp }}, cromosoma {{ snp.chromosome }} tu genotipo {{ snp.genotype }}</h6>
 					<p>{{ snp.info }}</p>
 				</div>
 			{% endfor %}
