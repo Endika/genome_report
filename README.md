@@ -18,5 +18,5 @@ python report.py -g my_genome_file.txt -f html
 ```
 
 # TODO
-Desing report
-ADD More SNP in report
+- Desing report
+- Add more SNP in report
