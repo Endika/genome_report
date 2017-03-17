@@ -49,7 +49,7 @@ class GenomeReport():
         self.genoma_data = [x for x in self.genoma_data if len(x) == 4][1:]
         data_tmp = {}
         for data in self.genoma_data:
-            data_tmp[data[0]] = data[3]
+            data_tmp[data[0]] = [data[1], data[3]]
         self.genoma_data = data_tmp
 
     def check_snp(self, snp_list):
@@ -61,12 +61,15 @@ class GenomeReport():
         for snp in snp_list:
             genotype = self.genoma_data.get(snp, False)
             if genotype:
+                chromosome = genotype[0]
+                genotype = genotype[1]
                 genotype_results = self.snp.get(snp, False)
                 if genotype_results:
                     result_info = genotype_results.get(genotype, False)
                     if result_info:
                         result.append({
                             'snp': snp,
+                            'chromosome': chromosome,
                             'genotype': genotype,
                             'info': result_info[0]})
                         if result_info[1] is not None:

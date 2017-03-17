@@ -304,14 +304,14 @@ rs1801282:
     - Obtendras mejores resultados si controla los carboidratos.
     - false
   CC:
-    - Eres un privilejiado cualquier dieta es buena para ti.
+    - Eres un privilegiado cualquier dieta es buena para ti.
     - true
 rs1042714:
   --:
     - Obtendras mejores resultados si controla los carboidratos.
     - false
   CC:
-    - Eres un privilejiado cualquier dieta es buena para ti.
+    - Eres un privilegiado cualquier dieta es buena para ti.
     - true
 rs17580:
   AA:
@@ -345,14 +345,14 @@ rs28931568:
     - Portador com&uacute; Antitripsina.
     - false
   GG:
-    - Caso com&uacute;.
+    - Caso com&uacute;n.
     - true
 rs28931569:
   CC:
     - Alto riesgo de enfisema.
     - false
   TT:
-    - Caso com&uacute;.
+    - Caso com&uacute;n.
     - true
 rs5742904:
   AA:
@@ -386,7 +386,7 @@ rs121918070:
     - false
 i4000378:
   DD:
-    - Caso com&uacute;.
+    - Caso com&uacute;n.
     - true
   DI:
     - C&aacute;ncer de mama.
@@ -396,7 +396,7 @@ i4000378:
     - false
 rs80357906:
   --:
-    - Caso com&uacute;.
+    - Caso com&uacute;n.
     - true
   -C:
     - C&aacute;ncer de mama.
@@ -409,7 +409,7 @@ i4000377:
     - C&aacute;ncer de mama.
     - false
   II:
-    - Caso com&uacute;.
+    - Caso com&uacute;n.
     - true
 rs1799945:
   CC:
@@ -429,7 +429,7 @@ rs1799963:
     - Propenso a la trombosis, tambi&eacute; mayor riesgo de infarto cerebral.
     - false
   GG:
-    - Caso com&uacute;.
+    - Caso com&uacute;n.
     - true
 rs6025:
   AA:
@@ -439,7 +439,7 @@ rs6025:
     - Riesgo de trombosis.
     - false
   GG:
-    - Caso com&uacute;.
+    - Caso com&uacute;n.
     - true
 rs34637584:
   AA:
@@ -449,11 +449,11 @@ rs34637584:
     - Del 15 al 30% de probabilidad de la enfermedad de Parkinson.
     - false
   GG:
-    - Caso com&uacute;.
+    - Caso com&uacute;n.
     - true
 rs121908428:
   CC:
-    - Caso com&uacute;.
+    - Caso com&uacute;n.
     - true
   CT:
     - Portador de mutaci&oacute;n neurol&oacute;gico ACCPN.
@@ -463,7 +463,7 @@ rs121908428:
     - false
 rs200511261:
   AA:
-    - Caso com&uacute;.
+    - Caso com&uacute;n.
     - true
   GG:
     - Poliquistico enfermedad en los riñones.
@@ -476,11 +476,11 @@ rs369925690:
     - Portador de una mutaci&oacute;n de enfermedad renal poliqu&iacute;stica.
     - false
   TT:
-    - Caso com&uacute;.
+    - Caso com&uacute;n.
     - true
 rs137852944:
   CC:
-    - Caso com&uacute;.
+    - Caso com&uacute;n.
     - true
   CT:
     - Portador de una mutaci&oacute;n de enfermedad renal poliqu&iacute;stica.
@@ -490,7 +490,7 @@ rs137852944:
     - false
 rs11549407:
   CC:
-    - Caso com&uacute;.
+    - Caso com&uacute;n.
     - true
   CT:
     - Portador de Beta Talasemia.
@@ -500,7 +500,7 @@ rs11549407:
     - false
 i4000396:
   DD:
-    - Caso com&uacute;.
+    - Caso com&uacute;n.
     - true
   DI:
     - Portador del s&iacute;ndrome de Bloom.
@@ -510,7 +510,7 @@ i4000396:
     - false
 rs28940279:
   AA:
-    - Caso com&uacute;.
+    - Caso com&uacute;n.
     - true
   AC:
     - Portador de la enfermedad de Canavan.
@@ -526,7 +526,7 @@ rs28936415:
     - Portador del trastorno cong&eacute;nito de la glicosilaci&oacute;n tipo 1a.
     - false
   GG:
-    - Caso com&uacute;.
+    - Caso com&uacute;n.
     - true
 rs80338939:
   --:
@@ -536,7 +536,7 @@ rs80338939:
     - Portador de la variante de sordera asociada.
     - false
   GG:
-    - Caso com&uacute;.
+    - Caso com&uacute;n.
     - true
 i4000320:
   AA:
@@ -546,7 +546,7 @@ i4000320:
     - Portador de fibrosis qu&iacute;stica.
     - false
   GG:
-    - Caso com&uacute;.
+    - Caso com&uacute;n.
     - true
 rs4934:
   AA:
@@ -556,7 +556,7 @@ rs4934:
     - Riesgo normal.
     - null
   GG:
-    - Caso com&uacute;.
+    - Caso com&uacute;n.
     - true
 rs671:
   AA:
@@ -566,7 +566,7 @@ rs671:
     - Sufre las peores resacas, riesgo de c&acute;ncer de es&oacute;fago, probablemente alcoh&oacutelico.
     - false
   GG:
-    - Riesgo normal de alcoholismo, poco o ning&uacute; enrojecimiento del rostro con la ingesta de alcohol.
+    - Riesgo normal de alcoholismo, poco o ning&uacute;n enrojecimiento del rostro con la ingesta de alcohol.
     - true
 rs2736100:
   GG:
@@ -593,7 +593,7 @@ rs1799884:
     - Las madres tendran bebes 27g m&aacute;s grandes.
     - null
   GG:
-    - Caso com&uacute;.
+    - Caso com&uacute;n.
     - null
 rs713598:
   CC:
