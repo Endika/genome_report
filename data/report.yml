@@ -19,6 +19,7 @@ health:
     - title: Dependencia al alcohol
       snp:
         - rs1799971
+        - rs671
     - title: Riesgo de padecer una enfermedad coronaria
       snp:
         - rs1333049
@@ -31,6 +32,27 @@ health:
     - title: Deficiencia de factor XI?
       snp:
         - rs121965063
+    - title: Falta de hierro?
+      snp:
+        - rs1799945
+    - title: Tombosis e infarto cerebral
+      snp:
+        - rs1799963
+        - rs6025
+    - title: Poliquistico?
+      snp:
+        - rs200511261
+        - rs369925690
+        - rs137852944
+    - title: Trastorno cong&eacute;nito de la glicosilaci&oacute;n
+      snp:
+        - rs28936415
+    - title: Sordera asociada
+      snp:
+        - rs80338939
+    - title: Vida m&aacute;s larga?
+      snp:
+        - rs10936599
 diseases:
   title: Enfermedades
   icon: diseases.png
@@ -39,9 +61,13 @@ diseases:
       snp:
         - rs429358
         - rs7412
+        - rs4934
     - title: C&aacute;ncer de mama
       snp:
         - rs1045485
+        - i4000378
+        - rs80357906
+        - i4000377
     - title: Resistencia del virus VIH
       snp:
         - rs333
@@ -51,6 +77,45 @@ diseases:
       snp:
         - rs121908747
         - rs113993960
+        - rs17580
+        - rs7151526
+        - i4000320
+    - title: Pi-Pittsburgh; anti-thrombin
+      snp:
+        - rs121912713
+        - rs28931568
+        - rs28931569
+    - title: Hipercolesterolemia
+      snp:
+        - rs5742904
+        - rs144467873
+    - title: Polineuropat&iacute;a amiloide
+      snp:
+        - rs121918070
+    - title: Parkinson
+      snp:
+        - rs34637584
+    - title: Trastorno neurol&oacute;gico
+      snp:
+        - rs121908428
+    - title: Anemia?
+      snp:
+        - rs11549407
+    - title: Sindrome de Bloom
+      snp:
+        - i4000396
+    - title: Enfermedad Canavan
+      snp:
+        - rs28940279
+    - title: Riesgo de glimona, fibrosis pulmonar
+      snp:
+        - rs2736100
+    - title: Resistente a la malaria
+      snp:
+        - rs2814778
+    - title: Resistencia al notrovirus?
+      snp:
+        - rs601338
 social:
   title: Social
   icon: social.png
@@ -84,6 +149,15 @@ features:
     - title: Nivel cognitivo
       snp:
         - rs4680
+    - title: Pron&oacute;stico del tamaño del bebe
+      snp:
+        - rs1799884
+    - title: Te gustan los sabores amargos?
+      snp:
+        - rs713598
+    - title: Glucosa
+      snp:
+        - rs560887
 diet:
   title: Dieta
   icon: diet.png

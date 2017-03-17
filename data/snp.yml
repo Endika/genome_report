@@ -313,3 +313,325 @@ rs1042714:
   CC:
     - Eres un privilejiado cualquier dieta es buena para ti.
     - true
+rs17580:
+  AA:
+    - No padeces la enfermedad.
+    - true
+  AT:
+    - Tienes una variantes de deficiencia antitripsina.
+    - false
+  TT:
+    - Tienes muy poco de la variante de deficiencia antitripsina.
+    - false
+rs7151526:
+  AA:
+    - Posible riesgo de ANCA asociado a vasculitis.
+    - false
+  CC:
+    - Normal no pasa nada.
+    - true
+rs121912713:
+  GT:
+    - Probable trastorno de sangrado.
+    - false
+  TT:
+    - Normal.
+    - true
+rs28931568:
+  AA:
+    - Alto riesgo de enfisema.
+    - false
+  AG:
+    - Portador com&uacute; Antitripsina.
+    - false
+  GG:
+    - Caso com&uacute;.
+    - true
+rs28931569:
+  CC:
+    - Alto riesgo de enfisema.
+    - false
+  TT:
+    - Caso com&uacute;.
+    - true
+rs5742904:
+  AA:
+    - Riesgo muy alto de Hipercolesterolemia tipo B.
+    - false
+  AG:
+    - Riesgo alto de Hipercolesterolemia tipo B.
+    - false
+  GG:
+    - Normal.
+    - true
+rs144467873:
+  AA:
+    - Riesgo muy alto de Hipercolesterolemia tipo B.
+    - false
+  AG:
+    - Riesgo alto de Hipercolesterolemia tipo B.
+    - false
+  GG:
+    - Normal.
+    - true
+rs121918070:
+  AA:
+    - Normal.
+    - true
+  AG:
+    - Padeces de polineuropat&iacute;a amiloide familiar.
+    - false
+  GG:
+    - Padeces de polineuropat&iacute;a amiloide familiar.
+    - false
+i4000378:
+  DD:
+    - Caso com&uacute;.
+    - true
+  DI:
+    - C&aacute;ncer de mama.
+    - false
+  II:
+    - C&aacute;ncer de mama.
+    - false
+rs80357906:
+  --:
+    - Caso com&uacute;.
+    - true
+  -C:
+    - C&aacute;ncer de mama.
+    - false
+i4000377:
+  DD:
+    - C&aacute;ncer de mama.
+    - false
+  DI:
+    - C&aacute;ncer de mama.
+    - false
+  II:
+    - Caso com&uacute;.
+    - true
+rs1799945:
+  CC:
+    - Sin riesgo de falta de hierro.
+    - true
+  CG:
+    - Portador y posible afectado de hemocromatosis (Falta de hierro).
+    - false
+  GG:
+    - Afectado de forma leve de hemocromatosis (Falta de hierro).
+    - false
+rs1799963:
+  AA:
+    - Propenso a la trombosis, tambi&eacute; mayor riesgo de infarto cerebral.
+    - false
+  AG:
+    - Propenso a la trombosis, tambi&eacute; mayor riesgo de infarto cerebral.
+    - false
+  GG:
+    - Caso com&uacute;.
+    - true
+rs6025:
+  AA:
+    - Riesgo muy alto de trombosis.
+    - false
+  AG:
+    - Riesgo de trombosis.
+    - false
+  GG:
+    - Caso com&uacute;.
+    - true
+rs34637584:
+  AA:
+    - Del 15 al 30% de probabilidad de la enfermedad de Parkinson.
+    - false
+  AG:
+    - Del 15 al 30% de probabilidad de la enfermedad de Parkinson.
+    - false
+  GG:
+    - Caso com&uacute;.
+    - true
+rs121908428:
+  CC:
+    - Caso com&uacute;.
+    - true
+  CT:
+    - Portador de mutaci&oacute;n neurol&oacute;gico ACCPN.
+    - false
+  TT:
+    - Trastorn neurol&oacute;gico ACCPN.
+    - false
+rs200511261:
+  AA:
+    - Caso com&uacute;.
+    - true
+  GG:
+    - Poliquistico enfermedad en los riñones.
+    - false
+rs369925690:
+  CC:
+    - Poliquistico enfermedad en los riñones.
+    - false
+  CT:
+    - Portador de una mutaci&oacute;n de enfermedad renal poliqu&iacute;stica.
+    - false
+  TT:
+    - Caso com&uacute;.
+    - true
+rs137852944:
+  CC:
+    - Caso com&uacute;.
+    - true
+  CT:
+    - Portador de una mutaci&oacute;n de enfermedad renal poliqu&iacute;stica.
+    - false
+  TT:
+    - Poliquistico enfermedad en los riñones.
+    - false
+rs11549407:
+  CC:
+    - Caso com&uacute;.
+    - true
+  CT:
+    - Portador de Beta Talasemia.
+    - false
+  TT:
+    - Contiene Beta Talasemia.
+    - false
+i4000396:
+  DD:
+    - Caso com&uacute;.
+    - true
+  DI:
+    - Portador del s&iacute;ndrome de Bloom.
+    - false
+  II:
+    - Padece el s&iacute;ndrome de Bloom.
+    - false
+rs28940279:
+  AA:
+    - Caso com&uacute;.
+    - true
+  AC:
+    - Portador de la enfermedad de Canavan.
+    - false
+  CC:
+    - Padece la enfermedad de Canavan.
+    - false
+rs28936415:
+  AA:
+    - Trastorno cong&eacute;nito de la glicosilaci&oacute;n tipo 1a.
+    - false
+  AG:
+    - Portador del trastorno cong&eacute;nito de la glicosilaci&oacute;n tipo 1a.
+    - false
+  GG:
+    - Caso com&uacute;.
+    - true
+rs80338939:
+  --:
+    - Sordera asociada.
+    - false
+  -G:
+    - Portador de la variante de sordera asociada.
+    - false
+  GG:
+    - Caso com&uacute;.
+    - true
+i4000320:
+  AA:
+    - Fibrosis qu&iacute;stica.
+    - false
+  AG:
+    - Portador de fibrosis qu&iacute;stica.
+    - false
+  GG:
+    - Caso com&uacute;.
+    - true
+rs4934:
+  AA:
+    - Riesgo muy alto de padecer Alzheimer.
+    - false
+  AG:
+    - Riesgo normal.
+    - null
+  GG:
+    - Caso com&uacute;.
+    - true
+rs671:
+  AA:
+    - Riesgo alto de c&acute;ncer de es&oacute;fago, alcoholismo cr&oacute;nico.
+    - false
+  AG:
+    - Sufre las peores resacas, riesgo de c&acute;ncer de es&oacute;fago, probablemente alcoh&oacutelico.
+    - false
+  GG:
+    - Riesgo normal de alcoholismo, poco o ning&uacute; enrojecimiento del rostro con la ingesta de alcohol.
+    - true
+rs2736100:
+  GG:
+    - Riesgo alto de desarrollar glioma.
+    - false
+  GT:
+    - Riesgo alto de desarrollar glioma y fibrosis pulmonar.
+    - false
+  TT:
+    - Muy alto riesgo de padecer una enfermedad pulmonar y c&aacute;ncer testicular, mayor riesgo de fibrosis pulmonar.
+    - false
+rs10936599:
+  CC:
+    - Vida m&aacute;s larga?
+    - true
+  TT:
+    - Vida m&aacute;s corta?
+    - false
+rs1799884:
+  AA:
+    - Las madres tendran bebes 54g m&aacute;s grandes.
+    - null
+  AG:
+    - Las madres tendran bebes 27g m&aacute;s grandes.
+    - null
+  GG:
+    - Caso com&uacute;.
+    - null
+rs713598:
+  CC:
+    - Puedes saborear los sabores amargos.
+    - null
+  CG:
+    - Puedes saborear los sabores amargos.
+    - null
+  GG:
+    - Posiblemente seas incapaz de saborear el amargo.
+    - null
+rs560887:
+  AA:
+    - Promedio de niveles en ayunas de glucosa plasm&aacute;tica en 5.06mmol/l.
+    - true
+  AG:
+    - Promedio de niveles en ayunas de glucosa plasm&aacute;tica en 5.12mmol/l.
+    - false
+  GG:
+    - Promedio de niveles en ayunas de glucosa plasm&aacute;tica en 5.18mmol/l.
+    - false
+rs2814778:
+  AA:
+    - No eres resistente a la malaria.
+    - null
+  AG:
+    - Portador, quiz&aacute; resistente a la malaria.
+    - true
+  GG:
+    - Resistente a la malaria.
+    - true
+rs601338:
+  AA:
+    - Resistente al notrovirus.
+    - true
+  AG:
+    - Susceptible al notrovirus.
+    - false
+  GG:
+    - Susceptible al notrovirus.
+    - false
