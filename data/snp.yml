@@ -346,14 +346,14 @@ rs28931568:
     - false
   GG:
     - Caso com&uacute;n.
-    - true
+    - null
 rs28931569:
   CC:
     - Alto riesgo de enfisema.
     - false
   TT:
     - Caso com&uacute;n.
-    - true
+    - null
 rs5742904:
   AA:
     - Riesgo muy alto de Hipercolesterolemia tipo B.
@@ -387,7 +387,7 @@ rs121918070:
 i4000378:
   DD:
     - Caso com&uacute;n.
-    - true
+    - null
   DI:
     - C&aacute;ncer de mama.
     - false
@@ -397,7 +397,7 @@ i4000378:
 rs80357906:
   --:
     - Caso com&uacute;n.
-    - true
+    - null
   -C:
     - C&aacute;ncer de mama.
     - false
@@ -410,7 +410,7 @@ i4000377:
     - false
   II:
     - Caso com&uacute;n.
-    - true
+    - null
 rs1799945:
   CC:
     - Sin riesgo de falta de hierro.
@@ -430,7 +430,7 @@ rs1799963:
     - false
   GG:
     - Caso com&uacute;n.
-    - true
+    - null
 rs6025:
   AA:
     - Riesgo muy alto de trombosis.
@@ -440,7 +440,7 @@ rs6025:
     - false
   GG:
     - Caso com&uacute;n.
-    - true
+    - null
 rs34637584:
   AA:
     - Del 15 al 30% de probabilidad de la enfermedad de Parkinson.
@@ -450,11 +450,11 @@ rs34637584:
     - false
   GG:
     - Caso com&uacute;n.
-    - true
+    - null
 rs121908428:
   CC:
     - Caso com&uacute;n.
-    - true
+    - null
   CT:
     - Portador de mutaci&oacute;n neurol&oacute;gico ACCPN.
     - false
@@ -464,7 +464,7 @@ rs121908428:
 rs200511261:
   AA:
     - Caso com&uacute;n.
-    - true
+    - null
   GG:
     - Poliquistico enfermedad en los riñones.
     - false
@@ -477,11 +477,11 @@ rs369925690:
     - false
   TT:
     - Caso com&uacute;n.
-    - true
+    - null
 rs137852944:
   CC:
     - Caso com&uacute;n.
-    - true
+    - null
   CT:
     - Portador de una mutaci&oacute;n de enfermedad renal poliqu&iacute;stica.
     - false
@@ -491,7 +491,7 @@ rs137852944:
 rs11549407:
   CC:
     - Caso com&uacute;n.
-    - true
+    - null
   CT:
     - Portador de Beta Talasemia.
     - false
@@ -501,7 +501,7 @@ rs11549407:
 i4000396:
   DD:
     - Caso com&uacute;n.
-    - true
+    - null
   DI:
     - Portador del s&iacute;ndrome de Bloom.
     - false
@@ -511,7 +511,7 @@ i4000396:
 rs28940279:
   AA:
     - Caso com&uacute;n.
-    - true
+    - null
   AC:
     - Portador de la enfermedad de Canavan.
     - false
@@ -527,7 +527,7 @@ rs28936415:
     - false
   GG:
     - Caso com&uacute;n.
-    - true
+    - null
 rs80338939:
   --:
     - Sordera asociada.
@@ -537,7 +537,7 @@ rs80338939:
     - false
   GG:
     - Caso com&uacute;n.
-    - true
+    - null
 i4000320:
   AA:
     - Fibrosis qu&iacute;stica.
@@ -547,7 +547,7 @@ i4000320:
     - false
   GG:
     - Caso com&uacute;n.
-    - true
+    - null
 rs4934:
   AA:
     - Riesgo muy alto de padecer Alzheimer.
@@ -557,7 +557,7 @@ rs4934:
     - null
   GG:
     - Caso com&uacute;n.
-    - true
+    - null
 rs671:
   AA:
     - Riesgo alto de c&acute;ncer de es&oacute;fago, alcoholismo cr&oacute;nico.
@@ -635,3 +635,164 @@ rs601338:
   GG:
     - Susceptible al notrovirus.
     - false
+rs398122416:
+  -C:
+    - Padeces s&iacute;ndrome de Prader-Willi-like, s&iacute;ndrome de Schaaf-Yang.
+    - false
+  CC:
+    - Caso com&uacute;n.
+    - null
+rs398122415:
+  -T:
+    - Padeces s&iacute;ndrome de Prader-Willi-like, s&iacute;ndrome de Schaaf-Yang.
+    - false
+  TT:
+    - Caso com&uacute;n.
+    - null
+rs200322968:
+  CC:
+    - Caso com&uacute;n.
+    - null
+  CT:
+    - Tienes una mutaci&oacute;n del s&iacute;ndrome Orofaciodigital.
+    - false
+  TT:
+    - Padeces el s&iacute;ndrome de Orofaciodigital.
+    - false
+rs373900644:
+  CC:
+    - Caso com&uacute;n.
+    - null
+  CT:
+    - Tienes una mutaci&oacute;n del s&iacute;ndrome Orofaciodigital.
+    - false
+  TT:
+    - Padeces el s&iacute;ndrome de Orofaciodigital.
+    - false
+rs201662623:
+  CC:
+    - Padeces el s&iacute;ndrome de Orofaciodigital.
+    - false
+  CT:
+    - Tienes una mutaci&oacute;n del s&iacute;ndrome Orofaciodigital.
+    - false
+  TT:
+    - Caso com&uacute;n.
+    - null
+rs200649783:
+  CC:
+    - Caso com&uacute;n.
+    - null
+  AC:
+    - Tienes una mutaci&oacute;n del s&iacute;ndrome Orofaciodigital.
+    - false
+  AA:
+    - Padeces el s&iacute;ndrome de Orofaciodigital.
+    - false
+rs150681845:
+  GG:
+    - Caso com&uacute;n.
+    - null
+  AG:
+    - Tienes una mutaci&oacute;n del s&iacute;ndrome Orofaciodigital.
+    - false
+  AA:
+    - Padeces el s&iacute;ndrome de Orofaciodigital.
+    - false
+rs137891647:
+  CC:
+    - Caso com&uacute;n.
+    - null
+  CG:
+    - No se ve afectado, portador de una mutaci&oacute;n deficiencia Lipoyltransferase 1 (muy grave).
+    - false
+  GG:
+    - Deficiencia de Lipoyltransferase 1 (muy grave).
+    - false
+rs786205156:
+  AA:
+    - Caso com&uacute;n.
+    - null
+  AG:
+    - No se ve afectado, portador de una mutaci&oacute;n deficiencia Lipoyltransferase 1 (muy grave).
+    - false
+  GG:
+    - Deficiencia de Lipoyltransferase 1 (muy grave).
+    - false
+rs4244285:
+  AA:
+    - Metaboliza lento varios medicamentos populares.
+    - false
+  AG:
+    - Metaboliza lento varios medicamentos populares.
+    - false
+  GG:
+    - Caso com&uacute;n.
+    - null
+rs4149056:
+  CC:
+    - Riesgo de miopat&iacute;a.
+    - false
+  CT:
+    - Riesgo de miopat&iacute;a.
+    - false
+  TT:
+    - Caso com&uacute;n.
+    - null
+rs10757278:
+  AA:
+    - riesgo reducido de enfermedad cardiaca coronaria. Riesgo reducido de aneurisma cerebral y aneurisma aórtico abdominal.
+    - true
+  AG:
+    - Riesgo de ataque al coraz&oacute;n. Riesgo normal de un aneurisma a&oacute;rtico abdominal y aneurisma cerebral.
+    - false
+  GG:
+    - Riesgo de ataque al coraz&oacute;n; riesgo de aneurisma a&oacute;rtico abdominal y aneurisma cerebral.
+    - false
+rs1537415:
+  CC:
+    - Caso com&uacute;n.
+    - null
+  CG:
+    - Riesgo alto de periodontitis.
+    - false
+  GG:
+    - Riesgo de periodontitis.
+    - false
+rs3892097:
+  AA:
+    - Metabolizador lento.
+    - false
+  AG:
+    - Normal.
+    - null
+  GG:
+    - Buen metabolizador.
+    - true
+rs1447295:
+  AA:
+    - Riesgo muy alto de c&aacute;ncer de prostata.
+    - false
+  AC:
+    - Riesgo alto de c&aacute;ncer de prostata.
+    - false
+  CC:
+    - Normal.
+    - null
+rs11803731:
+  AA:
+    - Pelo liso.
+    - null
+  TT:
+    - Pelo rizado.
+    - null
+rs2395029:
+  GG:
+    - Alto riesgo de hipersensibilidad a varios f&aacute;rmacos, incluyendo abacavir; riesgo de la psoriasis.
+    - false
+  GT:
+    - Riesgo de hipersensibilidad a varios f&aacute;rmacos, incluyendo abacavir; riesgo de la psoriasis.
+    - false
+  TT:
+    - Normal.
+    - null

@@ -16,6 +16,7 @@ health:
     - title: Riesgo de padecer un ataque card&iacute;aco?
       snp:
         - rs662799
+        - rs10757278
     - title: Dependencia al alcohol
       snp:
         - rs1799971
@@ -53,6 +54,13 @@ health:
     - title: Vida m&aacute;s larga?
       snp:
         - rs10936599
+    - title: Medicamentos
+      snp:
+        - rs4244285
+        - rs3892097
+    - title: Riesgo de miopat&iacute;a.
+      snp:
+        - rs4149056
 diseases:
   title: Enfermedades
   icon: diseases.png
@@ -116,6 +124,28 @@ diseases:
     - title: Resistencia al notrovirus?
       snp:
         - rs601338
+    - title: S&iacute;ndrome de Prader-Willi-like, s&iacute;ndrome de Schaaf-Yang.
+      snp:
+        - rs398122416
+        - rs398122415
+    - title: S&iacute;ndrome Orofaciodigital
+      snp:
+        - rs200322968
+        - rs373900644
+        - rs201662623
+        - rs200649783
+        - rs150681845
+    - title: Enfermedad Lipoyltransferase.
+      snp:
+        - rs137891647
+        - rs786205156
+    - title: Riesgo de periodontitis (Inflamaci&oacute;n de las enc&iacute;as)
+      snp:
+        - rs1537415
+    - title: C&aacute;ncer de prostata
+      snp:
+        - rs1447295
+
 social:
   title: Social
   icon: social.png
@@ -172,4 +202,7 @@ diet:
         - rs1799883
         - rs1801282
         - rs1042714
+    - title: Pelo rizado o liso?
+      snp:
+        - rs11803731
 
