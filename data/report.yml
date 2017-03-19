@@ -61,6 +61,16 @@ health:
     - title: Riesgo de miopat&iacute;a.
       snp:
         - rs4149056
+    - title: Hipersensibilidad
+      snp:
+        - rs2395029
+    - title: Metabolizador de medicamentos
+      snp:
+        - rs4244285
+        - rs28399504
+    - title: Metabolismo de la warfarina
+      snp:
+        - rs1057910
 diseases:
   title: Enfermedades
   icon: diseases.png
@@ -76,6 +86,7 @@ diseases:
         - i4000378
         - rs80357906
         - i4000377
+        - rs80358959
     - title: Resistencia del virus VIH
       snp:
         - rs333
@@ -88,6 +99,7 @@ diseases:
         - rs17580
         - rs7151526
         - i4000320
+        - rs75527207
     - title: Pi-Pittsburgh; anti-thrombin
       snp:
         - rs121912713
@@ -109,6 +121,12 @@ diseases:
     - title: Anemia?
       snp:
         - rs11549407
+        - rs104886456
+        - rs104886457
+        - rs104886459
+        - i4000336
+        - i4000412
+        - i4000413
     - title: Sindrome de Bloom
       snp:
         - i4000396
@@ -145,7 +163,87 @@ diseases:
     - title: C&aacute;ncer de prostata
       snp:
         - rs1447295
-
+    - title: Enfermedad peroxisomal
+      snp:
+        - rs61750420
+    - title: S&iacute;ndrome de Usher Tipo III
+      snp:
+        - rs111033258
+        - rs111033260
+    - title: Tirosinemia tipo I.
+      snp:
+        - rs80338899
+        - rs80338898
+        - rs80338901
+        - rs80338895
+        - rs121965075
+    - title: Enfermedad de Tay-Sachs
+      snp:
+        - rs76173977
+        - rs138058578
+    - title: Anemia falciforme
+      snp:
+        - rs334
+    - title: enfermedad de Salla
+      snp:
+        - rs80338794
+    - title: Rizom&eacute;lico Chondrodysplasia Punctata Tipo 1
+      snp:
+        - i3002517
+    - title: Hiperoxaluria primaria.
+      snp:
+        - rs80356708
+    - title: Enfermedad de Niemann-Pick tipo A
+      snp:
+        - i4000430
+        - i4000381
+        - i4000383
+    - title: Mucolipidosis tipo IV
+      snp:
+        - rs104886461
+    - title: Cadena Media de Acil-CoA deshidrogenasa
+      snp:
+        - i5012759
+        - i5012758
+        - i5012760
+        - i5012755
+        - i5003117
+        - i5003116
+    - title: La orina de jarabe de arce Enfermedad Tipo 1B
+      snp:
+        - i3002808
+        - i4000422
+    - title: Enfermedad de la epidermolisis bullosa
+      snp:
+        - rs80356682
+    - title: Enfermedad almacenamiento de gluc&oacute;geno tipo 1B, 1A
+      snp:
+        - rs80356489
+        - rs1801175
+    - title: Enfermedad de Gaucher
+      snp:
+        - rs80356769
+    - title: S&iacute;ndrome de GRACILE
+      snp:
+        - rs28937590
+    - title: Fiebre mediterr&aacute;nea
+      snp:
+        - rs104895094
+        - rs3743930
+        - rs11466023
+    - title: Disautonom&iacute;a familiar
+      snp:
+        - rs137853022
+    - title: Toxicidad 5-fluorouracilo, dihidropirimidina deshidrogenasa
+      snp:
+        - rs3918290
+        - rs55886062
+    - title: Respuesta tratamiento con PEG-IFNalpha / RBV
+      snp:
+        - rs8099917
+    - title: Deficiencia seudocolinesterasa
+      snp:
+        - rs28933389
 social:
   title: Social
   icon: social.png
@@ -205,4 +303,7 @@ diet:
     - title: Pelo rizado o liso?
       snp:
         - rs11803731
+    - title: Intolerancia al azucar?
+      snp:
+        - rs1800546
 

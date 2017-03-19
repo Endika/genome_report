@@ -796,3 +796,511 @@ rs2395029:
   TT:
     - Normal.
     - null
+rs61750420:
+  AA:
+    - Padeces de la enfermedad peroxisomal (Zellweger).
+    - false
+  AG:
+    - Portador de la enfermedad peroxisomal (Zellweger).
+    - false
+  GG:
+    - Caso com&uacute;n.
+    - null
+rs111033258:
+  GG:
+    - Padeces el s&iacute;ndrome de Usher Tipo III.
+    - false
+  GT:
+    - Portador del s&iacute;ndrome de Usher Tipo III.
+    - false
+  TT:
+    - Caso com&uacute;n.
+    - null
+rs111033260:
+  CC:
+    - Caso com&uacute;n.
+    - null
+  CT:
+    - Portador del s&iacute;ndrome de Usher Tipo III.
+    - false
+  TT:
+    - Padeces el s&iacute;ndrome de Usher Tipo III.
+    - false
+rs80358959:
+  AA:
+    - Caso com&uacute;n.
+    - null
+  AT:
+    - BRCA2 variante considerada del patogeno del c&aacute;ncer de mama.
+    - false
+rs80338899:
+  AA:
+    - Tirosinemia tipo I.
+    - false
+  AG:
+    - Portador de un alelo de tirosinemia tipo I.
+    - false
+  GG:
+    - Caso com&uacute;n.
+    - null
+rs80338898:
+  CC:
+    - Caso com&uacute;n.
+    - null
+  CT:
+    - Portador de un alelo de tirosinemia tipo I.
+    - false
+  TT:
+    - Tirosinemia tipo I.
+    - false
+rs80338901:
+  AA:
+    - Tirosinemia tipo I.
+    - false
+  AG:
+    - Portador de un alelo de tirosinemia tipo I.
+    - false
+  GG:
+    - Caso com&uacute;n.
+    - null
+rs80338895:
+  GG:
+    - Caso com&uacute;n.
+    - null
+  GT:
+    - Portador de un alelo de tirosinemia tipo I.
+    - fals
+  TT:
+    - Tirosinemia tipo I.
+    - false
+rs121965075:
+  GG:
+    - Caso com&uacute;n.
+    - null
+  GT:
+    - Portador de un alelo de tirosinemia tipo I.
+    - fals
+  TT:
+    - Tirosinemia tipo I.
+    - false
+rs76173977:
+  CC:
+    - Caso com&uacute;n.
+    - null
+  CT:
+    - Portador de la enfermedad de Tay-Sachs.
+    - false
+  TT:
+    - Padeces la enfermedad de Tay-Sachs.
+    - false
+rs138058578:
+  AA:
+    - Probable que conduzca a un an&aacute;lisis de sangre de falsos positivos para la enfermedad de Tay Sachs.
+    - false
+  AG:
+    - Probable que conduzca a un an&aacute;lisis de sangre de falsos positivos para la enfermedad de Tay Sachs.
+    - false
+  GG:
+    - Caso com&uacute;n.
+    - null
+rs334:
+  AA:
+    - Caso com&uacute;n.
+    - null
+  AT:
+    - Portador de, pero no afectado por, anemia de c&eacute;lulas falciformes; mayor resistencia malaria.
+    - false
+  TT:
+    - Padeces anemia falciforme.
+    - false
+rs80338794:
+  CC:
+    - Caso com&uacute;n.
+    - null
+  CT:
+    - Portador principal mutaci&oacute;n de la enfermedad de Finlandia (Salla).
+    - false
+  TT:
+    - Padeces la enfermedad de Salla.
+    - false
+i3002517:
+  AT:
+    - Rizom&eacute;lico Chondrodysplasia Punctata Tipo 1 portador.
+    - false
+  TT:
+    - Caso com&uacute;n.
+    - null
+rs80356708:
+  --:
+    - Padeces hiperoxaluria primaria.
+    - false
+  -G:
+    - Portador de hiperoxaluria primaria.
+    - false
+  GG:
+    - Caso com&uacute;n.
+    - null
+i4000430:
+  GG:
+    - Caso com&uacute;n.
+    - null
+  GT:
+    - Enfermedad de Niemann-Pick tipo A portador.
+    - false
+  TT:
+    - Enfermedad de Niemann-Pick tipo A.
+    - false
+i4000381:
+  CC:
+    - Enfermedad de Niemann-Pick tipo A.
+    - false
+  CT:
+    - Enfermedad de Niemann-Pick tipo A portador.
+    - false
+  TT:
+    - Caso com&uacute;n.
+    - null
+i4000383:
+  DD:
+    - Enfermedad de Niemann-Pick tipo A.
+    - false
+  DI:
+    - Enfermedad de Niemann-Pick tipo A portador.
+    - false
+  II:
+    - Caso com&uacute;n.
+    - null
+rs104886461:
+  AA:
+    - Caso com&uacute;n.
+    - null
+  AG:
+    - Portadora de la mutaci&oacute;n mucolipidosis tipo IV.
+    - false
+  GG:
+    - Padeces de mucolipidosis tipo IV.
+    - false
+i5012759:
+  AA:
+    - Caso com&uacute;n.
+    - null
+  AG:
+    - Portador de la Cadena Media de Acil-CoA deshidrogenasa deficiencia.
+    - false
+  GG:
+    - Padeces la Cadena Media de Acil-CoA deshidrogenasa deficiencia.
+    - false
+i5012758:
+  TT:
+    - Caso com&uacute;n.
+    - null
+  CT:
+    - Portador de la Cadena Media de Acil-CoA deshidrogenasa deficiencia.
+    - false
+  CC:
+    - Padeces la Cadena Media de Acil-CoA deshidrogenasa deficiencia.
+    - false
+i5012760:
+  CC:
+    - Caso com&uacute;n.
+    - null
+  CT:
+    - Portador de la Cadena Media de Acil-CoA deshidrogenasa deficiencia.
+    - false
+  CC:
+    - Padeces la Cadena Media de Acil-CoA deshidrogenasa deficiencia.
+    - false
+i5012755:
+  CC:
+    - Caso com&uacute;n.
+    - null
+  CT:
+    - Portador de la Cadena Media de Acil-CoA deshidrogenasa deficiencia.
+    - false
+  CC:
+    - Padeces la Cadena Media de Acil-CoA deshidrogenasa deficiencia.
+    - false
+i5003117:
+  CC:
+    - Caso com&uacute;n.
+    - null
+  CT:
+    - Portador de la Cadena Media de Acil-CoA deshidrogenasa deficiencia.
+    - false
+  CC:
+    - Padeces la Cadena Media de Acil-CoA deshidrogenasa deficiencia.
+    - false
+i5003116:
+  GG:
+    - Caso com&uacute;n.
+    - null
+  CG:
+    - Portador de la Cadena Media de Acil-CoA deshidrogenasa deficiencia.
+    - false
+  CC:
+    - Padeces la Cadena Media de Acil-CoA deshidrogenasa deficiencia.
+    - false
+i3002808:
+  CC:
+    - Padeces la enfermedad de la orina de jarabe de arce Enfermedad Tipo 1B.
+    - false
+  CG:
+    - Portador de la enfermedad la orina de jarabe de arce Enfermedad Tipo 1B.
+    - false
+  GG:
+    - Caso com&uacute;n.
+    - null
+i4000422:
+  AA:
+    - Padeces la enfermedad de la orina de jarabe de arce Enfermedad Tipo 1B.
+    - false
+  AG:
+    - Portador de la enfermedad la orina de jarabe de arce Enfermedad Tipo 1B.
+    - false
+  GG:
+    - Caso com&uacute;n.
+    - null
+rs80356682:
+  CC:
+    - Caso com&uacute;n.
+    - null
+  CT:
+    - Portador de la epidermolisis bullosa.
+    - false
+  TT:
+    - Padeces de la epidermolisis bullosa.
+    - false
+rs1800546:
+  CG:
+    - Portadora de alto riesgo de la intolerancia hereditaria a la fructosa (IHF).
+    - false
+  GG:
+    - Caso com&uacute;n.
+    - null
+rs80356489:
+  CC:
+    - Portador de la enfermedad almacenamiento de gluc&oacute;geno tipo 1b.
+    - false
+  CT:
+    - Padeces la enfermedad de almacenamiento de gluc&oacute;geno tipo 1b.
+    - false
+  TT:
+    - Caso com&uacute;n.
+    - null
+rs1801175:
+  CC:
+    - Caso com&uacute;n.
+    - null
+  CT:
+    - Portadora de la enfermedad por almacenamiento de gluc&oacute;geno, tipo 1A.
+    - false
+  TT:
+    - Padeces glucogenosis, tipo 1A.
+    - false
+rs80356769:
+  GG:
+    - Caso com&uacute;n.
+    - null
+  GT:
+    - Portador de alelo de la enfermedad de Gaucher.
+    - false
+  TT:
+    - Padeces la enfermedad de Gaucher.
+    - false
+rs28937590:
+  AA:
+    - Caso com&uacute;n.
+    - null
+  AG:
+    - Portadora del s&iacute;ndrome de GRACILE.
+    - false
+  GG:
+    - Padeces el s&iacute;ndrome de GRACILE.
+    - false
+rs104886456:
+  AA:
+    - Caso com&uacute;n.
+    - null
+  AT:
+    - Portador de la anemia de Fanconi.
+    - false
+  TT:
+    - Padeces de la anemia de Fanconi.
+    - false
+rs104886457:
+  CC:
+    - Caso com&uacute;n.
+    - null
+  CT:
+    - Portador de la anemia de Fanconi.
+    - false
+  TT:
+    - Padeces de la anemia de Fanconi.
+    - false
+rs104886459:
+  GG:
+    - Caso com&uacute;n.
+    - null
+  -G:
+    - Portador de la anemia de Fanconi.
+    - false
+  --:
+    - Padeces de la anemia de Fanconi.
+    - false
+i4000336:
+  AA:
+    - Caso com&uacute;n.
+    - null
+  AT:
+    - Portador de la anemia de Fanconi.
+    - false
+  TT:
+    - Padeces de la anemia de Fanconi.
+    - false
+i4000412:
+  GG:
+    - Caso com&uacute;n.
+    - null
+  AG:
+    - Portador de la anemia de Fanconi.
+    - false
+  AA:
+    - Padeces de la anemia de Fanconi.
+    - false
+i4000413:
+  II:
+    - Caso com&uacute;n.
+    - null
+  DI:
+    - Portador de la anemia de Fanconi.
+    - false
+  DD:
+    - Padeces de la anemia de Fanconi.
+    - false
+rs104895094:
+  AA:
+    - Caso com&uacute;n.
+    - null
+  AG:
+    - Portadora de una mutaci&oacute;n fiebre mediterr&aacute;nea familiar.
+    - false
+  GG:
+    - Padeces de una fiebre mediterr&aacute;nea familiar.
+    - false
+rs3743930:
+  CC:
+    - Puede padecer fiebre mediterr&aacute;nea.
+    - false
+  CG:
+    - Puede padecer fiebre mediterr&aacute;nea.
+    - false
+  GG:
+    - Caso com&uacute;n.
+    - null
+rs11466023:
+  CC:
+    - Caso com&uacute;n.
+    - null
+  CT:
+    - Puede padecer fiebre mediterr&aacute;nea.
+    - false
+  TT:
+    - Puede padecer fiebre mediterr&aacute;nea.
+    - false
+rs137853022:
+  CG:
+    - Portador de la mutaci&oacute;n disautonom&iacute;a familiar
+    - false
+  GG:
+    - Caso com&uacute;n.
+    - null
+rs3918290:
+  AA:
+    - Toxicidad 5-fluorouracilo, dihidropirimidina deshidrogenasa.
+    - false
+  AG:
+    - Cierta toxicidad, portador de dihidropirimidina deshidrogenasa 5-fluorouracilo.
+    - false
+  GG:
+    - Caso com&uacute;n.
+    - null
+rs75527207:
+  AA:
+    - Homocigotos doble para la fibrosis qu&iacute;stica G551D.
+    - false
+  AG:
+    - Portador homocigotos doble para la fibrosis qu&iacute;stica G551D.
+    - false
+  GG:
+    - Caso com&uacute;n.
+    - null
+rs2395029:
+  GG:
+    - Alto riesgo de hipersensibilidad a varios f&aacute;rmacos, incluyendo abacavir; riesgo de la psoriasis.
+    - false
+  GT:
+    - Posible riesgo de hipersensibilidad a varios f&aacute;rmacos, incluyendo abacavir; riesgo de la psoriasis.
+    - false
+  TT:
+    - Caso com&uacute;n.
+    - null
+rs4244285:
+  AA:
+    - Metabolizador lento de varios medicamentos populares; pacientes con prescripci&oacute;n de Plavix disminuyendo su efectividad, y tienen mayor riesgo de eventos cardiovasculares adversos.
+    - false
+  AG:
+    - Pobre metabolizador de varios medicamentos populares; pacientes con prescripci&oacute;n de Plavix disminuyendo su efectividad, y tienen mayor riesgo de eventos cardiovasculares adversos.
+    - false
+  GG:
+    - Caso com&uacute;n.
+    - null
+rs28399504:
+  AA:
+    - Caso com&uacute;n.
+    - null
+  AG:
+    - Metabolizador lento
+    - null
+  GG:
+    - Peor metabolizador
+    - false
+rs55886062:
+  AA:
+    - Caso com&uacute;n.
+    - null
+  AC:
+    - Portador Toxicidad 5-fluorouracilo.
+    - false
+  CC:
+    - Toxicidad 5-fluorouracilo.
+    - false
+rs8099917:
+  GG:
+    - Menor probabilidad de responder al tratamiento con PEG-IFNalpha / RBV.
+    - false
+  GT:
+    - Moderadamente menor probabilidad de responder al tratamiento con PEG-IFNalpha / RBV.
+    - false
+  TT:
+    - Caso com&uacute;n.
+    - null
+rs28933389:
+  CC:
+    - Caso com&uacute;n.
+    - null
+  CT:
+    - Portador de deficiencia seudocolinesterasa.
+    - false
+  TT:
+    - Padece deficiencia seudocolinesterasa.
+    - false
+rs1057910:
+  AA:
+    - Normal; ning&uacute;n efecto sobre el metabolismo de la warfarina.
+    - true
+  AC:
+    - Portador; reducción media del 40% en el metabolismo de la warfarina.
+    - false
+  CC:
+    - Reducci&oacute;n media del 80% en el metabolismo de la warfarina; la reducci&oacute;n del metabolismo de otros f&aacute;rmacos.
+    - false

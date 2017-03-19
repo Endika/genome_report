@@ -52,6 +52,15 @@ class GenomeReport():
             data_tmp[data[0]] = [data[1], data[3]]
         self.genoma_data = data_tmp
 
+    def search_alelo(self, genotype_lts):
+        """Detect alelo for example -C return C."""
+        for genotype in genotype_lts:
+            if '-' in genotype:
+                alelo = genotype.replate('-', '')
+                if len(alelo) == 1:
+                    return alelo, genotype
+        return False, False
+
     def check_snp(self, snp_list):
         """Check SNP and return results."""
         result = []
@@ -66,6 +75,11 @@ class GenomeReport():
                 genotype_results = self.snp.get(snp, False)
                 if genotype_results:
                     result_info = genotype_results.get(genotype, False)
+                    if not result_info:
+                        alelo, key = self.search_alelo(genotype_results.keys())
+                        if alelo:
+                            if alelo in genotype:
+                                result_info = genotype_results[key]
                     if result_info:
                         result.append({
                             'snp': snp,
