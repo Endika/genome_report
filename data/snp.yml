@@ -94,7 +94,7 @@ rs1800497:
     - false
 rs1805007:
   CC:
-    - No eres pelirojo.
+    - No eres pelirojo. Pocas pecas.
     - true
   CT:
     - Eres portador de una variante al pelo rojo, por lo tanto mayor riesgo de melanoma
@@ -1393,7 +1393,7 @@ i3003626:
     - false
 rs2910164:
   CG:
-    - Alta probabilidad.
+    - Probabilidad.
     - false
   GG:
     - Normal
@@ -1632,4 +1632,135 @@ rs6625163:
     - null
   GG:
     - Normal
+    - null
+rs2003046:
+  AA:
+    - Muy bajo riesgo.
+    - true
+  AC:
+    - Muy muy muy bajo riesgo.
+    - true
+  CC:
+    - Riesgo normal.
+    - true
+rs2073963:
+  GG:
+    - Mucho riesgo.
+    - false
+  GT:
+    - Riesgo.
+    - false
+  TT:
+    - Riesgo normal.
+    - true
+rs8085664:
+  AA:
+    - Riesgo muy reducido.
+    - true
+  AC:
+    - Riesgo reducido.
+    - true
+  CC:
+    - Riesgo normal.
+    - false
+rs10871777:
+  AA:
+    - Normal
+    - true
+  AG:
+    - IMC probablemente alto.
+    - false
+  GG:
+    - IMC probablemente muy alto.
+    - false
+rs12970134:
+  AA:
+    - Cintura para adultos más grande que el promedio 1.8cm.
+    - null
+  AG:
+    - Cintura para adultos más grande que el promedio 0.9cm.
+    - null
+  GG:
+    - Normal
+    - null
+rs17070145:
+  CC:
+    - Reducido la habilidad de memor&iacute;a.
+    - false
+  CT:
+    - Incremento de la habilidad de memor&iacute;a.
+    - true
+  TT:
+    - Muy incrementado de la habilidad de memor&iacute;a.
+    - true
+rs16991615:
+  AA:
+    - La edad de la menopausia incrementa 22 meses.
+    - true
+  AG:
+    - La edad de la menopausia incrementa 11 meses.
+    - true
+  GG:
+    - Normal.
+    - null
+rs10427255:
+  CC:
+    - Alta probabilidad de reflejo estornudo photic
+    - null
+  TT:
+    - Baja probabilidad de reflejo estornudo photic
+    - null
+rs5082:
+  CC:
+    - Grasas saturadas contribuye a la obesidad, pero 0,57% menor riesgo de enfermedad coronaria.
+    - null
+  CT:
+    - Riesgo normal.
+    - null
+  TT:
+    - Riesgo normal.
+    - null
+rs662799:
+  AA:
+    - Normal.
+    - true
+  AG:
+    - Mayor riesgo de ataque card&iacute;aco temprano; Menos aumento de peso en las dietas altas en grasa.
+    - false
+  GG:
+    - Muy alto riesgo de ataque card&iacute;aco temprano; Menos aumento de peso en las dietas altas en grasa.
+    - false
+rs1800588:
+  CC:
+    - Nivel normal de HDL-C
+    - false
+  CT:
+    - Nivel alto de HDL-C
+    - true
+  TT:
+    - Nivel alto de HDL-C
+    - true
+rs4994:
+  CC:
+    - Nivel muy alto a ciertas mujeres de parecer eventos cardiacos.
+    - false
+  CT:
+    - Nivel alto a ciertas mujeres de parecer eventos cardiacos.
+    - false
+  TT:
+    - Normal.
+    - true
+rs2937573:
+  GG:
+    - Mayor aumento en sensibilidad a los sonidos.
+    - null
+rs838133:
+  CC:
+    - Bajas probabilidades que prefieras algo dulce.
+    - null
+  CT:
+    - Normal probabilidad que prefieras algo dulce.
+    - null
+  TT:
+    - Alta probabilidad que prefieras algo dulce.
     - null

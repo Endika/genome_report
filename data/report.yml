@@ -8,9 +8,10 @@ health:
         null: runner.png
       snp:
         - rs1815739
-    - title: Probabilidad de c&aacute;
+    - title: Probabilidad de c&aacute;ncer
       snp:
         - rs2910164
+      default: Felicidades parece que no pasa nada.
     - title: Diabetes tipo 2
       snp:
         - rs9939609
@@ -21,6 +22,8 @@ health:
       snp:
         - rs662799
         - rs10757278
+        - rs4994
+      default: Eres un TORO!
     - title: Dependencia al alcohol
       snp:
         - rs1799971
@@ -41,6 +44,7 @@ health:
     - title: Falta de hierro?
       snp:
         - rs1799945
+      default: Menudo lobezno est&aacute;s hecho.
     - title: Tombosis e infarto cerebral
       snp:
         - rs1799963
@@ -66,6 +70,7 @@ health:
     - title: Riesgo de miopat&iacute;a.
       snp:
         - rs4149056
+      default: La vista igual que la de un &aacute;guila.
     - title: Hipersensibilidad
       snp:
         - rs2395029
@@ -311,6 +316,10 @@ features:
       snp:
         - rs6152
         - rs6625163
+        - rs2003046
+        - rs2073963
+        - rs8085664
+      default: Felicidades! vas a mantener ese pelazo que tienes.
     - title: Color de ojos
       snp:
         - rs7495174
@@ -321,6 +330,7 @@ features:
     - title: Memor&iacute;a y atenci&oacute;n
       snp:
         - rs4680
+        - rs17070145
     - title: Pron&oacute;stico del tama&ntilde;o del bebe
       snp:
         - rs1799884
@@ -370,6 +380,21 @@ features:
     - title: Altura
       snp:
         - rs1042725
+    - title: Tama&ntilde;o de cintura
+      snp:
+        - rs12970134
+    - title: Menopausia
+      snp:
+        - rs16991615
+    - title: Reflejo estornudo photic
+      snp:
+        - rs10427255
+    - title: Sensibilidad a los sonidos
+      snp:
+        - rs2937573
+    - title: Prefieres algo dulce?
+      snp:
+        - rs838133
 diet:
   title: Dieta
   icon: diet.png
@@ -377,6 +402,7 @@ diet:
     - title: Intolerante a la lactosa?
       snp:
         - rs4988235
+      default: Felicidades! comete un cabrales a tu salud.
     - title: C&oacute;mo perder peso?
       snp:
         - rs4994
@@ -387,6 +413,14 @@ diet:
     - title: Intolerancia al azucar?
       snp:
         - rs1800546
+      default: Felicidades! una onza de chocolate a tu salud.
     - title: Probabilidad de tener un IMC alto
       snp:
         - rs17782313
+        - rs10871777
+    - title: Riesgo de obesidad
+      snp:
+        - rs5082
+    - title: Niveles HDL-C que afecta al colesterol.
+      snp:
+        - rs1800588

@@ -116,6 +116,14 @@ class GenomeReport():
                         test_result['repute'], False)
                 if test_result['snp'] and len(test_result['snp']) > 0:
                     result[category]['data'].append(test_result)
+                elif test_data.get('default', False):
+                    test_result['default'] = test_data['default']
+                    test_result['repute'] = True
+                    result[category]['data'].append(test_result)
+                else:
+                    test_result['default'] = 'No hay informaci&oacute;n.'
+                    test_result['repute'] = None
+                    result[category]['data'].append(test_result)
             # if len(result[category]['data']) <= 0:
             #     del result[category]
         self.render({'result': result})
