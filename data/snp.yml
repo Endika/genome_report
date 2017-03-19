@@ -741,7 +741,7 @@ rs4149056:
     - null
 rs10757278:
   AA:
-    - riesgo reducido de enfermedad cardiaca coronaria. Riesgo reducido de aneurisma cerebral y aneurisma aórtico abdominal.
+    - riesgo reducido de enfermedad cardiaca coronaria. Riesgo reducido de aneurisma cerebral y aneurisma a&oacute;rtico abdominal.
     - true
   AG:
     - Riesgo de ataque al coraz&oacute;n. Riesgo normal de un aneurisma a&oacute;rtico abdominal y aneurisma cerebral.
@@ -1299,7 +1299,7 @@ rs1057910:
     - Normal; ning&uacute;n efecto sobre el metabolismo de la warfarina.
     - true
   AC:
-    - Portador; reducción media del 40% en el metabolismo de la warfarina.
+    - Portador; reducci&oacute;n media del 40% en el metabolismo de la warfarina.
     - false
   CC:
     - Reducci&oacute;n media del 80% en el metabolismo de la warfarina; la reducci&oacute;n del metabolismo de otros f&aacute;rmacos.
