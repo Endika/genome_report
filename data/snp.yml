@@ -207,10 +207,10 @@ rs1801133:
     - Común, niveles normales de homociste&iacute;na.
     - true
   CT:
-    - Riesgo, nivel de procesamiento del acido f&oacute;lico menor. Este aelo esta relacionado a multiples posibles trastornos (autismo, c&aacute;ncer g&aacute;strico, de pulm&oacute;n, renal..., depresi&oacute;n, migraña, esquizofrenia, trombosis, sindrome de Down..)
+    - Riesgo, nivel de procesamiento del acido f&oacute;lico menor. Este aelo esta relacionado a multiples posibles trastornos (autismo, c&aacute;ncer g&aacute;strico, de pulm&oacute;n, renal..., depresi&oacute;n, migra&ntilde;a, esquizofrenia, trombosis, sindrome de Down..)
     - false
   TT:
-    - Alto riesgo, nivel de procesamiento del acido f&oacute;lico muy bajo y homociste&iacute;na elevada. Este aelo esta relacionado a multiples posibles trastornos (autismo, c&aacute;ncer g&aacute;strico, de pulm&oacute;n, renal..., depresi&oacute;n, migraña, esquizofrenia, trombosis, sindrome de Down..)
+    - Alto riesgo, nivel de procesamiento del acido f&oacute;lico muy bajo y homociste&iacute;na elevada. Este aelo esta relacionado a multiples posibles trastornos (autismo, c&aacute;ncer g&aacute;strico, de pulm&oacute;n, renal..., depresi&oacute;n, migra&ntilde;a, esquizofrenia, trombosis, sindrome de Down..)
     - false
 rs9340799:
   AA:
@@ -466,11 +466,11 @@ rs200511261:
     - Caso com&uacute;n.
     - null
   GG:
-    - Poliquistico enfermedad en los riñones.
+    - Poliquistico enfermedad en los ri&ntilde;ones.
     - false
 rs369925690:
   CC:
-    - Poliquistico enfermedad en los riñones.
+    - Poliquistico enfermedad en los ri&ntilde;ones.
     - false
   CT:
     - Portador de una mutaci&oacute;n de enfermedad renal poliqu&iacute;stica.
@@ -486,7 +486,7 @@ rs137852944:
     - Portador de una mutaci&oacute;n de enfermedad renal poliqu&iacute;stica.
     - false
   TT:
-    - Poliquistico enfermedad en los riñones.
+    - Poliquistico enfermedad en los ri&ntilde;ones.
     - false
 rs11549407:
   CC:
@@ -1304,3 +1304,332 @@ rs1057910:
   CC:
     - Reducci&oacute;n media del 80% en el metabolismo de la warfarina; la reducci&oacute;n del metabolismo de otros f&aacute;rmacos.
     - false
+rs1800460:
+  AA:
+    - Incapaz de desintoxicaci&oacute;n de subproductos de ciertos medicamentos.
+    - false
+  AG:
+    - Alteraci&oacute;n del metabolismo de drogas.
+    - false
+  GG:
+    - Caso com&uacute;n.
+    - null
+rs1142345:
+  AA:
+    - Caso com&uacute;n.
+    - null
+  AG:
+    - Alteraci&oacute;n del metabolismo.
+    - false
+  GG:
+    - Posiblemente incapaz de desintoxicaci&oacute;n de ciertas drogas.
+    - false
+rs1800462:
+  CC:
+    - Incapaz de desintoxicaci&oacute;n de ciertos medicamentos.
+    - false
+  CG:
+    - La capacidad de desintoxicaci&oacute;n de ciertos medicamentos puede verse disminuida.
+    - false
+  GG:
+    - Caso com&uacute;n.
+    - null
+rs1057910:
+  AA:
+    - Ning&uacute;n efecto sobre el metabolismo de la warfarina.
+    - null
+  AC:
+    - Portador; reducci&oacute;n media del 40% en el metabolismo de la warfarina.
+    - false
+  CC:
+    - Reducci&oacute;n media del 80% en el metabolismo de la warfarina; y la reducci&oacute;n del metabolismo de otros f&aacute;rmacos.
+    - false
+rs12979860:
+  TT:
+    - 20-25% de los pacientes de hepatitis C responde al tratamiento.
+    - false
+  CC:
+    - 80% de los pacientes de hepatitis C responde al tratamiento.
+    - true
+  CT:
+    - 20-40% de los pacientes de hepatitis C responde al tratamiento.
+    - false
+rs6265:
+  AG:
+    - Habilidades motoras con discapacidad de aprendizaje?.
+    - false
+  AA:
+    - Introversi&oacute;n, resistente a la depresi&oacute;n, problemas de aprendizaje habilidades motoras.
+    - false
+  GG:
+    - Normal.
+    - null
+rs1800629:
+  GG:
+    - Normal.
+    - true
+  AA:
+    - Riesgo alto.
+    - false
+  AG:
+    - Riesgo alto
+    - false
+rs25531:
+  AA:
+    - Nivel bajo de serotonina, un poco menos feliz.
+    - null
+  GG:
+    - Menos sensible al dolor.
+    - null
+i3003626:
+  DD:
+    - Muy resistente al VIH.
+    - true
+  DI:
+    - Resistente al VIH.
+    - true
+  II:
+    - No resistente.
+    - false
+rs2910164:
+  CG:
+    - Alta probabilidad.
+    - false
+  GG:
+    - Normal
+    - null
+  CC:
+    - Muy alta.
+    - false
+rs6983267:
+  GT:
+    - Riesgo de c&aacute;ncer de pr&oacute;stata, la aspirina reduce el riesgo de c&aacute;ncer colorrectal.
+    - false
+  GG:
+    - Mayor riesgo de c&aacute;ncer de pr&oacute;stata, tambi&eacute;n otros tipos de c&aacute;ncer.
+    - false
+  TT:
+    - Riesgo normal.
+    - null
+rs738409:
+  CC:
+    - Alta probabilidad de enfermedad hep&aacute;tica alcoh&oacute;lica, y aumento de grasa en el h&iacute;gado.
+    - false
+  GG:
+    - Normal
+    - null
+  CG:
+    - Aumento de grasa en el h&iacute;gado, las probabilidades de enfermedad hep&aacute;tica alcoh&oacute;lica.
+    - false
+rs2476601:
+  GG:
+    - Normal.
+    - null
+  AG:
+    - Riesgo muy alto.
+    - false
+  AA:
+    - Riesgo de la artritis reumatoide y otras enfermedades autoinmunes.
+    - false
+rs7574865:
+  GG:
+    - Riesgo normal de la artritis reumatoide, lupus eritematoso sist&eacute;mico, s&iacute;ndrome de Sj&ouml;gren, diabetes de tipo 1, y la cirrosis biliar primaria.
+    - null
+  GT:
+    - Riesgo de la artritis reumatoide, lupus eritematoso sist&eacute;mico, s&iacute;ndrome de Sj&ouml;gren, diabetes de tipo 1, y la cirrosis biliar primaria.
+    - false
+  TT:
+    - Alto riesgo de la artritis reumatoide, lupus eritematoso sist&eacute;mico, s&iacute;ndrome de Sj&ouml;gren, diabetes de tipo 1, y la cirrosis biliar primaria.
+    - false
+rs1800795:
+  GG:
+    - Alto
+    - false
+  CG:
+    - Complejo de definir.
+    - false
+  CC:
+    - Bajo
+    - true
+rs8050136:
+  AA:
+    - Alto riesgo.
+    - false
+  CC:
+    - Normal
+    - null
+  AC:
+    - Riesgo
+    - false
+rs10490924:
+  TT:
+    - Altisimo, riesgo de degeneraci&oacute;n por la edad.
+    - false
+  GG:
+    - Normal.
+    - null
+  GT:
+    - Riesgo de degeneraci&oacute;n.
+    - false
+rs780094:
+  AA:
+    - Riesgo
+    - false
+  AG:
+    - Riesgo
+    - false
+  GG:
+    - Normal
+    - null
+rs11209026:
+  AA:
+    - Riesgo
+    - false
+  AG:
+    - Riesgo
+    - false
+  GG:
+    - Normal
+    - null
+rs17782313:
+  CT:
+    - Probabilidad de tenerlo muy alto.
+    - false
+  TT:
+    - Normal.
+    - null
+  CC:
+    - Probabilidad de tenerlo alto.
+    - false
+rs16969968:
+  GG:
+    - Normal.
+    - null
+  AA:
+    - Muy alta y alta dependencia a la coca&iacute;na.
+    - false
+  AG:
+    - Riego de depedencia bajo.
+    - false
+rs11614913:
+  CT:
+    - Normal.
+    - null
+  CC:
+    - Riesgo Alto.
+    - false
+  TT:
+    - Riesgo ligero.
+    - false
+rs4481887:
+  AA:
+    - Muy probable para oler metabolitos de esp&aacute;rragos en orina.
+    - null
+  AG:
+    - Muy probable para oler metabolitos de esp&aacute;rragos en orina.
+    - null
+  GG:
+    - Poco probable para oler metabolitos de esp&aacute;rragos en orina.
+    - null
+rs12821256:
+  CC:
+    - Muy alta probabilidad de tener pelo rubio
+    - null
+  CT:
+    - Probabilidad de tener pelo rubio
+    - null
+  TT:
+    - Normal
+    - null
+rs1667394:
+  AA:
+    - Probabilidad de ser rubio y ojos azules.
+    - null
+  GG:
+    - Probable que la piel sea m&aacute;s oscura.
+    - null
+rs7816345:
+  CC:
+    - Mayor tama&ntilde;o de senos.
+    - null
+  CT:
+    - Tama&ntilde;o de senos m&aacute;s peque&ntilde;os.
+    - null
+  TT:
+    - Tama&ntilde;o muy peque&ntilde;o.
+    - null
+rs2472297:
+  CC:
+    - Normal.
+    - true
+  CT:
+    - Incremento del consumo de cafe&iacute;na
+    - null
+  TT:
+    - Incremento del consumo de cafe&iacute;na
+    - null
+rs762551:
+  AA:
+    - Muy r&aacute;pido.
+    - null
+  AC:
+    - Lenta.
+    - null
+  CC:
+    - Lenta.
+    - null
+rs7759938:
+  CC:
+    - Aprox. 2 meses tarde.
+    - null
+  CT:
+    - Aprox. 1 mes tarde.
+    - null
+  TT:
+    - Normal.
+    - null
+rs4778138:
+  AA:
+    - Pecoso.
+    - null
+rs17646946:
+  AA:
+    - Rizo recto.
+    - null
+rs7349332:
+  CC:
+    - Pelo liso.
+    - null
+  TT:
+    - Pelo rizado
+    - null
+rs3827760:
+  CC:
+    - M&aacute;s recto, cabello m&aacute;s grueso, y el aumento de las probabilidades de tener incisivos en forma de pala.
+    - null
+  CT:
+    - Recto, cabello m&aacute;s grueso, y el aumento de las probabilidades de tener incisivos en forma de pala.
+    - null
+  TT:
+    - Normal.
+    - null
+rs1042725:
+  CC:
+    - Aprox. 0.8cm m&aacute;s alto
+    - null
+  CT:
+    - Aprox. 0.4cm m&aacute;s alto
+    - null
+  TT:
+    - Media normal.
+    - null
+rs6625163:
+  AA:
+    - Riesgo alto.
+    - false
+  AG:
+    - Normal
+    - null
+  GG:
+    - Normal
+    - null
