@@ -313,16 +313,6 @@ rs1042714:
   CC:
     - Eres un privilegiado cualquier dieta es buena para ti.
     - true
-rs17580:
-  AA:
-    - No padeces la enfermedad.
-    - true
-  AT:
-    - Tienes una variantes de deficiencia antitripsina.
-    - false
-  TT:
-    - Tienes muy poco de la variante de deficiencia antitripsina.
-    - false
 rs7151526:
   AA:
     - Posible riesgo de ANCA asociado a vasculitis.
@@ -1675,10 +1665,10 @@ rs10871777:
     - false
 rs12970134:
   AA:
-    - Cintura para adultos más grande que el promedio 1.8cm.
+    - Cintura para adultos m&aacute;s grande que el promedio 1.8cm.
     - null
   AG:
-    - Cintura para adultos más grande que el promedio 0.9cm.
+    - Cintura para adultos m&aacute;s grande que el promedio 0.9cm.
     - null
   GG:
     - Normal
@@ -1764,3 +1754,23 @@ rs838133:
   TT:
     - Alta probabilidad que prefieras algo dulce.
     - null
+rs28929474:
+  AA:
+    - Padeces EPOC.
+    - false
+  AG:
+    - Portador EPOC.
+    - false
+  GG:
+    - Normal.
+    - true
+rs17580:
+  AA:
+    - Normal.
+    - true
+  AT:
+    - Portador EPOC.
+    - false
+  TT:
+    - Padeces EPOC.
+    - false

@@ -56,7 +56,7 @@ class GenomeReport():
         """Detect alelo for example -C return C."""
         for genotype in genotype_lts:
             if '-' in genotype:
-                alelo = genotype.replate('-', '')
+                alelo = genotype.replace('-', '')
                 if len(alelo) == 1:
                     return alelo, genotype
         return False, False

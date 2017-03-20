@@ -133,7 +133,6 @@ diseases:
       snp:
         - rs121908747
         - rs113993960
-        - rs17580
         - rs7151526
         - i4000320
         - rs75527207
@@ -291,6 +290,10 @@ diseases:
     - title: Riesgo de IL6
       snp:
         - rs1800795
+    - title: EPOC enfermedad pulmonar obstructiva cr&oacute;nica
+      snp:
+        - rs28929474
+        - rs17580
 social:
   title: Social
   icon: social.png
