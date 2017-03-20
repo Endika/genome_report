@@ -15,6 +15,8 @@ pip install -r requirements.txt
 
 ```
 python report.py -g my_genome_file.txt -f html
+
+python report.py -g demo/male01.txt
 ```
 
 # TODO

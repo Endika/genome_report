@@ -86,9 +86,6 @@ health:
         - rs1800460
         - rs1142345
         - rs1800462
-    - title: Metabolismo de la warfarina
-      snp:
-        - rs1057910
     - title: Riesgo de trastornos autoinmunes
       snp:
         - rs2476601
@@ -398,6 +395,18 @@ features:
     - title: Prefieres algo dulce?
       snp:
         - rs838133
+    - title: Dislexia
+      snp:
+        - rs793862
+        - rs807701
+    - title: Dalt&oacute;nico
+      snp:
+        - rs35104847
+        - rs5989620
+        - i5005855
+        - rs2315122
+        - rs2315123
+        - i5005856
 diet:
   title: Dieta
   icon: diet.png

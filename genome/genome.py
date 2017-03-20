@@ -52,14 +52,15 @@ class GenomeReport():
             data_tmp[data[0]] = [data[1], data[3]]
         self.genoma_data = data_tmp
 
-    def search_alelo(self, genotype_lts):
-        """Detect alelo for example -C return C."""
-        for genotype in genotype_lts:
+    def search_alelo(self, genotype_results, g):
+        """Detect alelo for example -C."""
+        for genotype in genotype_results.keys():
             if '-' in genotype:
                 alelo = genotype.replace('-', '')
                 if len(alelo) == 1:
-                    return alelo, genotype
-        return False, False
+                    if alelo in g:
+                        return genotype_results[genotype]
+        return False
 
     def check_snp(self, snp_list):
         """Check SNP and return results."""
@@ -76,10 +77,8 @@ class GenomeReport():
                 if genotype_results:
                     result_info = genotype_results.get(genotype, False)
                     if not result_info:
-                        alelo, key = self.search_alelo(genotype_results.keys())
-                        if alelo:
-                            if alelo in genotype:
-                                result_info = genotype_results[key]
+                        result_info = self.search_alelo(
+                            genotype_results, genotype)
                     if result_info:
                         result.append({
                             'snp': snp,
@@ -121,7 +120,8 @@ class GenomeReport():
                     test_result['repute'] = True
                     result[category]['data'].append(test_result)
                 else:
-                    test_result['default'] = 'No hay informaci&oacute;n.'
+                    test_result['default'] = '''
+No hay resultados que cumplan los criterios.'''
                     test_result['repute'] = None
                     result[category]['data'].append(test_result)
             # if len(result[category]['data']) <= 0:

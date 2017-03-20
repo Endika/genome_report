@@ -1324,16 +1324,6 @@ rs1800462:
   GG:
     - Caso com&uacute;n.
     - null
-rs1057910:
-  AA:
-    - Ning&uacute;n efecto sobre el metabolismo de la warfarina.
-    - null
-  AC:
-    - Portador; reducci&oacute;n media del 40% en el metabolismo de la warfarina.
-    - false
-  CC:
-    - Reducci&oacute;n media del 80% en el metabolismo de la warfarina; y la reducci&oacute;n del metabolismo de otros f&aacute;rmacos.
-    - false
 rs12979860:
   TT:
     - 20-25% de los pacientes de hepatitis C responde al tratamiento.
@@ -1383,8 +1373,8 @@ i3003626:
     - false
 rs2910164:
   CG:
-    - Probabilidad.
-    - false
+    - Probabilidad
+    - null
   GG:
     - Normal
     - null
@@ -1774,3 +1764,47 @@ rs17580:
   TT:
     - Padeces EPOC.
     - false
+rs793862:
+  AA:
+    - Riesgo de dislexia.
+    - false
+  AG:
+    - Riesgo de dislexia.
+    - null
+  GG:
+    - Normal
+    - true
+rs807701:
+  CC:
+    - Riesgo de dislexia.
+    - false
+  CT:
+    - Bajo riesgo de dislexia.
+    - false
+  TT:
+    - Normal
+    - true
+rs35104847:
+  GG:
+    - Riesgo.
+    - null
+rs5989620:
+  GG:
+    - Riesgo.
+    - null
+i5005855:
+  TT:
+    - Riesgo.
+    - null
+rs2315122:
+  AA:
+    - Riesgo.
+    - null
+rs2315123:
+  TT:
+    - Riesgo.
+    - null
+i5005856:
+  GG:
+    - Riesgo.
+    - null
