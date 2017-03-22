@@ -13,18 +13,22 @@ import yaml
 class GenomeReport():
     """Genome report."""
 
-    conf = {'report': 'data/report.yml',
-            'snp': 'data/snp.yml',
-            'report_format': 'html',
-            'output_name': 'my_report'}
+    conf = {}
     report = {}
     snp = {}
     genoma_data = {}
 
-    def __init__(self, genome_file, report_format='html'):
+    def __init__(self, genome_file,
+                 report_format='html',
+                 output='my_report', lang='es'):
         """Init."""
-        self.conf['genome_file'] = genome_file
-        self.conf['report_format'] = report_format
+        self.conf = {
+            'genome_file': genome_file,
+            'report_format': report_format,
+            'output_name': output,
+            'report': 'data/{}/report.yml'.format(lang),
+            'snp': 'data/{}/snp.yml'.format(lang)
+        }
         self.load_files()
 
     def render(self, context, template='template/report.html'):
