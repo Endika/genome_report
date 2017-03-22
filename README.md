@@ -22,3 +22,4 @@ python report.py -g demo/male01.txt
 # TODO
 - Desing report
 - Add more SNP in report
+- Multi language
