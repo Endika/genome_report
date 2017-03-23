@@ -1,42 +1,42 @@
 rs429358:
   TT:
-    - Riesgo normal de padecer Alzheimer
+    - Normal risk of Alzheimer's disease.
     - true
   CT:
-    - Tienes un riesgo elevado de padecer Alzheimer. Si tienes problemas de coraz&oacute;n el riesgo aumenta.
+    - You have a high risk of Alzheimer's. If you have heart problems, the risk increases.
     - false
   CC:
-    - Tienes riesgo de padecer Alzheimer.
+    - You are at risk for Alzheimer's.
     - false
 rs7412:
   CC:
-    - Seguir un tratamiento con olanzapina, te probocar&aacute; un aumento de peso.
+    - Following a treatment with olanzapine will cause you to gain weight.
     - false
   CT:
-    - Seguir un tratamiento con olanzapina, te probocar&aacute; un aumento de peso.
+    - Following a treatment with olanzapine will cause you to gain weight.
     - false
   CC:
-    - Reacci&oacute;n normal al seguir un tratamiento con olanzapina.
+    - Normal reaction following treatment with olanzapine.
     - null
 rs1045485:
   CC:
-    - Riesgo bajo de padecer c&aacute;ncer de mama
+    - Low risk of breast cancer.
     - true
   CG:
-    - Riesgo muy bajo de padecer c&aacute;ncer de mama
+    - Very low risk of breast cancer.
     - true
   GG:
-    - Riesgo normal de padecer c&aacute;ncer de mama.
+    - Normal risk of breast cancer.
     - true
 rs1815739:
   CC:
-    - Gen&eacute;tica muscular la mejor, posible deportista profesional.
+    - Muscular genetics the best, possible professional athlete.
     - true
   CT:
-    - Gen&eacute;tica muscular mixta, posible velocista.
+    - Mixed muscle genetics, possible sprinter.
     - true
   TT:
-    - Alteraci&oacute;n del rendimiento muscular, posible corredor.
+    - Alteration of muscle performance, possible runner.
     - null
 rs53576:
   AA:

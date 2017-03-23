@@ -1,6 +1,6 @@
 rs429358:
   TT:
-    - Riesgo normal de padecer Alzheimer
+    - Riesgo normal de padecer Alzheimer.
     - true
   CT:
     - Tienes un riesgo elevado de padecer Alzheimer. Si tienes problemas de coraz&oacute;n el riesgo aumenta.
@@ -10,20 +10,20 @@ rs429358:
     - false
 rs7412:
   CC:
-    - Seguir un tratamiento con olanzapina, te probocar&aacute; un aumento de peso.
+    - Seguir un tratamiento con olanzapina, te provocar&aacute; un aumento de peso.
     - false
   CT:
-    - Seguir un tratamiento con olanzapina, te probocar&aacute; un aumento de peso.
+    - Seguir un tratamiento con olanzapina, te provocar&aacute; un aumento de peso.
     - false
   CC:
     - Reacci&oacute;n normal al seguir un tratamiento con olanzapina.
     - null
 rs1045485:
   CC:
-    - Riesgo bajo de padecer c&aacute;ncer de mama
+    - Riesgo bajo de padecer c&aacute;ncer de mama.
     - true
   CG:
-    - Riesgo muy bajo de padecer c&aacute;ncer de mama
+    - Riesgo muy bajo de padecer c&aacute;ncer de mama.
     - true
   GG:
     - Riesgo normal de padecer c&aacute;ncer de mama.

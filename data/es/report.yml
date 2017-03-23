@@ -32,7 +32,7 @@ health:
     - title: Riesgo de padecer una enfermedad coronaria
       snp:
         - rs1333049
-    - title: Riesgo de metabolismo de folato y/o varios c&aacute;ncer.
+    - title: Riesgo de metabolismo de folato y/o varios c&aacute;ncer
       snp:
         - rs1801133
     - title: Receptores de Estr&oacute;genos (Fertilidad)
@@ -45,11 +45,11 @@ health:
       snp:
         - rs1799945
       default: Menudo lobezno est&aacute;s hecho.
-    - title: Tombosis e infarto cerebral
+    - title: Trombosis e infarto cerebral
       snp:
         - rs1799963
         - rs6025
-    - title: Poliquistico?
+    - title: Poliqu&iacute;stico?
       snp:
         - rs200511261
         - rs369925690
