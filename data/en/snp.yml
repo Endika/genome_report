@@ -1661,95 +1661,95 @@ rs12970134:
     - Cintura para adultos m&aacute;s grande que el promedio 0.9cm.
     - null
   GG:
-    - Normal
+    - Normal.
     - null
 rs17070145:
   CC:
-    - Reducido la habilidad de memor&iacute;a.
+    - Reduced the ability to memorize.
     - false
   CT:
-    - Incremento de la habilidad de memor&iacute;a.
+    - Increased memorability.
     - true
   TT:
-    - Muy incrementado de la habilidad de memor&iacute;a.
+    - Highly increased memorability.
     - true
 rs16991615:
   AA:
-    - La edad de la menopausia incrementa 22 meses.
+    - The age of menopause increases by 22 months.
     - true
   AG:
-    - La edad de la menopausia incrementa 11 meses.
+    - The age of menopause increases by 11 months.
     - true
   GG:
     - Normal.
     - null
 rs10427255:
   CC:
-    - Alta probabilidad de reflejo estornudo photic
+    - High probability of photic sneezing reflex.
     - null
   TT:
-    - Baja probabilidad de reflejo estornudo photic
+    - Low probability of photic sneezing reflex.
     - null
 rs5082:
   CC:
-    - Grasas saturadas contribuye a la obesidad, pero 0,57% menor riesgo de enfermedad coronaria.
+    - Saturated fats contribute to obesity, but 0.57% lower risk of coronary heart disease.
     - null
   CT:
-    - Riesgo normal.
+    - Normal risk.
     - null
   TT:
-    - Riesgo normal.
+    - Normal risk.
     - null
 rs662799:
   AA:
     - Normal.
     - true
   AG:
-    - Mayor riesgo de ataque card&iacute;aco temprano; Menos aumento de peso en las dietas altas en grasa.
+    - Increased risk of early cardiac attack; Less weight gain in diets high in fat.
     - false
   GG:
-    - Muy alto riesgo de ataque card&iacute;aco temprano; Menos aumento de peso en las dietas altas en grasa.
+    - Very high risk of early cardiac attack; Less weight gain in diets high in fat.
     - false
 rs1800588:
   CC:
-    - Nivel normal de HDL-C
+    - Normal level HDL-C.
     - false
   CT:
-    - Nivel alto de HDL-C
+    - High level HDL-C.
     - true
   TT:
-    - Nivel alto de HDL-C
+    - High level HDL-C.
     - true
 rs4994:
   CC:
-    - Nivel muy alto a ciertas mujeres de parecer eventos cardiacos.
+    - Very high level for certain women to appear cardiac events.
     - false
   CT:
-    - Nivel alto a ciertas mujeres de parecer eventos cardiacos.
+    - High level of certain women to appear cardiac events.
     - false
   TT:
     - Normal.
     - true
 rs2937573:
   GG:
-    - Mayor aumento en sensibilidad a los sonidos.
+    - Greater increase in sensitivity to sounds.
     - null
 rs838133:
   CC:
-    - Bajas probabilidades que prefieras algo dulce.
+    - Low probability that you prefer something sweet.
     - null
   CT:
-    - Normal probabilidad que prefieras algo dulce.
+    - Normal probability that you prefer something sweet.
     - null
   TT:
-    - Alta probabilidad que prefieras algo dulce.
+    - High probability that you prefer something sweet.
     - null
 rs28929474:
   AA:
-    - Padeces EPOC.
+    - You have COPD.
     - false
   AG:
-    - Portador EPOC.
+    - EPOC carrier.
     - false
   GG:
     - Normal.
@@ -1759,54 +1759,54 @@ rs17580:
     - Normal.
     - true
   AT:
-    - Portador EPOC.
+    - EPOC carrier.
     - false
   TT:
-    - Padeces EPOC.
+    - You have COPD.
     - false
 rs793862:
   AA:
-    - Riesgo de dislexia.
+    - Risk of dyslexia.
     - false
   AG:
-    - Riesgo de dislexia.
+    - Risk of dyslexia.
     - null
   GG:
     - Normal
     - true
 rs807701:
   CC:
-    - Riesgo de dislexia.
+    - Risk of dyslexia.
     - false
   CT:
-    - Bajo riesgo de dislexia.
+    - Low risk of dyslexia.
     - false
   TT:
     - Normal
     - true
 rs35104847:
   GG:
-    - Riesgo.
+    - Risk.
     - null
 rs5989620:
   GG:
-    - Riesgo.
+    - Risk.
     - null
 i5005855:
   TT:
-    - Riesgo.
+    - Risk.
     - null
 rs2315122:
   AA:
-    - Riesgo.
+    - Risk.
     - null
 rs2315123:
   TT:
-    - Riesgo.
+    - Risk.
     - null
 i5005856:
   GG:
-    - Riesgo.
+    - Risk.
     - null
 rs9275596:
   CC:

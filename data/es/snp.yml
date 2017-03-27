@@ -1661,7 +1661,7 @@ rs12970134:
     - Cintura para adultos m&aacute;s grande que el promedio 0.9cm.
     - null
   GG:
-    - Normal
+    - Normal.
     - null
 rs17070145:
   CC:
@@ -1685,10 +1685,10 @@ rs16991615:
     - null
 rs10427255:
   CC:
-    - Alta probabilidad de reflejo estornudo photic
+    - Alta probabilidad de reflejo estornudo photic.
     - null
   TT:
-    - Baja probabilidad de reflejo estornudo photic
+    - Baja probabilidad de reflejo estornudo photic.
     - null
 rs5082:
   CC:
@@ -1712,13 +1712,13 @@ rs662799:
     - false
 rs1800588:
   CC:
-    - Nivel normal de HDL-C
+    - Nivel normal de HDL-C.
     - false
   CT:
-    - Nivel alto de HDL-C
+    - Nivel alto de HDL-C.
     - true
   TT:
-    - Nivel alto de HDL-C
+    - Nivel alto de HDL-C.
     - true
 rs4994:
   CC:
@@ -1736,7 +1736,7 @@ rs2937573:
     - null
 rs838133:
   CC:
-    - Bajas probabilidades que prefieras algo dulce.
+    - Baja probabilidad que prefieras algo dulce.
     - null
   CT:
     - Normal probabilidad que prefieras algo dulce.
