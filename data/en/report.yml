@@ -103,6 +103,10 @@ health:
     - title: Riesgo a padecer varios tipos de c&aacute;ncer
       snp:
         - rs11614913
+    - title: Peanut allergy?
+      snp:
+        - rs9275596
+        - rs7192
 diseases:
   title: Diseases
   icon: diseases.png

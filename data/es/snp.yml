@@ -1808,3 +1808,23 @@ i5005856:
   GG:
     - Riesgo.
     - null
+rs9275596:
+  CC:
+    - Muy al&eacute;rgico.
+    - false
+  CT:
+    - Al&eacute;rgico.
+    - false
+  TT:
+    - Normal
+    - null
+rs7192:
+  GG:
+    - Normal
+    - null
+  GT:
+    - Al&eacute;rgico.
+    - false
+  TT:
+    - Muy al&eacute;rgico.
+    - false

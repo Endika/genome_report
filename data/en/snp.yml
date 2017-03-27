@@ -1808,3 +1808,23 @@ i5005856:
   GG:
     - Riesgo.
     - null
+rs9275596:
+  CC:
+    - Increased risk.
+    - false
+  CT:
+    - Risk.
+    - false
+  TT:
+    - Normal
+    - null
+rs7192:
+  GG:
+    - Normal
+    - null
+  GT:
+    - Risk.
+    - false
+  TT:
+    - Increased risk.
+    - false
