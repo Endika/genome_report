@@ -58,11 +58,13 @@ class GenomeReport():
 
     def search_alelo(self, genotype_results, g):
         """Detect alelo for example -C."""
+        if '-' in g:
+            g = g.replace('-', '')
         for genotype in genotype_results.keys():
             if '-' in genotype:
                 alelo = genotype.replace('-', '')
                 if len(alelo) == 1:
-                    if alelo in g:
+                    if alelo == g or alelo == g[::-1]:
                         return genotype_results[genotype]
         return False
 
@@ -95,12 +97,12 @@ class GenomeReport():
                             elif result_info[1] is False:
                                 bad += 1
         if len(result) <= 0:
-            return False, False
+            return False, False, good, bad
         if good > bad:
             repute = True
         elif bad > good:
             repute = False
-        return result, repute
+        return result, repute, good, bad
 
     def make_report(self):
         """Create custom report."""
@@ -112,8 +114,7 @@ class GenomeReport():
                                 'data': []}
             for test_data in category_data['data']:
                 test_result = {'title': test_data['title']}
-                test_result['snp'], test_result['repute'] = self.check_snp(
-                    test_data['snp'])
+                test_result['snp'], test_result['repute'], test_result['good'], test_result['bad'] = self.check_snp(test_data['snp'])
                 if test_result['snp'] and test_data.get('icon_result', False):
                     test_result['icon'] = test_data['icon_result'].get(
                         test_result['repute'], False)

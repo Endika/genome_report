@@ -9,7 +9,7 @@
 
 <div class="jumbotron">
       <div class="container">
-        <h1 class="display-3">Informe gen&oacute;mico</h1>
+        <h1 class="display-3">Informe gen&eacute;tico</h1>
         <p></p>
       </div>
 </div>
@@ -25,7 +25,7 @@
 	{% for data in category.data %}
 		<div class="col-6 col-sm-4" style="padding-bottom: 15px;border: #eee 1px solid;">
 			<h4 style="{% if data.repute == None %}color:#777777;{% elif data.repute == True %}color:#5ece5e;{% elif data.repute == False %}color:rgb(255, 175, 175);{% endif %}">{% if data.icon %}<img src="{{ data.icon }}" />{% endif %}
-			{{ data.title }} {% if data.repute == None %}{% elif data.repute == True %}(Bueno){% elif data.repute == False %}(Malo){% endif %}</h4>
+			{{ data.title }} {% if data.repute == None %}{% elif data.repute == True %}(Bueno){% elif data.repute == False %}(Malo){% endif %} {{data.bad}}/{{data.good+data.bad}}</h4>
 			{% if data.snp %}
 			{% for snp in data.snp %}
 				<div style="padding: 1px 5px;">

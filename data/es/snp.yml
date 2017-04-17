@@ -1828,3 +1828,273 @@ rs7192:
   TT:
     - Muy al&eacute;rgico.
     - false
+rs1317286:
+  GG:
+    - Riesgo de padecer esquizofrenia.
+    - false
+  AG:
+    - Riesgo bajo de padecer esquizofrenia.
+    - false
+  AA:
+    - Sin riesgo.
+    - true
+rs56164415:
+  GG:
+    - Sin riesgo.
+    - true
+  AG:
+    - Riesgo bajo de padecer esquizofrenia.
+    - false
+  AA:
+    - Riesgo de padecer esquizofrenia.
+    - false
+rs12273539:
+  CC:
+    - Sin riesgo.
+    - true
+  CT:
+    - Riesgo bajo de padecer esquizofrenia.
+    - false
+  TT:
+    - Riesgo de padecer esquizofrenia.
+    - false
+rs12364283:
+  AA:
+    - Sin riesgo.
+    - true
+  AG:
+    - Riesgo bajo de padecer esquizofrenia.
+    - false
+  GG:
+    - Riesgo de padecer esquizofrenia.
+    - false
+rs1799732:
+  --:
+    - Riesgo de padecer esquizofrenia.
+    - false
+  CC:
+    - Sin riesgo.
+    - true
+  -C:
+    - Riesgo bajo de padecer esquizofrenia.
+    - false
+rs4648317:
+  CC:
+    - Normal.
+    - true
+  CT:
+    - Poca dependencia.
+    - false
+  TT:
+    - Alta dependencia.
+    - false
+rs1079727:
+  TT:
+    - Sin riesgo.
+    - true
+  CT:
+    - Riesgo bajo de padecer esquizofrenia.
+    - false
+  CC:
+    - Riesgo de padecer esquizofrenia.
+    - false
+rs1076560:
+  AA:
+    - Riesgo alto.
+    - false
+  AC:
+    - Riesgo bajo.
+    - false
+  CC:
+    - Normal.
+    - true
+rs1801028:
+  CC:
+    - Normal.
+    - true
+  CG:
+    - Riesgo de padecer.
+    - false
+  GG:
+    - Normal.
+    - true
+rs2242592:
+  AA:
+    - Sin riesgo.
+    - true
+  AG:
+    - Riesgo bajo de padecer esquizofrenia.
+    - false
+  GG:
+    - Riesgo de padecer esquizofrenia.
+    - false
+rs4320932:
+  AA:
+    - Sin riesgo.
+    - true
+  AG:
+    - Riesgo bajo de padecer c&aacute;ncer de ovarios.
+    - false
+  GG:
+    - Riesgo de padecer c&aacute;ncer de ovarios.
+    - false
+rs1108580:
+  AA:
+    - Sin riesgo.
+    - true
+  AG:
+    - Riesgo bajo de padecer esquizofrenia.
+    - false
+  GG:
+    - Riesgo de padecer esquizofrenia.
+    - false
+rs6994992:
+  CC:
+    - Sin riesgo.
+    - true
+  CT:
+    - Riesgo bajo de padecer esquizofrenia.
+    - false
+  TT:
+    - Riesgo de padecer esquizofrenia.
+    - false
+rs35753505:
+  CC:
+    - Sin riesgo.
+    - true
+  CT:
+    - Riesgo bajo de padecer esquizofrenia.
+    - false
+  TT:
+    - Riesgo de padecer esquizofrenia.
+    - false
+rs2270641:
+  TT:
+    - Sin riesgo.
+    - true
+  GT:
+    - Riesgo bajo de padecer esquizofrenia.
+    - false
+  GG:
+    - Riesgo de padecer esquizofrenia.
+    - false
+rs12720071:
+  CC:
+    - Dependencia al canibis.
+    - false
+  TT:
+    - Sin dependencia al canibis.
+    - true
+  CT:
+    - Dependencia baja al canabis.
+    - false
+rs8192625:
+  GG:
+    - Sin riesgo.
+    - true
+  AG:
+    - Riesgo bajo de padecer esquizofrenia.
+    - false
+  AA:
+    - Riesgo de padecer esquizofrenia.
+    - false
+rs3755557:
+  TT:
+    - Sin riesgo.
+    - true
+  AT:
+    - Riesgo bajo de padecer dislexia.
+    - false
+  AA:
+    - Riesgo de padecer dislexia.
+    - false
+rs3749034:
+  GG:
+    - Sin riesgo.
+    - true
+  AG:
+    - Riesgo bajo de padecer esquizofrenia.
+    - false
+  AA:
+    - Riesgo de padecer esquizofrenia.
+    - false
+rs7775228:
+  TT:
+    - Normal.
+    - true
+  CT:
+    - Al&eacute;rgico.
+    - false
+  CC:
+    - Muy al&eacute;rgico
+    - false
+rs6269:
+  AA:
+    - Normal.
+    - true
+  AG:
+    - Peligroso, la intoxicaci&oacute;n por mercurio puede provocar bajo rendimiento cognitivo
+    - false
+  GG:
+    - Peligroso muy alto, la intoxicaci&oacute;n por mercurio puede provocar bajo rendimiento cognitivo
+    - false
+rs5751876:
+  TT:
+    - Riesgo alto.
+    - false
+  CT:
+    - Normal.
+    - true
+  CC:
+    - Normal.
+    - true
+rs1800566:
+  GG:
+    - Normal.
+    - true
+  AG:
+    - Riesgo.
+    - false
+  AA:
+    - Riesgo alto.
+    - false
+rs2606345:
+  CC:
+    - Riesgo.
+    - false
+  AC:
+    - Riesgo bajo.
+    - false
+  AA:
+    - Normal.
+    - true
+rs4242382:
+  AA:
+    - Riesgo. Tu organismo no elimina correctamente lass toxinas.
+    - false
+  AG:
+    - Riesgo bajo. Tu organismo no elimina correctamente los toxinas.
+    - false
+  GG:
+    - Normal. Tu organismo elimina correctamente los toxinas.
+    - true
+rs2071517:
+  GG:
+    - No eres intolerante.
+    - true
+  AG:
+    - Algo intorelante, cuidado con ingerir ciertos alimentos.
+    - false
+  AA:
+    - Intolerante. Cuidado con ingerir ciertos alimentos.
+    - false
+rs662:
+  TT:
+    - Riesgo, mucho cuidado con ingerir alimentos con pesticidas, puede provocar c&aacute;ncer.
+    - false
+  CT:
+    - Riesgo bajo, cuidado con ingerir alimentos con pesticidas.
+    - false
+  CC:
+    - Normal.
+    - true

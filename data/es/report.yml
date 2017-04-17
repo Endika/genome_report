@@ -12,6 +12,10 @@ health:
       snp:
         - rs2910164
       default: Felicidades parece que no pasa nada.
+    - title: Riesgo de c&aacute;ncer pulmonar
+      snp:
+        - rs2606345
+      default: Felicidades parece que no pasa nada.
     - title: Diabetes tipo 2
       snp:
         - rs9939609
@@ -29,6 +33,7 @@ health:
         - rs1799971
         - rs671
         - rs738409
+        - rs1076560
     - title: Riesgo de padecer una enfermedad coronaria
       snp:
         - rs1333049
@@ -86,6 +91,9 @@ health:
         - rs1800460
         - rs1142345
         - rs1800462
+    - title: Dependencia al canabis
+      snp:
+        - rs12720071
     - title: Riesgo de trastornos autoinmunes
       snp:
         - rs2476601
@@ -104,10 +112,38 @@ health:
     - title: Riesgo a padecer varios tipos de c&aacute;ncer
       snp:
         - rs11614913
-    - title: Alergia al cacahuete?
+    - title: Alergia al polen?
       snp:
-        - rs9275596
-        - rs7192
+        - rs7775228
+    - title: Riesgo por toxidadad de mercurio?
+      snp:
+        - rs6269
+    - title: Riesgo de ansiedad y p&aacute;nico despu&eacute;s de la ingesti&oacute;n de cafe&iacute;na?
+      snp:
+        - rs5751876
+    - title: Riesgo de padecer estr&eacute;s?
+      snp:
+        - rs1800566
+    - title: Riesgo de esquizofrenia
+      snp:
+        - rs1317286
+        - rs56164415
+        - rs12273539
+        - rs12364283
+        - rs1799732
+        - rs1079727
+        - rs1801028
+        - rs2242592
+        - rs4320932
+        - rs1108580
+        - rs6994992
+        - rs35753505
+        - rs2270641
+        - rs8192625
+        - rs3749034
+    - title: Riesgo de dislexia
+      snp:
+        - rs3755557
 diseases:
   title: Enfermedades
   icon: diseases.png
@@ -124,6 +160,9 @@ diseases:
         - rs80357906
         - i4000377
         - rs80358959
+    - title: C&aacute;ncer de ovarios
+      snp:
+        - rs4320932
     - title: Resistencia del virus VIH
       snp:
         - rs333
@@ -309,6 +348,7 @@ social:
       snp:
         - rs1051730
         - rs16969968
+        - rs4648317
 features:
   title: Rasgos
   icon: features.png
@@ -415,10 +455,23 @@ diet:
   title: Dieta
   icon: diet.png
   data:
+    - title: Riesgo de padecer c&aacute;ncer de prostata por estar expuesto a pesticidas?
+      snp:
+        - rs4242382
+    - title: Tu cuerpo elimina los pesticidas ingeridos?
+      snp:
+        - rs662
     - title: Intolerante a la lactosa?
       snp:
         - rs4988235
       default: Felicidades! comete un cabrales a tu salud.
+    - title: Intolerancia a la histamina?
+      snp:
+        - rs2071517
+    - title: Alergia al cacahuete?
+      snp:
+        - rs9275596
+        - rs7192
     - title: C&oacute;mo perder peso?
       snp:
         - rs4994
