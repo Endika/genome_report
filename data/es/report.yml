@@ -3,9 +3,9 @@ health:
   icon: health.png
   data:
     - title: Gen&eacute;tica muscular
-      icon_result:
-        true: athlete.png
-        null: runner.png
+      # icon_result:
+      #   true: athlete.png
+      #   null: runner.png
       snp:
         - rs1815739
     - title: Probabilidad de c&aacute;ncer
@@ -383,9 +383,9 @@ features:
   icon: features.png
   data:
     - title: Seras calvo?
-      icon_result:
-        true: hair.png
-        null: bald_man.png
+      # icon_result:
+      #   true: hair.png
+      #   null: bald_man.png
       snp:
         - rs6152
         - rs6625163

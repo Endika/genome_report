@@ -27,18 +27,16 @@
 {% for key, category in result.iteritems() %}
 	<h3 onclick="showHide('{{key}}')">
 		{% if category.icon %}<img src="{{ category.icon }}" />{% endif %}
-		{{ category.title }}
+		{{ category.title }} <span style="font-size: 15px;">{{ category.data|length }}</span>
 	</h3>
 		<div id="{{key}}" class="row" style="display:none;padding: 0px 40px;">
-	{% for data in category.data %}
-		<table class="table" onclick="showHide('{{key}}_snp_{{ loop.index }}')">
+		<table class="table">
 			<thead>
 			</thead>
 			<tbody>
-      			<tr class="{% if data.repute == None %}active{% elif data.repute == True %}success{% elif data.repute == False %}danger{% endif %}">
-      			  <td style="border-top:none;"><h5 style="width: 50%;">{{ data.title }} <div style="float: right;margin-right: -90%;"><span>{{data.bad}}/{{data.total}}</span></div></h5></td>
-      			</tr>
-				<tr><td>
+	{% for data in category.data %}
+      			<tr class="{% if data.repute == None %}active{% elif data.repute == True %}success{% elif data.repute == False %}danger{% endif %}" onclick="showHide('{{key}}_snp_{{ loop.index }}')">
+      			  <td style="border-top:none;"><h4 style="width: 50%;">{{ data.title }} <div style="float: right;margin-right: -90%;"><span>{{data.bad}}/{{data.total}}</span> <span style="font-size: 10px;">{{data.total_snp}}</span></div></h4>
 					<table id="{{key}}_snp_{{ loop.index }}" class="table" style="display:none;">
 						<thead>
 							<tr>
@@ -69,9 +67,9 @@
 						</tbody>
 					</table>
 				</td></tr>
+	{% endfor %}
 					</tbody>
 		</table>
-	{% endfor %}
 		</div>
 	<hr>
 {% endfor %}

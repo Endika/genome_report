@@ -116,6 +116,7 @@ class GenomeReport():
                                 'data': []}
             for test_data in category_data['data']:
                 test_result = {'title': test_data['title']}
+                test_result['total_snp'] = len(test_data['snp'])
                 test_result['snp'], test_result['repute'], test_result['good'], test_result['bad'], test_result['total'] = self.check_snp(test_data['snp'])
                 if test_result['snp'] and test_data.get('icon_result', False):
                     test_result['icon'] = test_data['icon_result'].get(
