@@ -1769,7 +1769,7 @@ rs793862:
     - Riesgo de dislexia.
     - false
   AG:
-    - Riesgo de dislexia.
+    - Posible riesgo de dislexia.
     - null
   GG:
     - Normal
@@ -2098,3 +2098,270 @@ rs662:
   CC:
     - Normal.
     - true
+rs1495741:
+  AA:
+    - Muy lento, metabolizador de la enzima NAT2.
+    - false
+  AG:
+    - Lento, metabolizador de la enzima NAT2.
+    - false
+  GG:
+    - R&aacute;pido metabolizador.
+    - true
+rs1799931:
+  GG:
+    - Metabolizador r&aacute;pido.
+    - true
+  AG:
+    - Metabolizador lento.
+    - false
+  AA:
+    - Metabolizador muy lento.
+    - false
+rs1208:
+  GG:
+    - Metabolizador muy lento.
+    - fasle
+  AG:
+    - Metabolizador lento.
+    - false
+  AA:
+    - Metabolizador r&aacute;pido.
+    - true
+rs1799930:
+  GG:
+    - Normal
+    - true
+  AG:
+    - Riesgo de perdida de o&iacute;do.
+    - false
+  AA:
+    - Riesgo alto de perdida de o&iacute;do.
+    - false
+rs1799929:
+  CC:
+    - Metabolizador r&aacute;pido.
+    - true
+  CT:
+    - Metabolizador lento.
+    - false
+  TT:
+    - Metabolizador muy lento.
+    - false
+rs1801280:
+  CC:
+    - Metabolizador muy lento.
+    - false
+  CT:
+    - Metabolizador lento.
+    - false
+  TT:
+    - Metabolizador r&aacute;pido.
+    - true
+rs1041983:
+  CC:
+    - Metabolizador r&aacute;pido.
+    - true
+  CT:
+    - Metabolizador lento.
+    - false
+  TT:
+    - Metabolizador muy lento.
+    - false
+rs1801279:
+  GG:
+    - Metabolizador r&aacute;pido.
+    - true
+  GA:
+    - Metabolizador lento.
+    - false
+  AA:
+    - Metabolizador muy lento.
+    - false
+rs4880:
+  AA:
+    - Tolerante a ftalatos.
+    - true
+  AG:
+    - Poco tolerante a ftalatos.
+    - false
+  GG:
+    - Intolerante a ftalatos.
+    - false
+rs2758331:
+  GG:
+    - Mayor riesgo de da&ntilde;o al h&iacute;gado mientras se expone a BPA, Bisfenol A, que se encuentra algunos tipos de pl&aacute;stico, tales como botellas de agua y Tupperware, as&iacute; como de resina que recubre el interior de productos met&aacute;licos.
+    - false
+  AG:
+    - Ligero riesgo de da&ntilde;o al h&iacute;gado mientras se expone a BPA, Bisfenol A, que se encuentra algunos tipos de pl&aacute;stico, tales como botellas de agua y Tupperware, as&iacute; como de resina que recubre el interior de productos met&aacute;licos.
+    - false
+  AA:
+    - Normal.
+    - true
+rs2227956:
+  AA:
+    - Probabilidades de desarrollar resistencia a la insulina cuando se exponían a ftalatos.
+    - false
+  AG:
+    - Mayor probabilidad de desarrollar prediabetes cuando se exponen a ftalatos.
+    - false
+  GG:
+    - Probabilidades de desarrollar resistencia a la insulina cuando se exponían a ftalatos.
+    - false
+rs2631367:
+  CC:
+    - Muy susceptible a las toxinas.
+    - false
+  CG:
+    - Susceptible a las toxinas.
+    - false
+  GG:
+    - Normal.
+    - true
+rs283413:
+  CC:
+    - Buen metabolismo para procesar las toxinas.
+    - true
+  AC:
+    - Mal metabolismo para procesar las toxinas.
+    - false
+  AA:
+    - Muy mal metabolismo para procesar las toxinas.
+    - false
+rs3892097:
+  CC:
+    - Normal.
+    - true
+  CT:
+    - Riesgo bajo, no ponerse en esposici&oacute;n de pesticidas.
+    - false
+  TT:
+    - Riesgo, no ponerse en esposici&oacute;n de pesticidas.
+    - false
+rs1446109:
+  AA:
+    - Normal.
+    - null
+  AG:
+    - Zurdo Leve.
+    - null
+  GG:
+    - Zurdo.
+    - null
+rs1007371:
+  AA:
+    - Normal.
+    - null
+  TT:
+    - Zurdo.
+    - null
+rs6314:
+  AA:
+    - Muy mala respuesta a los antidepresivos.
+    - false
+  AG:
+    - Mala respuesta a los antidepresivos.
+    - false
+  GG:
+    - Buena respuesta a los antidepresivos.
+    - true
+rs2032583:
+  GG:
+    - Muy mala respuesta a los antidepresivos.
+    - false
+  AG:
+    - Mala respuesta a los antidepresivos.
+    - false
+  AA:
+    - Buena respuesta a los antidepresivos.
+    - true
+rs12273363:
+  CC:
+    - Muy mala respuesta a los antidepresivos.
+    - false
+  CT:
+    - Mala respuesta a los antidepresivos.
+    - false
+  TT:
+    - Buena respuesta a los antidepresivos.
+    - true
+rs806368:
+  CC:
+    - Muy mala respuesta a los antidepresivos.
+    - false
+  CT:
+    - Mala respuesta a los antidepresivos.
+    - false
+  TT:
+    - Buena respuesta a los antidepresivos.
+    - true
+rs7997012:
+  AA:
+    - Muy mala respuesta a los antidepresivos.
+    - false
+  AG:
+    - Mala respuesta a los antidepresivos.
+    - false
+  GG:
+    - Buena respuesta a los antidepresivos.
+    - true
+rs2319398:
+  CC:
+    - Muy mala respuesta a los antidepresivos.
+    - false
+  AC:
+    - Mala respuesta a los antidepresivos.
+    - false
+  AA:
+    - Buena respuesta a los antidepresivos.
+    - true
+rs1364043:
+  GG:
+    - Muy mala respuesta a los antidepresivos.
+    - false
+  GT:
+    - Mala respuesta a los antidepresivos.
+    - false
+  TT:
+    - Buena respuesta a los antidepresivos.
+    - true
+rs11030101:
+  TT:
+    - Muy mala respuesta a los antidepresivos.
+    - false
+  AT:
+    - Mala respuesta a los antidepresivos.
+    - false
+  AA:
+    - Buena respuesta a los antidepresivos.
+    - true
+rs3766246:
+  GG:
+    - Fatiga despues de la ingesta.
+    - false
+  AG:
+    - Algo de fatiga despues de la ingesta.
+    - false
+  AA:
+    - Normal.
+    - true
+rs2295633:
+  AA:
+    - Posible estr&eacute;s postraum&aacute;tico.
+    - false
+  AG:
+    - Ligero posible estr&eacute;s postraum&aacute;tico.
+    - false
+  GG:
+    - Normal.
+    - true
+rs2229109:
+  CC:
+    - Normal.
+    - true
+  CT:
+    - Mala respuesta.
+    - false
+  TT:
+    - Muy mala respuesta.
+    - false

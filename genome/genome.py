@@ -73,6 +73,7 @@ class GenomeReport():
         result = []
         good = 0
         bad = 0
+        total = 0
         repute = None
         for snp in snp_list:
             genotype = self.genoma_data.get(snp, False)
@@ -96,13 +97,14 @@ class GenomeReport():
                                 good += 1
                             elif result_info[1] is False:
                                 bad += 1
+                        total += 1
         if len(result) <= 0:
-            return False, False, good, bad
+            return False, False, good, bad, total
         if good > bad:
             repute = True
         elif bad > good:
             repute = False
-        return result, repute, good, bad
+        return result, repute, good, bad, total
 
     def make_report(self):
         """Create custom report."""
@@ -114,7 +116,7 @@ class GenomeReport():
                                 'data': []}
             for test_data in category_data['data']:
                 test_result = {'title': test_data['title']}
-                test_result['snp'], test_result['repute'], test_result['good'], test_result['bad'] = self.check_snp(test_data['snp'])
+                test_result['snp'], test_result['repute'], test_result['good'], test_result['bad'], test_result['total'] = self.check_snp(test_data['snp'])
                 if test_result['snp'] and test_data.get('icon_result', False):
                     test_result['icon'] = test_data['icon_result'].get(
                         test_result['repute'], False)

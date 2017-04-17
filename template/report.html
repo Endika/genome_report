@@ -6,7 +6,15 @@
 <title>Informe gen&oacute;mico</title>
 </head>
 <body>
-
+<script type="text/javascript">
+	function showHide(table_id){
+		if (document.getElementById(table_id).style.display == "none"){
+			document.getElementById(table_id).style.display = "block";
+		}else{
+			document.getElementById(table_id).style.display = "none";
+		}
+	}
+</script>
 <div class="jumbotron">
       <div class="container">
         <h1 class="display-3">Informe gen&eacute;tico</h1>
@@ -17,32 +25,52 @@
 <div class="container">
 
 {% for key, category in result.iteritems() %}
-	<h3>
+	<h3 onclick="showHide('{{key}}')">
 		{% if category.icon %}<img src="{{ category.icon }}" />{% endif %}
 		{{ category.title }}
 	</h3>
-		<div class="row">
+		<div id="{{key}}" class="row" style="display:none;padding: 0px 40px;">
 	{% for data in category.data %}
-		<div class="col-6 col-sm-4" style="padding-bottom: 15px;border: #eee 1px solid;">
-			<h4 style="{% if data.repute == None %}color:#777777;{% elif data.repute == True %}color:#5ece5e;{% elif data.repute == False %}color:rgb(255, 175, 175);{% endif %}">{% if data.icon %}<img src="{{ data.icon }}" />{% endif %}
-			{{ data.title }} {% if data.repute == None %}{% elif data.repute == True %}(Bueno){% elif data.repute == False %}(Malo){% endif %} {{data.bad}}/{{data.good+data.bad}}</h4>
-			{% if data.snp %}
-			{% for snp in data.snp %}
-				<div style="padding: 1px 5px;">
-					<h6 style="font-style:italic;font-size:9px;">SNP {{ snp.snp }}, cromosoma {{ snp.chromosome }} tu genotipo {{ snp.genotype }}</h6>
-					<p>{{ snp.info }}</p>
-				</div>
-			{% endfor %}
-			{% else %}
-				<div style="padding: 1px 5px;">
-					<p>{{ data.default }}</p>
-				</div>
-			{% endif %}
-		</div>
-		{% if not loop.index % 3 %}
-			</div>
-			<div class="row">
-		{% endif %}
+		<table class="table" onclick="showHide('{{key}}_snp_{{ loop.index }}')">
+			<thead>
+			</thead>
+			<tbody>
+      			<tr class="{% if data.repute == None %}active{% elif data.repute == True %}success{% elif data.repute == False %}danger{% endif %}">
+      			  <td style="border-top:none;"><h5 style="width: 50%;">{{ data.title }} <div style="float: right;margin-right: -90%;"><span>{{data.bad}}/{{data.total}}</span></div></h5></td>
+      			</tr>
+				<tr><td>
+					<table id="{{key}}_snp_{{ loop.index }}" class="table" style="display:none;">
+						<thead>
+							<tr>
+								<td>SNP</td>
+								<td>Cromosoma</td>
+								<td>Tu genotipo</td>
+								<td></td>
+							</tr>
+						</thead>
+						<tbody>
+						{% if data.snp %}
+						{% for snp in data.snp %}
+							<tr>
+								<td>{{ snp.snp }}</td>
+								<td>{{ snp.chromosome }}</td>
+								<td>{{ snp.genotype }}</td>
+								<td>{{ snp.info }}</td>
+							</tr>
+						{% endfor %}
+						{% else %}
+							<tr>
+								<td></td>
+								<td></td>
+								<td></td>
+								<td>{{ data.default }}</td>
+							</tr>
+						{% endif %}
+						</tbody>
+					</table>
+				</td></tr>
+					</tbody>
+		</table>
 	{% endfor %}
 		</div>
 	<hr>
@@ -52,3 +80,4 @@
 <script src="template/js/bootstrap.min.js" ></script>
 <script src="template/js/jquery-3.1.1.min.js" ></script>
 </html>
+

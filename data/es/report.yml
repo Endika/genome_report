@@ -65,6 +65,7 @@ health:
     - title: Sordera asociada
       snp:
         - rs80338939
+        - rs1799930
     - title: Vida m&aacute;s larga?
       snp:
         - rs10936599
@@ -91,9 +92,15 @@ health:
         - rs1800460
         - rs1142345
         - rs1800462
+        - rs1041983
+        - rs1801279
     - title: Dependencia al canabis
       snp:
         - rs12720071
+    - title: Respuesta a las anfetaminas
+      snp:
+        - rs3766246
+        - rs2295633
     - title: Riesgo de trastornos autoinmunes
       snp:
         - rs2476601
@@ -115,6 +122,13 @@ health:
     - title: Alergia al polen?
       snp:
         - rs7775228
+    - title: Alergia a ftalatos
+      snp:
+        - rs4880
+        - rs2227956
+    - title: Riesgo contra BPA y bisfenol A
+      snp:
+        - rs2758331
     - title: Riesgo por toxidadad de mercurio?
       snp:
         - rs6269
@@ -144,6 +158,21 @@ health:
     - title: Riesgo de dislexia
       snp:
         - rs3755557
+        - rs793862
+        - rs807701
+    - title: Respuesta a los antidepresivos
+      snp:
+        - rs6314
+        - rs2032583
+        - rs12273363
+        - rs806368
+        - rs7997012
+        - rs2319398
+        - rs1364043
+        - rs11030101
+    - title: Respuesta a los medicamentos antiepil&eacute;pticos
+      snp:
+        - rs2229109
 diseases:
   title: Enfermedades
   icon: diseases.png
@@ -261,7 +290,7 @@ diseases:
     - title: Anemia falciforme
       snp:
         - rs334
-    - title: enfermedad de Salla
+    - title: Enfermedad de Salla
       snp:
         - rs80338794
     - title: Rizom&eacute;lico Chondrodysplasia Punctata Tipo 1
@@ -439,10 +468,6 @@ features:
     - title: Prefieres algo dulce?
       snp:
         - rs838133
-    - title: Dislexia
-      snp:
-        - rs793862
-        - rs807701
     - title: Dalt&oacute;nico
       snp:
         - rs35104847
@@ -451,6 +476,10 @@ features:
         - rs2315122
         - rs2315123
         - i5005856
+    - title: Zurdo?
+      snp:
+        - rs1446109
+        - rs1007371
 diet:
   title: Dieta
   icon: diet.png
@@ -458,9 +487,21 @@ diet:
     - title: Riesgo de padecer c&aacute;ncer de prostata por estar expuesto a pesticidas?
       snp:
         - rs4242382
+    - title: Metaboliza enzima NAT2
+      snp:
+        - rs1495741
+    - title: Metabolizador de toxinas
+      snp:
+        - rs1799931
+        - rs1208
+        - rs1799929
+        - rs1801280
+        - rs2631367
+        - rs283413
     - title: Tu cuerpo elimina los pesticidas ingeridos?
       snp:
         - rs662
+        - rs3892097
     - title: Intolerante a la lactosa?
       snp:
         - rs4988235
