@@ -2365,3 +2365,93 @@ rs2229109:
   TT:
     - Muy mala respuesta.
     - false
+rs2241220:
+  CC:
+    - Normal.
+    - true
+  CT:
+    - Mala respuesta.
+    - false
+  TT:
+    - Muy mala respuesta.
+    - false
+rs6837793:
+  AA:
+    - Normal.
+    - true
+  AG:
+    - Mala respuesta. Riesgo de sobre peso.
+    - false
+  GG:
+    - Muy mala respuesta. Riesgo de sobre peso.
+    - false
+rs4532:
+  CC:
+    - Muy mala respuesta, riesgo de autimos o discinesia.
+    - false
+  CT:
+    - Mala respuesta, riesgo de autimos o discinesia.
+    - false
+  TT:
+    - Normal.
+    - true
+rs9357271:
+  TT:
+    - Muy mala respuesta.
+    - false
+  CT:
+    - Mala respuesta.
+    - false
+  CC:
+    - Normal.
+    - true
+rs5092:
+  TT:
+    - Muy mala respuesta.
+    - false
+  CT:
+    - Mala respuesta.
+    - false
+  CC:
+    - Normal.
+    - true
+rs11030104:
+  GG:
+    - Muy mala respuesta.
+    - false
+  AG:
+    - Mala respuesta.
+    - false
+  AA:
+    - Normal.
+    - true
+rs5574:
+  TT:
+    - Muy mala respuesta.
+    - false
+  CT:
+    - Mala respuesta.
+    - false
+  CC:
+    - Normal.
+    - true
+rs324650:
+  AA:
+    - Riesgo.
+    - false
+  AT:
+    - Riesgo bajo.
+    - false
+  TT:
+    - Normal.
+    - true
+rs4731426:
+  CC:
+    - Riesgo.
+    - false
+  CG:
+    - Riesgo bajo.
+    - false
+  GG:
+    - Normal.
+    - true

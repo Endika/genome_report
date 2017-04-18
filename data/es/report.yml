@@ -101,6 +101,19 @@ health:
       snp:
         - rs3766246
         - rs2295633
+    - title: Respuesta a los antipsic&oacute;ticos
+      snp:
+        - rs2241220
+        - rs6837793
+        - rs4532
+        - rs9357271
+        - rs5092
+        - rs11030104
+        - rs5574
+        - rs4731426
+    - title: Trastorno Bipolar
+      snp:
+        - rs324650
     - title: Riesgo de trastornos autoinmunes
       snp:
         - rs2476601
