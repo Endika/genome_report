@@ -749,16 +749,6 @@ rs1537415:
   GG:
     - Riesgo de periodontitis.
     - false
-rs3892097:
-  AA:
-    - Metabolizador lento.
-    - false
-  AG:
-    - Normal.
-    - null
-  GG:
-    - Buen metabolizador.
-    - true
 rs1447295:
   AA:
     - Riesgo muy alto de c&aacute;ncer de prostata.
@@ -1385,10 +1375,10 @@ rs6983267:
   GT:
     - Riesgo de c&aacute;ncer de pr&oacute;stata, la aspirina reduce el riesgo de c&aacute;ncer colorrectal.
     - false
-  GG:
-    - Mayor riesgo de c&aacute;ncer de pr&oacute;stata, tambi&eacute;n otros tipos de c&aacute;ncer.
-    - false
   TT:
+    - Mayor riesgo de c&aacute;ncer de pr&oacute;stata, tambi&eacute;n otros tipos de c&aacute;ncer. La aspirina reduce el riesgo de c&aacute;ncer colorrectal.
+    - false
+  GG:
     - Riesgo normal.
     - null
 rs738409:
@@ -2238,6 +2228,15 @@ rs3892097:
   TT:
     - Riesgo, no ponerse en esposici&oacute;n de pesticidas.
     - false
+  AA:
+    - Metabolizador lento.
+    - false
+  AG:
+    - Normal.
+    - null
+  GG:
+    - Buen metabolizador.
+    - true
 rs1446109:
   AA:
     - Normal.
@@ -2450,6 +2449,476 @@ rs4731426:
     - Riesgo.
     - false
   CG:
+    - Riesgo bajo.
+    - false
+  GG:
+    - Normal.
+    - true
+rs12327666:
+  AA:
+    - Riesgo.
+    - false
+  AG:
+    - Riesgo bajo.
+    - false
+  GG:
+    - Normal.
+    - true
+rs489693:
+  AA:
+    - Riesgo.
+    - false
+  AC:
+    - Riesgo bajo.
+    - false
+  CC:
+    - Normal.
+    - true
+rs1801131:
+  GG:
+    - Riesgo.
+    - false
+  GT:
+    - Riesgo bajo.
+    - false
+  TT:
+    - Normal.
+    - true
+rs324420:
+  AA:
+    - Riesgo.
+    - false
+  AC:
+    - Riesgo bajo.
+    - false
+  CC:
+    - Normal.
+    - true
+rs1137101:
+  AA:
+    - Riesgo.
+    - false
+  AG:
+    - Riesgo bajo.
+    - false
+  GG:
+    - Normal.
+    - true
+rs8179183:
+  CC:
+    - Riesgo.
+    - false
+  CG:
+    - Riesgo bajo.
+    - false
+  GG:
+    - Normal.
+    - true
+rs4606:
+  GG:
+    - Riesgo.
+    - false
+  CG:
+    - Riesgo bajo.
+    - false
+  CC:
+    - Normal.
+    - true
+rs993648:
+  TT:
+    - Riesgo.
+    - false
+  CT:
+    - Riesgo bajo.
+    - false
+  CC:
+    - Normal.
+    - true
+rs4765623:
+  TT:
+    - Riesgo.
+    - false
+  CT:
+    - Riesgo bajo.
+    - false
+  CC:
+    - Normal.
+    - true
+rs6280:
+  CC:
+    - Riesgo.
+    - false
+  CT:
+    - Riesgo bajo.
+    - false
+  TT:
+    - Normal.
+    - true
+rs3923809:
+  GG:
+    - Riesgo.
+    - false
+  AG:
+    - Riesgo bajo.
+    - false
+  AA:
+    - Normal.
+    - true
+rs806378:
+  TT:
+    - Riesgo.
+    - false
+  CT:
+    - Riesgo bajo.
+    - false
+  CC:
+    - Normal.
+    - true
+rs1468271:
+  CC:
+    - Riesgo.
+    - false
+  CT:
+    - Riesgo bajo.
+    - false
+  TT:
+    - Normal.
+    - true
+rs10501087:
+  CC:
+    - Riesgo.
+    - false
+  CT:
+    - Riesgo bajo.
+    - false
+  TT:
+    - Normal.
+    - true
+rs1799978:
+  CC:
+    - Riesgo.
+    - false
+  CT:
+    - Riesgo bajo.
+    - false
+  TT:
+    - Normal.
+    - true
+rs11214606:
+  TT:
+    - Riesgo.
+    - false
+  CT:
+    - Riesgo bajo.
+    - false
+  CC:
+    - Normal.
+    - true
+rs6279:
+  GG:
+    - Riesgo.
+    - false
+  CG:
+    - Riesgo bajo.
+    - false
+  CC:
+    - Normal.
+    - true
+rs4969170:
+  GG:
+    - Riesgo.
+    - false
+  AG:
+    - Riesgo bajo.
+    - false
+  AA:
+    - Normal.
+    - true
+rs717620:
+  TT:
+    - Riesgo.
+    - false
+  CT:
+    - Riesgo bajo.
+    - false
+  CC:
+    - Normal.
+    - true
+rs1045642:
+  AA:
+    - Riesgo.
+    - false
+  AG:
+    - Riesgo bajo.
+    - false
+  GG:
+    - Normal.
+    - true
+rs10276036:
+  CC:
+    - Riesgo.
+    - false
+  CT:
+    - Riesgo bajo.
+    - false
+  TT:
+    - Normal.
+    - true
+rs2074190:
+  GG:
+    - Riesgo. Puede producir asma.
+    - false
+  AG:
+    - Riesgo bajo. Pued producir asma.
+    - false
+  AA:
+    - Normal.
+    - true
+rs5918:
+  CC:
+    - Riesgo. Incrementa la resistencia a la aspirina.
+    - false
+  CT:
+    - Riesgo bajo. Incrementa la resistencia a la aspirina.
+    - false
+  TT:
+    - Normal.
+    - true
+rs4648319:
+  AA:
+    - Riesgo. Riesgo de padecer c&aacute;ncer por la ingesta de aspirinas.
+    - false
+  AG:
+    - Riesgo bajo. Riesgo de padecer c&aacute;ncer por la ingesta de aspirinas.
+    - false
+  GG:
+    - Normal.
+    - true
+rs6277:
+  AA:
+    - Riesgo.
+    - false
+  AG:
+    - Riesgo bajo.
+    - false
+  GG:
+    - Normal.
+    - true
+rs10156191:
+  TT:
+    - Riesgo. Incremento riesgo en migra&ntilde;as y hipersensibilidad al ibuprofeno.
+    - false
+  CT:
+    - Riesgo bajo. Incremento riesgo en migra&ntilde;as y hipersensibilidad al ibuprofeno.
+    - false
+  CC:
+    - Normal.
+    - true
+rs1128503:
+  AA:
+    - Riesgo.
+    - false
+  AG:
+    - Riesgo bajo.
+    - false
+  GG:
+    - Normal.
+    - true
+rs20417:
+  GG:
+    - Riesgo.
+    - false
+  CG:
+    - Riesgo bajo.
+    - false
+  CC:
+    - Normal.
+    - true
+rs5275:
+  GG:
+    - Riesgo.
+    - false
+  AG:
+    - Riesgo bajo.
+    - false
+  AA:
+    - Normal.
+    - true
+rs3918226:
+  TT:
+    - Riesgo.
+    - false
+  CT:
+    - Riesgo bajo.
+    - false
+  CC:
+    - Normal.
+    - true
+rs659580:
+  TT:
+    - Riesgo.
+    - false
+  CT:
+    - Riesgo bajo.
+    - false
+  CC:
+    - Normal.
+    - true
+rs11810574:
+  GG:
+    - Riesgo.
+    - false
+  AG:
+    - Riesgo bajo.
+    - false
+  AA:
+    - Normal.
+    - true
+rs11810574:
+  GG:
+    - Riesgo.
+    - false
+  AG:
+    - Riesgo bajo.
+    - false
+  AA:
+    - Normal.
+    - true
+rs3213619:
+  GG:
+    - Riesgo.
+    - false
+  AG:
+    - Riesgo bajo.
+    - false
+  AA:
+    - Normal.
+    - true
+rs2854744:
+  GG:
+    - Riesgo. Mala respuesta por el tumor.
+    - false
+  GT:
+    - Riesgo bajo. Mala respuesta por el tumor.
+    - false
+  TT:
+    - Normal.
+    - true
+rs8176719:
+  CC:
+    - Riesgo.
+    - false
+  -C:
+    - Riesgo bajo.
+    - false
+  --:
+    - Normal.
+    - true
+rs833068:
+  AA:
+    - Riesgo.
+    - false
+  AG:
+    - Riesgo bajo.
+    - false
+  GG:
+    - Normal.
+    - true
+rs8187710:
+  AA:
+    - Riesgo.
+    - false
+  AG:
+    - Riesgo bajo.
+    - false
+  GG:
+    - Normal.
+    - true
+rs2946834:
+  AA:
+    - Riesgo.
+    - false
+  AG:
+    - Riesgo bajo.
+    - false
+  GG:
+    - Normal.
+    - true
+rs6220:
+  GG:
+    - Riesgo.
+    - false
+  AG:
+    - Riesgo bajo.
+    - false
+  AA:
+    - Normal.
+    - true
+rs12615435:
+  GG:
+    - Riesgo.
+    - false
+  TG:
+    - Riesgo bajo.
+    - false
+  TT:
+    - Normal.
+    - true
+rs11549465:
+  TT:
+    - Riesgo.
+    - false
+  CT:
+    - Riesgo bajo.
+    - false
+  CC:
+    - Normal.
+    - true
+rs480409:
+  TT:
+    - Riesgo.
+    - false
+  CT:
+    - Riesgo bajo.
+    - false
+  CC:
+    - Normal.
+    - true
+rs13393173:
+  GG:
+    - Riesgo.
+    - false
+  AG:
+    - Riesgo bajo.
+    - false
+  AA:
+    - Normal.
+    - true
+rs438034:
+  AA:
+    - Riesgo.
+    - false
+  AG:
+    - Riesgo bajo.
+    - false
+  GG:
+    - Normal.
+    - true
+rs1277203:
+  CC:
+    - Riesgo.
+    - false
+  CT:
+    - Riesgo bajo.
+    - false
+  TT:
+    - Normal.
+    - true
+rs12142335:
+  AA:
+    - Riesgo.
+    - false
+  AG:
     - Riesgo bajo.
     - false
   GG:

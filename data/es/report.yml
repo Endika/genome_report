@@ -111,6 +111,63 @@ health:
         - rs11030104
         - rs5574
         - rs4731426
+        - rs12327666
+        - rs489693
+        - rs1801131
+        - rs324420
+        - rs1137101
+        - rs8179183
+        - rs4606
+        - rs993648
+        - rs4765623
+        - rs6280
+        - rs3923809
+        - rs806378
+        - rs1468271
+        - rs10501087
+        - rs1799978
+        - rs11214606
+        - rs6279
+    - title: Respuesta a un tratamiento antiretroviral
+      snp:
+        - rs4969170
+        - rs717620
+        - rs1045642
+        - rs10276036
+    - title: Respuesta a las aspirinas
+      snp:
+        - rs2074190
+        - rs5918
+        - rs4648319
+        - rs6277
+        - rs10156191
+        - rs1128503
+        - rs20417
+        - rs5275
+    - title: Presi&oacute;n arterial
+      snp:
+        - rs3892097
+        - rs3918226
+        - rs659580
+        - rs11810574
+    - title: Respuesta a medicamentos de quimioterapia
+      snp:
+        - rs3213619
+        - rs2854744
+        - rs8176719
+        - rs717620
+        - rs833068
+        - rs8187710
+        - rs2946834
+        - rs6220
+        - rs12615435
+        - rs11549465
+        - rs480409
+        - rs13393173
+        - rs438034
+        - rs3892097
+        - rs1277203
+        - rs12142335
     - title: Trastorno Bipolar
       snp:
         - rs324650
