@@ -2924,3 +2924,183 @@ rs12142335:
   GG:
     - Normal.
     - true
+rs303386:
+  AA:
+    - Riesgo.
+    - false
+  AG:
+    - Riesgo bajo.
+    - false
+  GG:
+    - Normal.
+    - true
+rs2235046:
+  TT:
+    - Riesgo.
+    - false
+  CT:
+    - Riesgo bajo.
+    - false
+  CC:
+    - Normal.
+    - true
+rs242941:
+  AA:
+    - Riesgo.
+    - false
+  AC:
+    - Riesgo bajo.
+    - false
+  CC:
+    - Normal.
+    - true
+rs1876828:
+  TT:
+    - Riesgo.
+    - false
+  CT:
+    - Riesgo bajo.
+    - false
+  CC:
+    - Normal.
+    - true
+rs2146323:
+  AA:
+    - Riesgo.
+    - false
+  AC:
+    - Riesgo bajo.
+    - false
+  CC:
+    - Normal.
+    - true
+rs37972:
+  TT:
+    - Riesgo.
+    - false
+  CT:
+    - Riesgo bajo.
+    - false
+  CC:
+    - Normal.
+    - true
+rs28364072:
+  GG:
+    - Riesgo.
+    - false
+  AG:
+    - Riesgo bajo.
+    - false
+  AA:
+    - Normal.
+    - true
+rs37973:
+  GG:
+    - Riesgo.
+    - false
+  AG:
+    - Riesgo bajo.
+    - false
+  AA:
+    - Normal.
+    - true
+rs3087243:
+  AA:
+    - Riesgo.
+    - false
+  AG:
+    - Riesgo bajo. Mejor respuesta en asm&aacute;ticos.
+    - false
+  GG:
+    - Normal. Mejor respuesta en asm&aacute;ticos.
+    - true
+rs5065:
+  GG:
+    - Riesgo.
+    - false
+  AG:
+    - Riesgo bajo.
+    - false
+  AA:
+    - Normal.
+    - true
+rs2071427:
+  TT:
+    - Riesgo.
+    - false
+  CT:
+    - Riesgo bajo.
+    - false
+  CC:
+    - Normal.
+    - true
+rs8192440:
+  AA:
+    - Riesgo.
+    - false
+  AG:
+    - Riesgo bajo.
+    - false
+  GG:
+    - Normal.
+    - true
+rs2314339:
+  TT:
+    - Riesgo.
+    - false
+  CT:
+    - Riesgo bajo.
+    - false
+  CC:
+    - Normal.
+    - true
+rs10455872:
+  GG:
+    - Riesgo.
+    - false
+  AG:
+    - Riesgo bajo.
+    - false
+  AA:
+    - Normal.
+    - true
+rs11638450:
+  TT:
+    - Riesgo.
+    - false
+  CT:
+    - Riesgo bajo.
+    - false
+  CC:
+    - Normal.
+    - true
+rs12428035:
+  TT:
+    - Riesgo.
+    - false
+  CT:
+    - Riesgo bajo.
+    - false
+  CC:
+    - Normal.
+    - true
+rs5443:
+  TT:
+    - Riesgo.
+    - false
+  CT:
+    - Riesgo bajo.
+    - false
+  CC:
+    - Normal.
+    - true
+rs1799853:
+  TT:
+    - Riesgo.
+    - false
+  CT:
+    - Riesgo bajo.
+    - false
+  CC:
+    - Normal.
+    - true

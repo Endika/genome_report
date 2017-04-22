@@ -168,6 +168,38 @@ health:
         - rs3892097
         - rs1277203
         - rs12142335
+        - rs303386
+        - rs1800566
+        - rs2229109
+        - rs2235046
+        - rs10276036
+    - title: Respuesta a los corticoides
+      snp:
+        - rs242941
+        - rs1876828
+        - rs2146323
+        - rs37972
+        - rs2032583
+        - rs28364072
+        - rs37973
+        - rs3087243
+    - title: Respuesta a los medicamentos diur&eacute;ticos
+      snp:
+        - rs5065
+    - title: Respuesta a litio
+      snp:
+        - rs2071427
+        - rs8192440
+        - rs2314339
+    - title: Respuesta a las estatinas
+      snp:
+        - rs10455872
+        - rs11638450
+        - rs12428035
+    - title: Respuesta a la viagra
+      snp:
+        - rs5443
+        - rs1799853
     - title: Trastorno Bipolar
       snp:
         - rs324650
