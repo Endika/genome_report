@@ -99,12 +99,14 @@ class GenomeReport():
                                 bad += 1
                         total += 1
         if len(result) <= 0:
-            return False, False, good, bad, total
+            return dict(result=False, repute=False,
+                        good=good, bad=bad, total=total)
         if good > bad:
             repute = True
         elif bad > good:
             repute = False
-        return result, repute, good, bad, total
+        return dict(result=result, repute=repute,
+                    good=good, bad=bad, total=total)
 
     def make_report(self):
         """Create custom report."""
@@ -117,7 +119,7 @@ class GenomeReport():
             for test_data in category_data['data']:
                 test_result = {'title': test_data['title']}
                 test_result['total_snp'] = len(test_data['snp'])
-                test_result['snp'], test_result['repute'], test_result['good'], test_result['bad'], test_result['total'] = self.check_snp(test_data['snp'])
+                test_result.update(self.check_snp(test_data['snp']))
                 if test_result['snp'] and test_data.get('icon_result', False):
                     test_result['icon'] = test_data['icon_result'].get(
                         test_result['repute'], False)

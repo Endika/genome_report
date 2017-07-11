@@ -12,7 +12,8 @@ def main(argv):
     output = 'my_report'
     lang = 'es'
     outputformat = 'html'
-    help_text = '{} -g <genome_file.txt> -f <html,pdf> [-o my_report_name] [-l es]'.format(sys.argv[0])
+    help_text = ('{} -g <genome_file.txt> -f <html,pdf> '
+                 '[-o my_report_name] [-l es]'.format(sys.argv[0]))
     try:
         opts, args = getopt.getopt(
             argv, "g:f:o:l:", ["genome=", "format=", "output=", "lang="])
