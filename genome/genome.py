@@ -91,7 +91,8 @@ class GenomeReport():
                             'snp': snp,
                             'chromosome': chromosome,
                             'genotype': genotype,
-                            'info': result_info[0]})
+                            'info': result_info[0],
+                            'repute': result_info[1]})
                         if result_info[1] is not None:
                             if result_info[1] is True:
                                 good += 1
@@ -99,13 +100,13 @@ class GenomeReport():
                                 bad += 1
                         total += 1
         if len(result) <= 0:
-            return dict(result=False, repute=False,
+            return dict(snp=False, repute=False,
                         good=good, bad=bad, total=total)
         if good > bad:
             repute = True
         elif bad > good:
             repute = False
-        return dict(result=result, repute=repute,
+        return dict(snp=result, repute=repute,
                     good=good, bad=bad, total=total)
 
     def make_report(self):
