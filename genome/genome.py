@@ -3,11 +3,9 @@
 import csv
 import os
 
-from jinja2 import Environment, FileSystemLoader
-
 import pdfkit
-
 import yaml
+from jinja2 import Environment, FileSystemLoader
 
 
 class GenomeReport():
