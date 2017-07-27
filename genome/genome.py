@@ -68,46 +68,49 @@ class GenomeReport():
                         return genotype_results[genotype]
         return False
 
-    def check_snp(self, snp_list):
-        """Check SNP and return results."""
-        result = []
-        good = 0
-        bad = 0
-        total = 0
-        repute = None
-        for snp in snp_list:
-            genotype = self.genoma_data.get(snp, False)
-            if genotype:
-                chromosome = genotype[0]
-                genotype = genotype[1]
-                genotype_results = self.snp.get(snp, False)
-                if genotype_results:
-                    result_info = genotype_results.get(genotype, False)
-                    if not result_info:
-                        result_info = self.search_alelo(
-                            genotype_results, genotype)
-                    if result_info:
-                        result.append({
-                            'snp': snp,
-                            'chromosome': chromosome,
-                            'genotype': genotype,
-                            'info': result_info[0],
-                            'repute': result_info[1]})
-                        if result_info[1] is not None:
-                            if result_info[1] is True:
-                                good += 1
-                            elif result_info[1] is False:
-                                bad += 1
-                        total += 1
+    def _count_good_bad(self, good, bad, result):
+        if result is not None:
+            if result is True:
+                good += 1
+            elif result is False:
+                bad += 1
+        return good, bad
+
+    def _check_repute(self, good, bad):
+        if good > bad:
+            return True
+        elif bad > good:
+            return False
+
+    def _make_return(self, result, good, bad, total):
         if len(result) <= 0:
             return dict(snp=False, repute=False,
                         good=good, bad=bad, total=total)
-        if good > bad:
-            repute = True
-        elif bad > good:
-            repute = False
+        repute = self._check_repute(good, bad)
         return dict(snp=result, repute=repute,
                     good=good, bad=bad, total=total)
+
+    def _check_snp(self, snp_list):
+        result = []
+        good = bad = total = 0
+        for snp in snp_list:
+            genotype_info = self.genoma_data.get(snp, False)
+            if genotype_info:
+                genotype_results = self.snp.get(snp, False)
+                if genotype_results:
+                    result_info = genotype_results.get(genotype_info[1], False)
+                    if not result_info:
+                        result_info = self.search_alelo(
+                            genotype_results, genotype_info[1])
+                    if result_info:
+                        result.append({
+                            'snp': snp, 'chromosome': genotype_info[0],
+                            'genotype': genotype_info[1],
+                            'info': result_info[0], 'repute': result_info[1]})
+                        good, bad = self._count_good_bad(
+                            good, bad, result_info[1])
+                        total += 1
+        return self._make_return(result, good, bad, total)
 
     def make_report(self):
         """Create custom report."""
@@ -120,7 +123,7 @@ class GenomeReport():
             for test_data in category_data['data']:
                 test_result = {'title': test_data['title']}
                 test_result['total_snp'] = len(test_data['snp'])
-                test_result.update(self.check_snp(test_data['snp']))
+                test_result.update(self._check_snp(test_data['snp']))
                 if test_result['snp'] and test_data.get('icon_result', False):
                     test_result['icon'] = test_data['icon_result'].get(
                         test_result['repute'], False)
