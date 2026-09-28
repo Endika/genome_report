@@ -1,10 +1,12 @@
 # -*- coding: utf-8 -*-
 
 import csv
-import os
+from pathlib import Path
 
 import yaml
 from jinja2 import Environment, FileSystemLoader
+
+BASE_DIR = Path(__file__).resolve().parent.parent
 
 
 class GenomeReport():
@@ -20,17 +22,16 @@ class GenomeReport():
         self.conf = {
             'genome_file': genome_file,
             'output_name': output,
-            'report': 'data/{}/report.yml'.format(lang),
-            'snp': 'data/{}/snp.yml'.format(lang)
+            'report': BASE_DIR / 'data' / lang / 'report.yml',
+            'snp': BASE_DIR / 'data' / lang / 'snp.yml'
         }
         self.load_files()
 
-    def render(self, context, template='template/report.html'):
+    def render(self, context, template='report.html'):
         """Make report to html."""
-        path, filename = os.path.split(template)
         result = Environment(
-            loader=FileSystemLoader(path or './')).get_template(
-            filename).render(context)
+            loader=FileSystemLoader(BASE_DIR / 'template')).get_template(
+            template).render(context)
         with open('{}.html'.format(self.conf['output_name']), 'w',
                   encoding='utf-8') as output_file:
             output_file.write(result)
