@@ -15,15 +15,18 @@ class GenomeReport():
     conf = {}
     report = {}
     snp = {}
+    labels = {}
     genoma_data = {}
 
     def __init__(self, genome_file, output='my_report', lang='es'):
         """Init."""
         self.conf = {
             'genome_file': genome_file,
+            'lang': lang,
             'output_name': output,
             'report': BASE_DIR / 'data' / lang / 'report.yml',
-            'snp': BASE_DIR / 'data' / lang / 'snp.yml'
+            'snp': BASE_DIR / 'data' / lang / 'snp.yml',
+            'labels': BASE_DIR / 'data' / lang / 'labels.yml'
         }
         self.load_files()
 
@@ -42,6 +45,8 @@ class GenomeReport():
             self.report = yaml.safe_load(report_file)
         with open(self.conf['snp'], encoding='utf-8') as snp_file:
             self.snp = yaml.safe_load(snp_file)
+        with open(self.conf['labels'], encoding='utf-8') as labels_file:
+            self.labels = yaml.safe_load(labels_file)
         with open(self.conf['genome_file'], encoding='utf-8',
                   newline='') as genome_file:
             self.genoma_data = list(csv.reader(genome_file, delimiter='\t'))
@@ -129,10 +134,10 @@ class GenomeReport():
                     test_result['repute'] = True
                     result[category]['data'].append(test_result)
                 else:
-                    test_result['default'] = '''
-No hay resultados que cumplan los criterios.'''
+                    test_result['default'] = self.labels['no_results']
                     test_result['repute'] = None
                     result[category]['data'].append(test_result)
             # if len(result[category]['data']) <= 0:
             #     del result[category]
-        self.render({'result': result})
+        self.render({'result': result, 'labels': self.labels,
+                     'lang': self.conf['lang']})
