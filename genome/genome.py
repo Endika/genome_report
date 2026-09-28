@@ -31,14 +31,19 @@ class GenomeReport():
         result = Environment(
             loader=FileSystemLoader(path or './')).get_template(
             filename).render(context)
-        open('{}.html'.format(self.conf['output_name']), 'w').write(result)
+        with open('{}.html'.format(self.conf['output_name']), 'w',
+                  encoding='utf-8') as output_file:
+            output_file.write(result)
 
     def load_files(self):
         """Load all files YAML and CSV."""
-        self.report = yaml.load(open(self.conf['report'], 'r').read())
-        self.snp = yaml.load(open(self.conf['snp'], 'r').read())
-        self.genoma_data = list(
-            csv.reader(open(self.conf['genome_file'], 'r'), delimiter='\t'))
+        with open(self.conf['report'], encoding='utf-8') as report_file:
+            self.report = yaml.safe_load(report_file)
+        with open(self.conf['snp'], encoding='utf-8') as snp_file:
+            self.snp = yaml.safe_load(snp_file)
+        with open(self.conf['genome_file'], encoding='utf-8',
+                  newline='') as genome_file:
+            self.genoma_data = list(csv.reader(genome_file, delimiter='\t'))
         self.genoma_data = [x for x in self.genoma_data if len(x) == 4][1:]
         data_tmp = {}
         for data in self.genoma_data:
