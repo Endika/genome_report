@@ -849,7 +849,7 @@ rs80338895:
     - null
   GT:
     - Portador de un alelo de tirosinemia tipo I.
-    - fals
+    - false
   TT:
     - Tirosinemia tipo I.
     - false
@@ -859,7 +859,7 @@ rs121965075:
     - null
   GT:
     - Portador de un alelo de tirosinemia tipo I.
-    - fals
+    - false
   TT:
     - Tirosinemia tipo I.
     - false
@@ -2111,7 +2111,7 @@ rs1799931:
 rs1208:
   GG:
     - Metabolizador muy lento.
-    - fasle
+    - false
   AG:
     - Metabolizador lento.
     - false
