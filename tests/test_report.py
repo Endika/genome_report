@@ -2,6 +2,7 @@ import html
 from pathlib import Path
 
 import pytest
+import yaml
 
 from genome import GenomeReport
 
@@ -56,3 +57,15 @@ def test_english_report_has_no_spanish_characters(tmp_path, monkeypatch,
     text = html.unescape(
         (tmp_path / 'report.html').read_text(encoding='utf-8'))
     assert not set(text) & set('áéíóúñÁÉÍÓÚÑ¿¡´')
+
+
+@pytest.mark.parametrize('lang', ['es', 'en'])
+def test_every_snp_result_is_good_bad_or_neutral(lang):
+    snp_file = DEMO.parent.parent / 'data' / lang / 'snp.yml'
+    snps = yaml.safe_load(snp_file.read_text(encoding='utf-8'))
+
+    invalid = [(rsid, genotype, result[1])
+               for rsid, genotypes in snps.items()
+               for genotype, result in genotypes.items()
+               if result[1] not in (True, False, None)]
+    assert invalid == []

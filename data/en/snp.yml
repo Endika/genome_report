@@ -859,7 +859,7 @@ rs80338895:
     - null
   GT:
     - Carrier of a tyrosinemia type I allele.
-    - fals
+    - false
   TT:
     - Tyrosinemia type I.
     - false
@@ -869,7 +869,7 @@ rs121965075:
     - null
   GT:
     - Carrier of a tyrosinemia type I allele.
-    - fals
+    - false
   TT:
     - Tyrosinemia type I.
     - false
