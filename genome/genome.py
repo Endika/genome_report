@@ -3,7 +3,6 @@
 import csv
 import os
 
-import pdfkit
 import yaml
 from jinja2 import Environment, FileSystemLoader
 
@@ -16,13 +15,10 @@ class GenomeReport():
     snp = {}
     genoma_data = {}
 
-    def __init__(self, genome_file,
-                 report_format='html',
-                 output='my_report', lang='es'):
+    def __init__(self, genome_file, output='my_report', lang='es'):
         """Init."""
         self.conf = {
             'genome_file': genome_file,
-            'report_format': report_format,
             'output_name': output,
             'report': 'data/{}/report.yml'.format(lang),
             'snp': 'data/{}/snp.yml'.format(lang)
@@ -36,11 +32,6 @@ class GenomeReport():
             loader=FileSystemLoader(path or './')).get_template(
             filename).render(context)
         open('{}.html'.format(self.conf['output_name']), 'w').write(result)
-        if self.conf['report_format'] == 'pdf':
-            pdfkit.from_file(
-                '{}.html'.format(self.conf['output_name']),
-                '{}.pdf'.format(self.conf['output_name']))
-            os.system('rm {}.html'.format(self.conf['output_name']))
 
     def load_files(self):
         """Load all files YAML and CSV."""
