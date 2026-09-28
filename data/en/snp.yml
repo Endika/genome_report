@@ -40,326 +40,326 @@ rs1815739:
     - null
 rs53576:
   AA:
-    - Falta de empat&iacute;a?
+    - Lack of empathy?
     - false
   AG:
-    - Falta de empat&iacute;a?
+    - Lack of empathy?
     - false
   GG:
-    - Optimista y emp&aacute;tico, maneja bien el estr&eacute;s.
+    - Optimistic and empathetic, handles stress well.
     - true
 rs6152:
   AA:
-    - Ese pelazo que tienes, lo vas a conservar por mucho tiempo.
+    - That great head of hair of yours is going to stick around for a long time.
     - true
   AG:
-    - Riesgo alto de padecer calvicie, no te preocupes es la moda de hoy en d&iacute;a.
+    - High risk of going bald, don't worry, it's in fashion these days.
     - null
   GG:
-    - Riesgo de ser calvo, buena suerte, puede que no sea as&iacute;.
+    - Risk of going bald, good luck, it may not happen.
     - null
 rs333:
   --:
-    - Tu organismo combate el VIH.
+    - Your body fights HIV.
     - true
 rs9264942:
   CC:
-    - 90% de combatir el virus VIH.
+    - 90% chance of fighting the HIV virus.
     - true
   CT:
-    - 60% de combatir el virus VIH.
+    - 60% chance of fighting the HIV virus.
     - true
   TT:
-    - Porcentaje normal, de combatir el virus VIH.
+    - Normal chance of fighting the HIV virus.
     - null
 rs2572886:
   AA:
-    - Riesgo muy alto de infecci&oacute;n del virus VIH.
+    - Very high risk of HIV infection.
     - false
   AG:
-    - Riesgo alto de infecci&oacute;n del virus VIH.
+    - High risk of HIV infection.
     - false
   GG:
-    - Riesgo normal de infecci&oacute;n del virus VIH.
+    - Normal risk of HIV infection.
     - true
 rs1800497:
   CC:
-    - Cantidad normal de receptores de dopamina, baja obesidad debido a la mayor respuesta del placer de los alimentos. Muy bajo riesgo de alcoholismo y de adicci&oacute;n al tabaquismo. Si eres alcoholico o fumador, trabaja que lo conseguir&aacute;s dejar.
+    - Normal amount of dopamine receptors, low obesity thanks to a stronger pleasure response to food. Very low risk of alcoholism and smoking addiction. If you drink or smoke, keep at it and you'll manage to quit.
     - true
   CT:
-    - Incremento de obesidad debido a la disminui&oacute;n de la respuesta al placer de los alimentos. Riesgo de alcoholismo y de adicci&oacute;n al tabaquismo.
+    - Increased obesity due to a weaker pleasure response to food. Risk of alcoholism and smoking addiction.
     - false
   TT:
-    - Incremento de obesidad debido a la disminui&oacute;n de la respuesta al placer de los alimentos. Mayor riesgo de alcoholismo y de adicci&oacute;n al tabaquismo.
+    - Increased obesity due to a weaker pleasure response to food. Higher risk of alcoholism and smoking addiction.
     - false
 rs1805007:
   CC:
-    - No eres pelirojo. Pocas pecas.
+    - You're not a redhead. Few freckles.
     - true
   CT:
-    - Eres portador de una variante al pelo rojo, por lo tanto mayor riesgo de melanoma
+    - You carry a red hair variant, therefore a higher risk of melanoma
     - false
   TT:
-    - Eres pelirojo, riesgo muy alto de melanoma y de respuesta a los anest&eacute;sicos.
+    - You're a redhead, very high risk of melanoma and of reactions to anesthetics.
     - false
 rs9939609:
   AA:
-    - Riesgo alto de obesidad y de diabetes tipo 2.
+    - High risk of obesity and type 2 diabetes.
     - false
   AT:
-    - Riesgo de obesidad y de diabetes tipo 2.
+    - Risk of obesity and type 2 diabetes.
     - false
   TT:
-    - Bajo riesgo de obesidad y de diabetes tipo 2.
+    - Low risk of obesity and type 2 diabetes.
     - true
 rs662799:
   AA:
-    - No hay riesgo de ataque card&iacute;aco.
+    - No risk of heart attack.
     - true
   AG:
-    - Alto riesgo de ataque card&iacute;aco, cuida la dieta y no comas grasas.
+    - High risk of heart attack, watch your diet and don't eat fatty food.
     - false
   GG:
-    - Muy alto riesgo de ataque card&iacute;aco, cuida mucho tu dieta no comas grasas.
+    - Very high risk of heart attack, watch your diet closely, no fatty food.
     - false
 rs7495174:
   AA:
-    - Muy probable que tengas los ojos azules o verdes.
+    - Very likely you have blue or green eyes.
     - null
   AG:
-    - Algo probable que tengas los ojos azules o verdes
+    - Somewhat likely you have blue or green eyes
     - null
   GG:
-    - Algo probable que tengas los ojos azules o verdes
+    - Somewhat likely you have blue or green eyes
     - null
 rs12913832:
   AA:
-    - En el 85% de los casos ojos marrones, en el 14% ojos verdes y un 1% de casos con ojos azules.
+    - Brown eyes in 85% of cases, green eyes in 14% and blue eyes in 1% of cases.
     - null
   AG:
-    - Ojos marrones en el 56% de los casos, ojos verdes en el 37% y en el 7% ojos azules.
+    - Brown eyes in 56% of cases, green eyes in 37% and blue eyes in 7%.
     - null
   GG:
-    - En el 72% de los casos ojos azules, en el 27% ojos verdes y un 1% de casos con ojos marrones.
+    - Blue eyes in 72% of cases, green eyes in 27% and brown eyes in 1% of cases.
     - null
 rs7903146:
   CC:
-    - Riesgo bajo de padecer diabetes de tipo 2
+    - Low risk of type 2 diabetes
     - true
   CT:
-    - Riesgo alto de padecer diabetes tipo 2 y probablemente c&aacute;ncer de colon.
+    - High risk of type 2 diabetes and probably colon cancer.
     - false
   TT:
-    - Riesgo muy alto de padecer diabetes de tipo 2.
+    - Very high risk of type 2 diabetes.
     - false
 rs12255372:
   GG:
-    - Riesgo normal de padecer diabetes tipo 2.
+    - Normal risk of type 2 diabetes.
     - true
   GT:
-    - Riesgo alto de padecer diabetes de tipo 2.
+    - High risk of type 2 diabetes.
     - false
   TT:
-    - Muy alto riesgo de padecer diabetes de tipo 2 y posiblemente c&aacute;ncer de mama y c&aacute;ncer de pr&oacute;stata agresivo.
+    - Very high risk of type 2 diabetes and possibly breast cancer and aggressive prostate cancer.
     - false
 rs1799971:
   AA:
-    - No eres alcoh&oacute;lico, tus antojos de alcohol estan en la media.
+    - You're not an alcoholic, your alcohol cravings are average.
     - true
   AG:
-    - Antojos de alcohol fuertes, posible alcoh&oacute;lico.
+    - Strong alcohol cravings, possible alcoholic.
     - false
   GG:
-    - Tus antojos de alcohol son muy fuertes, posible alcoh&oacute;lico.
+    - Your alcohol cravings are very strong, possible alcoholic.
     - false
 rs17822931:
   CC:
-    - Cera de o&iacute;do humeda, olor corporal normal, sudoroso normal
+    - Wet earwax, normal body odor, normal sweating
     - null
   CT:
-    - Cera de o&iacute;do humeda, buen olor corporal.
+    - Wet earwax, pleasant body odor.
     - true
   TT:
-    - Cera de o&iacute;do seca, no hay olor corporal, probablemente ascendencia asi&aacute;tica, no eres sudoroso.
+    - Dry earwax, no body odor, probably of Asian descent, you don't sweat much.
     - true
 rs4680:
   AA:
-    - Nivel Guerrero, ventaja en tareas de memor&iacute;a y atenci&oacute;n. Mayo nivel de dopamina.
+    - Warrior level, an edge in memory and attention tasks. Higher dopamine level.
     - true
   AG:
-    - Normal, niveles normales de dopamina.
+    - Normal, normal dopamine levels.
     - null
   GG:
-    - Nivel Guerrero, mayor umbral del dolor, mucha resistencia al estr&eacute;s, modestamente nivel cognitivo reducido.
+    - Warrior level, higher pain threshold, great stress resilience, slightly reduced cognitive level.
     - true
 rs1333049:
   CC:
-    - Muy alto riesgo de enfermedad coronaria.
+    - Very high risk of coronary heart disease.
     - false
   CG:
-    - Riesgo alto de enfermedad coronaria.
+    - High risk of coronary heart disease.
     - false
   GG:
-    - Normal, estas en la media.
+    - Normal, you're average.
     - true
 rs1801133:
   CC:
-    - Común, niveles normales de homociste&iacute;na.
+    - Common, normal homocysteine levels.
     - true
   CT:
-    - Riesgo, nivel de procesamiento del acido f&oacute;lico menor. Este aelo esta relacionado a multiples posibles trastornos (autismo, c&aacute;ncer g&aacute;strico, de pulm&oacute;n, renal..., depresi&oacute;n, migra&ntilde;a, esquizofrenia, trombosis, sindrome de Down..)
+    - Risk, lower folic acid processing. This allele is linked to multiple possible disorders (autism, stomach, lung, kidney cancer..., depression, migraine, schizophrenia, thrombosis, Down syndrome..)
     - false
   TT:
-    - Alto riesgo, nivel de procesamiento del acido f&oacute;lico muy bajo y homociste&iacute;na elevada. Este aelo esta relacionado a multiples posibles trastornos (autismo, c&aacute;ncer g&aacute;strico, de pulm&oacute;n, renal..., depresi&oacute;n, migra&ntilde;a, esquizofrenia, trombosis, sindrome de Down..)
+    - High risk, very low folic acid processing and elevated homocysteine. This allele is linked to multiple possible disorders (autism, stomach, lung, kidney cancer..., depression, migraine, schizophrenia, thrombosis, Down syndrome..)
     - false
 rs9340799:
   AA:
-    - Las mujeres tienen un menor riesgo de endometriosis, pero riesgo normal de c&aacute;ncer endometrial, y el deterioro cognitivo con la edad.
+    - Women have a lower risk of endometriosis, but a normal risk of endometrial cancer and of cognitive decline with age.
     - true
   AG:
-    - Las mujeres tienen un riesgo normal de la endometriosis, menor riesgo de c&aacute;ncer endometrial y el riesgo superior del deterioro cognitivo.
+    - Women have a normal risk of endometriosis, a lower risk of endometrial cancer and a higher risk of cognitive decline.
     - true
   GG:
-    - Las mujeres tienen alto riesgo de endometriosis, pero la mitad el riesgo de c&aacute;ncer endometrial y menos deterioro cognitivo.
+    - Women have a high risk of endometriosis, but half the risk of endometrial cancer and less cognitive decline.
     - false
 rs1051730:
   CC:
-    - Si eres fumador, tienes muy baja dependencia a la nicotica.
+    - If you smoke, your nicotine dependence is very low.
     - true
   CT:
-    - Dependencia alta, con riesgo de padecer c&aacute;ncer de pulm&oacute;n
+    - High dependence, with a risk of lung cancer
     - false
   TT:
-    - Dependendia muy alta, y riesgo muy alto de c&aacute;ncer de pulm&oacute;n, y posible riesgo de abuso del alcohol.
+    - Very high dependence, a very high risk of lung cancer, and a possible risk of alcohol abuse.
     - false
 rs4988235:
   CC:
-    - Probabilidad muy alta de ser intolerante a la lactosa.
+    - Very likely to be lactose intolerant.
     - false
   CT:
-    - Probabilidad de ser intolerante a la lactosa.
+    - Likely to be lactose intolerant.
     - true
   TT:
-    - No eres intolerante a la lactosa.
+    - You're not lactose intolerant.
     - true
 rs121965063:
   GG:
-    - No hay deficiencia.
+    - No deficiency.
     - true
   GT:
-    - Portador de la mutaci&oacute;n del factor XI, pueden presentar episodios hemorr&aacute;gicos graves
+    - Carrier of the factor XI mutation, severe bleeding episodes may occur
     - false
   TT:
-    - Deficiencia del factor XI, sufres de episodios hemorr&aacute;gicos graves, (hemorragias nasales, propenso a moretones, periodos menstruales abundantes y prolongados, u otras hemorragias anormales)
+    - Factor XI deficiency, you have severe bleeding episodes (nosebleeds, easy bruising, heavy and prolonged menstrual periods, or other abnormal bleeding)
     - false
 rs121908747:
   CC:
-    - No eres portador.
+    - You're not a carrier.
     - true
 rs113993960:
   --:
-    - Portador de una mutaci&oacute;n de fibrosis qu&iacute;stica
+    - Carrier of a cystic fibrosis mutation
     - false
   CT:
-    - No eres portador
+    - You're not a carrier
     - true
   CC:
-    - No eres portador
+    - You're not a carrier
     - true
   TT:
-    - No eres portador
+    - You're not a carrier
     - true
   TC:
-    - No eres portador
+    - You're not a carrier
     - true
 rs1042713:
   --:
-    - Perteneces al 88% y solo pierdes peso con el ejercicio intenso.
+    - You're in the 88% who only lose weight with intense exercise.
     - false
   AA:
-    - Gen&eacute;tica privilegiada, perteneces al 12% y cualquier ejercicio es bueno para perder peso.
+    - Privileged genetics, you're in the 12% for whom any exercise helps you lose weight.
     - true
   TT:
-    - Gen&eacute;tica privilegiada, perteneces al 12% y cualquier ejercicio es bueno para perder peso.
+    - Privileged genetics, you're in the 12% for whom any exercise helps you lose weight.
     - true
 rs4994:
   --:
-    - Perteneces al 88% y solo pierdes peso con el ejercicio intenso.
+    - You're in the 88% who only lose weight with intense exercise.
     - false
   AA:
-    - Gen&eacute;tica privilegiada, perteneces al 12% y cualquier ejercicio es bueno para perder peso.
+    - Privileged genetics, you're in the 12% for whom any exercise helps you lose weight.
     - true
   TT:
-    - Gen&eacute;tica privilegiada, perteneces al 12% y cualquier ejercicio es bueno para perder peso.
+    - Privileged genetics, you're in the 12% for whom any exercise helps you lose weight.
     - true
 rs1799883:
   --:
-    - Lo siento, tu dieta tiene que ser muy muy baja en carboidratos.
+    - Sorry, your diet has to be very, very low in carbs.
     - false
   GG:
-    - Felicidades! cualquier dieta es valida.
+    - Congratulations! Any diet works for you.
     - true
 rs1801282:
   --:
-    - Obtendras mejores resultados si controla los carboidratos.
+    - You'll get better results if you keep carbs in check.
     - false
   CC:
-    - Eres un privilegiado cualquier dieta es buena para ti.
+    - Lucky you, any diet is good for you.
     - true
 rs1042714:
   --:
-    - Obtendras mejores resultados si controla los carboidratos.
+    - You'll get better results if you keep carbs in check.
     - false
   CC:
-    - Eres un privilegiado cualquier dieta es buena para ti.
+    - Lucky you, any diet is good for you.
     - true
 rs7151526:
   AA:
-    - Posible riesgo de ANCA asociado a vasculitis.
+    - Possible risk of ANCA-associated vasculitis.
     - false
   CC:
-    - Normal no pasa nada.
+    - Normal, nothing to worry about.
     - true
 rs121912713:
   GT:
-    - Probable trastorno de sangrado.
+    - Probable bleeding disorder.
     - false
   TT:
     - Normal.
     - true
 rs28931568:
   AA:
-    - Alto riesgo de enfisema.
+    - High risk of emphysema.
     - false
   AG:
-    - Portador com&uacute; Antitripsina.
+    - Common antitrypsin carrier.
     - false
   GG:
-    - Caso com&uacute;n.
+    - Common case.
     - null
 rs28931569:
   CC:
-    - Alto riesgo de enfisema.
+    - High risk of emphysema.
     - false
   TT:
-    - Caso com&uacute;n.
+    - Common case.
     - null
 rs5742904:
   AA:
-    - Riesgo muy alto de Hipercolesterolemia tipo B.
+    - Very high risk of hypercholesterolemia type B.
     - false
   AG:
-    - Riesgo alto de Hipercolesterolemia tipo B.
+    - High risk of hypercholesterolemia type B.
     - false
   GG:
     - Normal.
     - true
 rs144467873:
   AA:
-    - Riesgo muy alto de Hipercolesterolemia tipo B.
+    - Very high risk of hypercholesterolemia type B.
     - false
   AG:
-    - Riesgo alto de Hipercolesterolemia tipo B.
+    - High risk of hypercholesterolemia type B.
     - false
   GG:
     - Normal.
@@ -369,977 +369,977 @@ rs121918070:
     - Normal.
     - true
   AG:
-    - Padeces de polineuropat&iacute;a amiloide familiar.
+    - You have familial amyloid polyneuropathy.
     - false
   GG:
-    - Padeces de polineuropat&iacute;a amiloide familiar.
+    - You have familial amyloid polyneuropathy.
     - false
 i4000378:
   DD:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   DI:
-    - C&aacute;ncer de mama.
+    - Breast cancer.
     - false
   II:
-    - C&aacute;ncer de mama.
+    - Breast cancer.
     - false
 rs80357906:
   --:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   -C:
-    - C&aacute;ncer de mama.
+    - Breast cancer.
     - false
 i4000377:
   DD:
-    - C&aacute;ncer de mama.
+    - Breast cancer.
     - false
   DI:
-    - C&aacute;ncer de mama.
+    - Breast cancer.
     - false
   II:
-    - Caso com&uacute;n.
+    - Common case.
     - null
 rs1799945:
   CC:
-    - Sin riesgo de falta de hierro.
+    - No risk of iron deficiency.
     - true
   CG:
-    - Portador y posible afectado de hemocromatosis (Falta de hierro).
+    - Carrier and possibly affected by hemochromatosis (iron deficiency).
     - false
   GG:
-    - Afectado de forma leve de hemocromatosis (Falta de hierro).
+    - Mildly affected by hemochromatosis (iron deficiency).
     - false
 rs1799963:
   AA:
-    - Propenso a la trombosis, tambi&eacute; mayor riesgo de infarto cerebral.
+    - Prone to thrombosis, also a higher risk of cerebral infarction.
     - false
   AG:
-    - Propenso a la trombosis, tambi&eacute; mayor riesgo de infarto cerebral.
+    - Prone to thrombosis, also a higher risk of cerebral infarction.
     - false
   GG:
-    - Caso com&uacute;n.
+    - Common case.
     - null
 rs6025:
   AA:
-    - Riesgo muy alto de trombosis.
+    - Very high risk of thrombosis.
     - false
   AG:
-    - Riesgo de trombosis.
+    - Risk of thrombosis.
     - false
   GG:
-    - Caso com&uacute;n.
+    - Common case.
     - null
 rs34637584:
   AA:
-    - Del 15 al 30% de probabilidad de la enfermedad de Parkinson.
+    - 15 to 30% chance of Parkinson's disease.
     - false
   AG:
-    - Del 15 al 30% de probabilidad de la enfermedad de Parkinson.
+    - 15 to 30% chance of Parkinson's disease.
     - false
   GG:
-    - Caso com&uacute;n.
+    - Common case.
     - null
 rs121908428:
   CC:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   CT:
-    - Portador de mutaci&oacute;n neurol&oacute;gico ACCPN.
+    - Carrier of the ACCPN neurological mutation.
     - false
   TT:
-    - Trastorn neurol&oacute;gico ACCPN.
+    - ACCPN neurological disorder.
     - false
 rs200511261:
   AA:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   GG:
-    - Poliquistico enfermedad en los ri&ntilde;ones.
+    - Polycystic kidney disease.
     - false
 rs369925690:
   CC:
-    - Poliquistico enfermedad en los ri&ntilde;ones.
+    - Polycystic kidney disease.
     - false
   CT:
-    - Portador de una mutaci&oacute;n de enfermedad renal poliqu&iacute;stica.
+    - Carrier of a polycystic kidney disease mutation.
     - false
   TT:
-    - Caso com&uacute;n.
+    - Common case.
     - null
 rs137852944:
   CC:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   CT:
-    - Portador de una mutaci&oacute;n de enfermedad renal poliqu&iacute;stica.
+    - Carrier of a polycystic kidney disease mutation.
     - false
   TT:
-    - Poliquistico enfermedad en los ri&ntilde;ones.
+    - Polycystic kidney disease.
     - false
 rs11549407:
   CC:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   CT:
-    - Portador de Beta Talasemia.
+    - Beta thalassemia carrier.
     - false
   TT:
-    - Contiene Beta Talasemia.
+    - Has beta thalassemia.
     - false
 i4000396:
   DD:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   DI:
-    - Portador del s&iacute;ndrome de Bloom.
+    - Bloom syndrome carrier.
     - false
   II:
-    - Padece el s&iacute;ndrome de Bloom.
+    - Has Bloom syndrome.
     - false
 rs28940279:
   AA:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   AC:
-    - Portador de la enfermedad de Canavan.
+    - Canavan disease carrier.
     - false
   CC:
-    - Padece la enfermedad de Canavan.
+    - Has Canavan disease.
     - false
 rs28936415:
   AA:
-    - Trastorno cong&eacute;nito de la glicosilaci&oacute;n tipo 1a.
+    - Congenital disorder of glycosylation type 1a.
     - false
   AG:
-    - Portador del trastorno cong&eacute;nito de la glicosilaci&oacute;n tipo 1a.
+    - Carrier of congenital disorder of glycosylation type 1a.
     - false
   GG:
-    - Caso com&uacute;n.
+    - Common case.
     - null
 rs80338939:
   --:
-    - Sordera asociada.
+    - Associated deafness.
     - false
   -G:
-    - Portador de la variante de sordera asociada.
+    - Carrier of the associated deafness variant.
     - false
   GG:
-    - Caso com&uacute;n.
+    - Common case.
     - null
 i4000320:
   AA:
-    - Fibrosis qu&iacute;stica.
+    - Cystic fibrosis.
     - false
   AG:
-    - Portador de fibrosis qu&iacute;stica.
+    - Cystic fibrosis carrier.
     - false
   GG:
-    - Caso com&uacute;n.
+    - Common case.
     - null
 rs4934:
   AA:
-    - Riesgo muy alto de padecer Alzheimer.
+    - Very high risk of Alzheimer's.
     - false
   AG:
-    - Riesgo normal.
+    - Normal risk.
     - null
   GG:
-    - Caso com&uacute;n.
+    - Common case.
     - null
 rs671:
   AA:
-    - Riesgo alto de c&acute;ncer de es&oacute;fago, alcoholismo cr&oacute;nico.
+    - High risk of esophageal cancer, chronic alcoholism.
     - false
   AG:
-    - Sufre las peores resacas, riesgo de c&acute;ncer de es&oacute;fago, probablemente alcoh&oacutelico.
+    - Gets the worst hangovers, risk of esophageal cancer, probably alcoholic.
     - false
   GG:
-    - Riesgo normal de alcoholismo, poco o ning&uacute;n enrojecimiento del rostro con la ingesta de alcohol.
+    - Normal risk of alcoholism, little or no facial flushing when drinking alcohol.
     - true
 rs2736100:
   GG:
-    - Riesgo alto de desarrollar glioma.
+    - High risk of developing glioma.
     - false
   GT:
-    - Riesgo alto de desarrollar glioma y fibrosis pulmonar.
+    - High risk of developing glioma and pulmonary fibrosis.
     - false
   TT:
-    - Muy alto riesgo de padecer una enfermedad pulmonar y c&aacute;ncer testicular, mayor riesgo de fibrosis pulmonar.
+    - Very high risk of lung disease and testicular cancer, higher risk of pulmonary fibrosis.
     - false
 rs10936599:
   CC:
-    - Vida m&aacute;s larga?
+    - Longer life?
     - true
   TT:
-    - Vida m&aacute;s corta?
+    - Shorter life?
     - false
 rs1799884:
   AA:
-    - Las madres tendran bebes 54g m&aacute;s grandes.
+    - Mothers will have babies 54g bigger.
     - null
   AG:
-    - Las madres tendran bebes 27g m&aacute;s grandes.
+    - Mothers will have babies 27g bigger.
     - null
   GG:
-    - Caso com&uacute;n.
+    - Common case.
     - null
 rs713598:
   CC:
-    - Puedes saborear los sabores amargos.
+    - You can taste bitter flavors.
     - null
   CG:
-    - Puedes saborear los sabores amargos.
+    - You can taste bitter flavors.
     - null
   GG:
-    - Posiblemente seas incapaz de saborear el amargo.
+    - You may be unable to taste bitterness.
     - null
 rs560887:
   AA:
-    - Promedio de niveles en ayunas de glucosa plasm&aacute;tica en 5.06mmol/l.
+    - Average fasting plasma glucose level of 5.06mmol/l.
     - true
   AG:
-    - Promedio de niveles en ayunas de glucosa plasm&aacute;tica en 5.12mmol/l.
+    - Average fasting plasma glucose level of 5.12mmol/l.
     - false
   GG:
-    - Promedio de niveles en ayunas de glucosa plasm&aacute;tica en 5.18mmol/l.
+    - Average fasting plasma glucose level of 5.18mmol/l.
     - false
 rs2814778:
   AA:
-    - No eres resistente a la malaria.
+    - You're not resistant to malaria.
     - null
   AG:
-    - Portador, quiz&aacute; resistente a la malaria.
+    - Carrier, perhaps resistant to malaria.
     - true
   GG:
-    - Resistente a la malaria.
+    - Resistant to malaria.
     - true
 rs601338:
   AA:
-    - Resistente al notrovirus.
+    - Resistant to norovirus.
     - true
   AG:
-    - Susceptible al notrovirus.
+    - Susceptible to norovirus.
     - false
   GG:
-    - Susceptible al notrovirus.
+    - Susceptible to norovirus.
     - false
 rs398122416:
   -C:
-    - Padeces s&iacute;ndrome de Prader-Willi-like, s&iacute;ndrome de Schaaf-Yang.
+    - You have Prader-Willi-like syndrome, Schaaf-Yang syndrome.
     - false
   CC:
-    - Caso com&uacute;n.
+    - Common case.
     - null
 rs398122415:
   -T:
-    - Padeces s&iacute;ndrome de Prader-Willi-like, s&iacute;ndrome de Schaaf-Yang.
+    - You have Prader-Willi-like syndrome, Schaaf-Yang syndrome.
     - false
   TT:
-    - Caso com&uacute;n.
+    - Common case.
     - null
 rs200322968:
   CC:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   CT:
-    - Tienes una mutaci&oacute;n del s&iacute;ndrome Orofaciodigital.
+    - You have an orofaciodigital syndrome mutation.
     - false
   TT:
-    - Padeces el s&iacute;ndrome de Orofaciodigital.
+    - You have orofaciodigital syndrome.
     - false
 rs373900644:
   CC:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   CT:
-    - Tienes una mutaci&oacute;n del s&iacute;ndrome Orofaciodigital.
+    - You have an orofaciodigital syndrome mutation.
     - false
   TT:
-    - Padeces el s&iacute;ndrome de Orofaciodigital.
+    - You have orofaciodigital syndrome.
     - false
 rs201662623:
   CC:
-    - Padeces el s&iacute;ndrome de Orofaciodigital.
+    - You have orofaciodigital syndrome.
     - false
   CT:
-    - Tienes una mutaci&oacute;n del s&iacute;ndrome Orofaciodigital.
+    - You have an orofaciodigital syndrome mutation.
     - false
   TT:
-    - Caso com&uacute;n.
+    - Common case.
     - null
 rs200649783:
   CC:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   AC:
-    - Tienes una mutaci&oacute;n del s&iacute;ndrome Orofaciodigital.
+    - You have an orofaciodigital syndrome mutation.
     - false
   AA:
-    - Padeces el s&iacute;ndrome de Orofaciodigital.
+    - You have orofaciodigital syndrome.
     - false
 rs150681845:
   GG:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   AG:
-    - Tienes una mutaci&oacute;n del s&iacute;ndrome Orofaciodigital.
+    - You have an orofaciodigital syndrome mutation.
     - false
   AA:
-    - Padeces el s&iacute;ndrome de Orofaciodigital.
+    - You have orofaciodigital syndrome.
     - false
 rs137891647:
   CC:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   CG:
-    - No se ve afectado, portador de una mutaci&oacute;n deficiencia Lipoyltransferase 1 (muy grave).
+    - Not affected, carrier of a lipoyltransferase 1 deficiency mutation (very severe).
     - false
   GG:
-    - Deficiencia de Lipoyltransferase 1 (muy grave).
+    - Lipoyltransferase 1 deficiency (very severe).
     - false
 rs786205156:
   AA:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   AG:
-    - No se ve afectado, portador de una mutaci&oacute;n deficiencia Lipoyltransferase 1 (muy grave).
+    - Not affected, carrier of a lipoyltransferase 1 deficiency mutation (very severe).
     - false
   GG:
-    - Deficiencia de Lipoyltransferase 1 (muy grave).
+    - Lipoyltransferase 1 deficiency (very severe).
     - false
 rs4244285:
   AA:
-    - Metaboliza lento varios medicamentos populares.
+    - Slowly metabolizes several popular drugs.
     - false
   AG:
-    - Metaboliza lento varios medicamentos populares.
+    - Slowly metabolizes several popular drugs.
     - false
   GG:
-    - Caso com&uacute;n.
+    - Common case.
     - null
 rs4149056:
   CC:
-    - Riesgo de miopat&iacute;a.
+    - Risk of myopathy.
     - false
   CT:
-    - Riesgo de miopat&iacute;a.
+    - Risk of myopathy.
     - false
   TT:
-    - Caso com&uacute;n.
+    - Common case.
     - null
 rs10757278:
   AA:
-    - riesgo reducido de enfermedad cardiaca coronaria. Riesgo reducido de aneurisma cerebral y aneurisma a&oacute;rtico abdominal.
+    - reduced risk of coronary heart disease. Reduced risk of brain aneurysm and abdominal aortic aneurysm.
     - true
   AG:
-    - Riesgo de ataque al coraz&oacute;n. Riesgo normal de un aneurisma a&oacute;rtico abdominal y aneurisma cerebral.
+    - Risk of heart attack. Normal risk of abdominal aortic aneurysm and brain aneurysm.
     - false
   GG:
-    - Riesgo de ataque al coraz&oacute;n; riesgo de aneurisma a&oacute;rtico abdominal y aneurisma cerebral.
+    - Risk of heart attack; risk of abdominal aortic aneurysm and brain aneurysm.
     - false
 rs1537415:
   CC:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   CG:
-    - Riesgo alto de periodontitis.
+    - High risk of periodontitis.
     - false
   GG:
-    - Riesgo de periodontitis.
+    - Risk of periodontitis.
     - false
 rs3892097:
   AA:
-    - Metabolizador lento.
+    - Slow metabolizer.
     - false
   AG:
     - Normal.
     - null
   GG:
-    - Buen metabolizador.
+    - Good metabolizer.
     - true
 rs1447295:
   AA:
-    - Riesgo muy alto de c&aacute;ncer de prostata.
+    - Very high risk of prostate cancer.
     - false
   AC:
-    - Riesgo alto de c&aacute;ncer de prostata.
+    - High risk of prostate cancer.
     - false
   CC:
     - Normal.
     - null
 rs11803731:
   AA:
-    - Pelo liso.
+    - Straight hair.
     - null
   TT:
-    - Pelo rizado.
+    - Curly hair.
     - null
 rs2395029:
   GG:
-    - Alto riesgo de hipersensibilidad a varios f&aacute;rmacos, incluyendo abacavir; riesgo de la psoriasis.
+    - High risk of hypersensitivity to several drugs, including abacavir; risk of psoriasis.
     - false
   GT:
-    - Riesgo de hipersensibilidad a varios f&aacute;rmacos, incluyendo abacavir; riesgo de la psoriasis.
+    - Risk of hypersensitivity to several drugs, including abacavir; risk of psoriasis.
     - false
   TT:
     - Normal.
     - null
 rs61750420:
   AA:
-    - Padeces de la enfermedad peroxisomal (Zellweger).
+    - You have peroxisomal disorder (Zellweger).
     - false
   AG:
-    - Portador de la enfermedad peroxisomal (Zellweger).
+    - Carrier of peroxisomal disorder (Zellweger).
     - false
   GG:
-    - Caso com&uacute;n.
+    - Common case.
     - null
 rs111033258:
   GG:
-    - Padeces el s&iacute;ndrome de Usher Tipo III.
+    - You have Usher syndrome type III.
     - false
   GT:
-    - Portador del s&iacute;ndrome de Usher Tipo III.
+    - Usher syndrome type III carrier.
     - false
   TT:
-    - Caso com&uacute;n.
+    - Common case.
     - null
 rs111033260:
   CC:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   CT:
-    - Portador del s&iacute;ndrome de Usher Tipo III.
+    - Usher syndrome type III carrier.
     - false
   TT:
-    - Padeces el s&iacute;ndrome de Usher Tipo III.
+    - You have Usher syndrome type III.
     - false
 rs80358959:
   AA:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   AT:
-    - BRCA2 variante considerada del patogeno del c&aacute;ncer de mama.
+    - BRCA2 variant considered pathogenic for breast cancer.
     - false
 rs80338899:
   AA:
-    - Tirosinemia tipo I.
+    - Tyrosinemia type I.
     - false
   AG:
-    - Portador de un alelo de tirosinemia tipo I.
+    - Carrier of a tyrosinemia type I allele.
     - false
   GG:
-    - Caso com&uacute;n.
+    - Common case.
     - null
 rs80338898:
   CC:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   CT:
-    - Portador de un alelo de tirosinemia tipo I.
+    - Carrier of a tyrosinemia type I allele.
     - false
   TT:
-    - Tirosinemia tipo I.
+    - Tyrosinemia type I.
     - false
 rs80338901:
   AA:
-    - Tirosinemia tipo I.
+    - Tyrosinemia type I.
     - false
   AG:
-    - Portador de un alelo de tirosinemia tipo I.
+    - Carrier of a tyrosinemia type I allele.
     - false
   GG:
-    - Caso com&uacute;n.
+    - Common case.
     - null
 rs80338895:
   GG:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   GT:
-    - Portador de un alelo de tirosinemia tipo I.
+    - Carrier of a tyrosinemia type I allele.
     - fals
   TT:
-    - Tirosinemia tipo I.
+    - Tyrosinemia type I.
     - false
 rs121965075:
   GG:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   GT:
-    - Portador de un alelo de tirosinemia tipo I.
+    - Carrier of a tyrosinemia type I allele.
     - fals
   TT:
-    - Tirosinemia tipo I.
+    - Tyrosinemia type I.
     - false
 rs76173977:
   CC:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   CT:
-    - Portador de la enfermedad de Tay-Sachs.
+    - Tay-Sachs disease carrier.
     - false
   TT:
-    - Padeces la enfermedad de Tay-Sachs.
+    - You have Tay-Sachs disease.
     - false
 rs138058578:
   AA:
-    - Probable que conduzca a un an&aacute;lisis de sangre de falsos positivos para la enfermedad de Tay Sachs.
+    - Likely to cause a false positive blood test for Tay-Sachs disease.
     - false
   AG:
-    - Probable que conduzca a un an&aacute;lisis de sangre de falsos positivos para la enfermedad de Tay Sachs.
+    - Likely to cause a false positive blood test for Tay-Sachs disease.
     - false
   GG:
-    - Caso com&uacute;n.
+    - Common case.
     - null
 rs334:
   AA:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   AT:
-    - Portador de, pero no afectado por, anemia de c&eacute;lulas falciformes; mayor resistencia malaria.
+    - Carrier of, but not affected by, sickle cell anemia; greater resistance to malaria.
     - false
   TT:
-    - Padeces anemia falciforme.
+    - You have sickle cell anemia.
     - false
 rs80338794:
   CC:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   CT:
-    - Portador principal mutaci&oacute;n de la enfermedad de Finlandia (Salla).
+    - Carrier of the main mutation of the Finnish disease (Salla).
     - false
   TT:
-    - Padeces la enfermedad de Salla.
+    - You have Salla disease.
     - false
 i3002517:
   AT:
-    - Rizom&eacute;lico Chondrodysplasia Punctata Tipo 1 portador.
+    - Rhizomelic chondrodysplasia punctata type 1 carrier.
     - false
   TT:
-    - Caso com&uacute;n.
+    - Common case.
     - null
 rs80356708:
   --:
-    - Padeces hiperoxaluria primaria.
+    - You have primary hyperoxaluria.
     - false
   -G:
-    - Portador de hiperoxaluria primaria.
+    - Primary hyperoxaluria carrier.
     - false
   GG:
-    - Caso com&uacute;n.
+    - Common case.
     - null
 i4000430:
   GG:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   GT:
-    - Enfermedad de Niemann-Pick tipo A portador.
+    - Niemann-Pick disease type A carrier.
     - false
   TT:
-    - Enfermedad de Niemann-Pick tipo A.
+    - Niemann-Pick disease type A.
     - false
 i4000381:
   CC:
-    - Enfermedad de Niemann-Pick tipo A.
+    - Niemann-Pick disease type A.
     - false
   CT:
-    - Enfermedad de Niemann-Pick tipo A portador.
+    - Niemann-Pick disease type A carrier.
     - false
   TT:
-    - Caso com&uacute;n.
+    - Common case.
     - null
 i4000383:
   DD:
-    - Enfermedad de Niemann-Pick tipo A.
+    - Niemann-Pick disease type A.
     - false
   DI:
-    - Enfermedad de Niemann-Pick tipo A portador.
+    - Niemann-Pick disease type A carrier.
     - false
   II:
-    - Caso com&uacute;n.
+    - Common case.
     - null
 rs104886461:
   AA:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   AG:
-    - Portadora de la mutaci&oacute;n mucolipidosis tipo IV.
+    - Carrier of the mucolipidosis type IV mutation.
     - false
   GG:
-    - Padeces de mucolipidosis tipo IV.
+    - You have mucolipidosis type IV.
     - false
 i5012759:
   AA:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   AG:
-    - Portador de la Cadena Media de Acil-CoA deshidrogenasa deficiencia.
+    - Medium-chain acyl-CoA dehydrogenase deficiency carrier.
     - false
   GG:
-    - Padeces la Cadena Media de Acil-CoA deshidrogenasa deficiencia.
+    - You have medium-chain acyl-CoA dehydrogenase deficiency.
     - false
 i5012758:
   TT:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   CT:
-    - Portador de la Cadena Media de Acil-CoA deshidrogenasa deficiencia.
+    - Medium-chain acyl-CoA dehydrogenase deficiency carrier.
     - false
   CC:
-    - Padeces la Cadena Media de Acil-CoA deshidrogenasa deficiencia.
+    - You have medium-chain acyl-CoA dehydrogenase deficiency.
     - false
 i5012760:
   CC:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   CT:
-    - Portador de la Cadena Media de Acil-CoA deshidrogenasa deficiencia.
+    - Medium-chain acyl-CoA dehydrogenase deficiency carrier.
     - false
   CC:
-    - Padeces la Cadena Media de Acil-CoA deshidrogenasa deficiencia.
+    - You have medium-chain acyl-CoA dehydrogenase deficiency.
     - false
 i5012755:
   CC:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   CT:
-    - Portador de la Cadena Media de Acil-CoA deshidrogenasa deficiencia.
+    - Medium-chain acyl-CoA dehydrogenase deficiency carrier.
     - false
   CC:
-    - Padeces la Cadena Media de Acil-CoA deshidrogenasa deficiencia.
+    - You have medium-chain acyl-CoA dehydrogenase deficiency.
     - false
 i5003117:
   CC:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   CT:
-    - Portador de la Cadena Media de Acil-CoA deshidrogenasa deficiencia.
+    - Medium-chain acyl-CoA dehydrogenase deficiency carrier.
     - false
   CC:
-    - Padeces la Cadena Media de Acil-CoA deshidrogenasa deficiencia.
+    - You have medium-chain acyl-CoA dehydrogenase deficiency.
     - false
 i5003116:
   GG:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   CG:
-    - Portador de la Cadena Media de Acil-CoA deshidrogenasa deficiencia.
+    - Medium-chain acyl-CoA dehydrogenase deficiency carrier.
     - false
   CC:
-    - Padeces la Cadena Media de Acil-CoA deshidrogenasa deficiencia.
+    - You have medium-chain acyl-CoA dehydrogenase deficiency.
     - false
 i3002808:
   CC:
-    - Padeces la enfermedad de la orina de jarabe de arce Enfermedad Tipo 1B.
+    - You have maple syrup urine disease type 1B.
     - false
   CG:
-    - Portador de la enfermedad la orina de jarabe de arce Enfermedad Tipo 1B.
+    - Maple syrup urine disease type 1B carrier.
     - false
   GG:
-    - Caso com&uacute;n.
+    - Common case.
     - null
 i4000422:
   AA:
-    - Padeces la enfermedad de la orina de jarabe de arce Enfermedad Tipo 1B.
+    - You have maple syrup urine disease type 1B.
     - false
   AG:
-    - Portador de la enfermedad la orina de jarabe de arce Enfermedad Tipo 1B.
+    - Maple syrup urine disease type 1B carrier.
     - false
   GG:
-    - Caso com&uacute;n.
+    - Common case.
     - null
 rs80356682:
   CC:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   CT:
-    - Portador de la epidermolisis bullosa.
+    - Epidermolysis bullosa carrier.
     - false
   TT:
-    - Padeces de la epidermolisis bullosa.
+    - You have epidermolysis bullosa.
     - false
 rs1800546:
   CG:
-    - Portadora de alto riesgo de la intolerancia hereditaria a la fructosa (IHF).
+    - High-risk carrier of hereditary fructose intolerance (HFI).
     - false
   GG:
-    - Caso com&uacute;n.
+    - Common case.
     - null
 rs80356489:
   CC:
-    - Portador de la enfermedad almacenamiento de gluc&oacute;geno tipo 1b.
+    - Glycogen storage disease type 1b carrier.
     - false
   CT:
-    - Padeces la enfermedad de almacenamiento de gluc&oacute;geno tipo 1b.
+    - You have glycogen storage disease type 1b.
     - false
   TT:
-    - Caso com&uacute;n.
+    - Common case.
     - null
 rs1801175:
   CC:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   CT:
-    - Portadora de la enfermedad por almacenamiento de gluc&oacute;geno, tipo 1A.
+    - Glycogen storage disease type 1A carrier.
     - false
   TT:
-    - Padeces glucogenosis, tipo 1A.
+    - You have glycogenosis type 1A.
     - false
 rs80356769:
   GG:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   GT:
-    - Portador de alelo de la enfermedad de Gaucher.
+    - Carrier of a Gaucher disease allele.
     - false
   TT:
-    - Padeces la enfermedad de Gaucher.
+    - You have Gaucher disease.
     - false
 rs28937590:
   AA:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   AG:
-    - Portadora del s&iacute;ndrome de GRACILE.
+    - GRACILE syndrome carrier.
     - false
   GG:
-    - Padeces el s&iacute;ndrome de GRACILE.
+    - You have GRACILE syndrome.
     - false
 rs104886456:
   AA:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   AT:
-    - Portador de la anemia de Fanconi.
+    - Fanconi anemia carrier.
     - false
   TT:
-    - Padeces de la anemia de Fanconi.
+    - You have Fanconi anemia.
     - false
 rs104886457:
   CC:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   CT:
-    - Portador de la anemia de Fanconi.
+    - Fanconi anemia carrier.
     - false
   TT:
-    - Padeces de la anemia de Fanconi.
+    - You have Fanconi anemia.
     - false
 rs104886459:
   GG:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   -G:
-    - Portador de la anemia de Fanconi.
+    - Fanconi anemia carrier.
     - false
   --:
-    - Padeces de la anemia de Fanconi.
+    - You have Fanconi anemia.
     - false
 i4000336:
   AA:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   AT:
-    - Portador de la anemia de Fanconi.
+    - Fanconi anemia carrier.
     - false
   TT:
-    - Padeces de la anemia de Fanconi.
+    - You have Fanconi anemia.
     - false
 i4000412:
   GG:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   AG:
-    - Portador de la anemia de Fanconi.
+    - Fanconi anemia carrier.
     - false
   AA:
-    - Padeces de la anemia de Fanconi.
+    - You have Fanconi anemia.
     - false
 i4000413:
   II:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   DI:
-    - Portador de la anemia de Fanconi.
+    - Fanconi anemia carrier.
     - false
   DD:
-    - Padeces de la anemia de Fanconi.
+    - You have Fanconi anemia.
     - false
 rs104895094:
   AA:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   AG:
-    - Portadora de una mutaci&oacute;n fiebre mediterr&aacute;nea familiar.
+    - Carrier of a familial Mediterranean fever mutation.
     - false
   GG:
-    - Padeces de una fiebre mediterr&aacute;nea familiar.
+    - You have familial Mediterranean fever.
     - false
 rs3743930:
   CC:
-    - Puede padecer fiebre mediterr&aacute;nea.
+    - You may have Mediterranean fever.
     - false
   CG:
-    - Puede padecer fiebre mediterr&aacute;nea.
+    - You may have Mediterranean fever.
     - false
   GG:
-    - Caso com&uacute;n.
+    - Common case.
     - null
 rs11466023:
   CC:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   CT:
-    - Puede padecer fiebre mediterr&aacute;nea.
+    - You may have Mediterranean fever.
     - false
   TT:
-    - Puede padecer fiebre mediterr&aacute;nea.
+    - You may have Mediterranean fever.
     - false
 rs137853022:
   CG:
-    - Portador de la mutaci&oacute;n disautonom&iacute;a familiar
+    - Carrier of the familial dysautonomia mutation
     - false
   GG:
-    - Caso com&uacute;n.
+    - Common case.
     - null
 rs3918290:
   AA:
-    - Toxicidad 5-fluorouracilo, dihidropirimidina deshidrogenasa.
+    - 5-fluorouracil toxicity, dihydropyrimidine dehydrogenase.
     - false
   AG:
-    - Cierta toxicidad, portador de dihidropirimidina deshidrogenasa 5-fluorouracilo.
+    - Some toxicity, dihydropyrimidine dehydrogenase 5-fluorouracil carrier.
     - false
   GG:
-    - Caso com&uacute;n.
+    - Common case.
     - null
 rs75527207:
   AA:
-    - Homocigotos doble para la fibrosis qu&iacute;stica G551D.
+    - Double homozygous for cystic fibrosis G551D.
     - false
   AG:
-    - Portador homocigotos doble para la fibrosis qu&iacute;stica G551D.
+    - Double homozygous carrier for cystic fibrosis G551D.
     - false
   GG:
-    - Caso com&uacute;n.
+    - Common case.
     - null
 rs2395029:
   GG:
-    - Alto riesgo de hipersensibilidad a varios f&aacute;rmacos, incluyendo abacavir; riesgo de la psoriasis.
+    - High risk of hypersensitivity to several drugs, including abacavir; risk of psoriasis.
     - false
   GT:
-    - Posible riesgo de hipersensibilidad a varios f&aacute;rmacos, incluyendo abacavir; riesgo de la psoriasis.
+    - Possible risk of hypersensitivity to several drugs, including abacavir; risk of psoriasis.
     - false
   TT:
-    - Caso com&uacute;n.
+    - Common case.
     - null
 rs4244285:
   AA:
-    - Metabolizador lento de varios medicamentos populares; pacientes con prescripci&oacute;n de Plavix disminuyendo su efectividad, y tienen mayor riesgo de eventos cardiovasculares adversos.
+    - Slow metabolizer of several popular drugs; patients prescribed Plavix get reduced effectiveness and have a higher risk of adverse cardiovascular events.
     - false
   AG:
-    - Pobre metabolizador de varios medicamentos populares; pacientes con prescripci&oacute;n de Plavix disminuyendo su efectividad, y tienen mayor riesgo de eventos cardiovasculares adversos.
+    - Poor metabolizer of several popular drugs; patients prescribed Plavix get reduced effectiveness and have a higher risk of adverse cardiovascular events.
     - false
   GG:
-    - Caso com&uacute;n.
+    - Common case.
     - null
 rs28399504:
   AA:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   AG:
-    - Metabolizador lento
+    - Slow metabolizer
     - null
   GG:
-    - Peor metabolizador
+    - Poorer metabolizer
     - false
 rs55886062:
   AA:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   AC:
-    - Portador Toxicidad 5-fluorouracilo.
+    - 5-fluorouracil toxicity carrier.
     - false
   CC:
-    - Toxicidad 5-fluorouracilo.
+    - 5-fluorouracil toxicity.
     - false
 rs8099917:
   GG:
-    - Menor probabilidad de responder al tratamiento con PEG-IFNalpha / RBV.
+    - Less likely to respond to PEG-IFNalpha / RBV treatment.
     - false
   GT:
-    - Moderadamente menor probabilidad de responder al tratamiento con PEG-IFNalpha / RBV.
+    - Moderately less likely to respond to PEG-IFNalpha / RBV treatment.
     - false
   TT:
-    - Caso com&uacute;n.
+    - Common case.
     - null
 rs28933389:
   CC:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   CT:
-    - Portador de deficiencia seudocolinesterasa.
+    - Pseudocholinesterase deficiency carrier.
     - false
   TT:
-    - Padece deficiencia seudocolinesterasa.
+    - Has pseudocholinesterase deficiency.
     - false
 rs1057910:
   AA:
-    - Normal; ning&uacute;n efecto sobre el metabolismo de la warfarina.
+    - Normal; no effect on warfarin metabolism.
     - true
   AC:
-    - Portador; reducci&oacute;n media del 40% en el metabolismo de la warfarina.
+    - Carrier; average 40% reduction in warfarin metabolism.
     - false
   CC:
-    - Reducci&oacute;n media del 80% en el metabolismo de la warfarina; la reducci&oacute;n del metabolismo de otros f&aacute;rmacos.
+    - Average 80% reduction in warfarin metabolism; reduced metabolism of other drugs.
     - false
 rs1800460:
   AA:
-    - Incapaz de desintoxicaci&oacute;n de subproductos de ciertos medicamentos.
+    - Unable to detoxify the byproducts of certain medications.
     - false
   AG:
-    - Alteraci&oacute;n del metabolismo de drogas.
+    - Altered drug metabolism.
     - false
   GG:
-    - Caso com&uacute;n.
+    - Common case.
     - null
 rs1142345:
   AA:
-    - Caso com&uacute;n.
+    - Common case.
     - null
   AG:
-    - Alteraci&oacute;n del metabolismo.
+    - Altered metabolism.
     - false
   GG:
-    - Posiblemente incapaz de desintoxicaci&oacute;n de ciertas drogas.
+    - Possibly unable to detoxify certain drugs.
     - false
 rs1800462:
   CC:
-    - Incapaz de desintoxicaci&oacute;n de ciertos medicamentos.
+    - Unable to detoxify certain medications.
     - false
   CG:
-    - La capacidad de desintoxicaci&oacute;n de ciertos medicamentos puede verse disminuida.
+    - The ability to detoxify certain medications may be reduced.
     - false
   GG:
-    - Caso com&uacute;n.
+    - Common case.
     - null
 rs12979860:
   TT:
-    - 20-25% de los pacientes de hepatitis C responde al tratamiento.
+    - 20-25% of hepatitis C patients respond to treatment.
     - false
   CC:
-    - 80% de los pacientes de hepatitis C responde al tratamiento.
+    - 80% of hepatitis C patients respond to treatment.
     - true
   CT:
-    - 20-40% de los pacientes de hepatitis C responde al tratamiento.
+    - 20-40% of hepatitis C patients respond to treatment.
     - false
 rs6265:
   AG:
-    - Habilidades motoras con discapacidad de aprendizaje?.
+    - Motor skills learning disability?.
     - false
   AA:
-    - Introversi&oacute;n, resistente a la depresi&oacute;n, problemas de aprendizaje habilidades motoras.
+    - Introversion, resistant to depression, trouble learning motor skills.
     - false
   GG:
     - Normal.
@@ -1349,263 +1349,263 @@ rs1800629:
     - Normal.
     - true
   AA:
-    - Riesgo alto.
+    - High risk.
     - false
   AG:
-    - Riesgo alto
+    - High risk
     - false
 rs25531:
   AA:
-    - Nivel bajo de serotonina, un poco menos feliz.
+    - Low serotonin level, a little less happy.
     - null
   GG:
-    - Menos sensible al dolor.
+    - Less sensitive to pain.
     - null
 i3003626:
   DD:
-    - Muy resistente al VIH.
+    - Very resistant to HIV.
     - true
   DI:
-    - Resistente al VIH.
+    - Resistant to HIV.
     - true
   II:
-    - No resistente.
+    - Not resistant.
     - false
 rs2910164:
   CG:
-    - Probabilidad
+    - Some probability
     - null
   GG:
     - Normal
     - null
   CC:
-    - Muy alta.
+    - Very high.
     - false
 rs6983267:
   GT:
-    - Riesgo de c&aacute;ncer de pr&oacute;stata, la aspirina reduce el riesgo de c&aacute;ncer colorrectal.
+    - Risk of prostate cancer, aspirin reduces the risk of colorectal cancer.
     - false
   GG:
-    - Mayor riesgo de c&aacute;ncer de pr&oacute;stata, tambi&eacute;n otros tipos de c&aacute;ncer.
+    - Higher risk of prostate cancer, and of other types of cancer too.
     - false
   TT:
-    - Riesgo normal.
+    - Normal risk.
     - null
 rs738409:
   CC:
-    - Alta probabilidad de enfermedad hep&aacute;tica alcoh&oacute;lica, y aumento de grasa en el h&iacute;gado.
+    - High probability of alcoholic liver disease, and increased liver fat.
     - false
   GG:
     - Normal
     - null
   CG:
-    - Aumento de grasa en el h&iacute;gado, las probabilidades de enfermedad hep&aacute;tica alcoh&oacute;lica.
+    - Increased liver fat, chances of alcoholic liver disease.
     - false
 rs2476601:
   GG:
     - Normal.
     - null
   AG:
-    - Riesgo muy alto.
+    - Very high risk.
     - false
   AA:
-    - Riesgo de la artritis reumatoide y otras enfermedades autoinmunes.
+    - Risk of rheumatoid arthritis and other autoimmune diseases.
     - false
 rs7574865:
   GG:
-    - Riesgo normal de la artritis reumatoide, lupus eritematoso sist&eacute;mico, s&iacute;ndrome de Sj&ouml;gren, diabetes de tipo 1, y la cirrosis biliar primaria.
+    - Normal risk of rheumatoid arthritis, systemic lupus erythematosus, Sj&ouml;gren's syndrome, type 1 diabetes, and primary biliary cirrhosis.
     - null
   GT:
-    - Riesgo de la artritis reumatoide, lupus eritematoso sist&eacute;mico, s&iacute;ndrome de Sj&ouml;gren, diabetes de tipo 1, y la cirrosis biliar primaria.
+    - Risk of rheumatoid arthritis, systemic lupus erythematosus, Sj&ouml;gren's syndrome, type 1 diabetes, and primary biliary cirrhosis.
     - false
   TT:
-    - Alto riesgo de la artritis reumatoide, lupus eritematoso sist&eacute;mico, s&iacute;ndrome de Sj&ouml;gren, diabetes de tipo 1, y la cirrosis biliar primaria.
+    - High risk of rheumatoid arthritis, systemic lupus erythematosus, Sj&ouml;gren's syndrome, type 1 diabetes, and primary biliary cirrhosis.
     - false
 rs1800795:
   GG:
-    - Alto
+    - High
     - false
   CG:
-    - Complejo de definir.
+    - Hard to define.
     - false
   CC:
-    - Bajo
+    - Low
     - true
 rs8050136:
   AA:
-    - Alto riesgo.
+    - High risk.
     - false
   CC:
     - Normal
     - null
   AC:
-    - Riesgo
+    - Risk
     - false
 rs10490924:
   TT:
-    - Altisimo, riesgo de degeneraci&oacute;n por la edad.
+    - Extremely high, risk of age-related degeneration.
     - false
   GG:
     - Normal.
     - null
   GT:
-    - Riesgo de degeneraci&oacute;n.
+    - Risk of degeneration.
     - false
 rs780094:
   AA:
-    - Riesgo
+    - Risk
     - false
   AG:
-    - Riesgo
+    - Risk
     - false
   GG:
     - Normal
     - null
 rs11209026:
   AA:
-    - Riesgo
+    - Risk
     - false
   AG:
-    - Riesgo
+    - Risk
     - false
   GG:
     - Normal
     - null
 rs17782313:
   CT:
-    - Probabilidad de tenerlo muy alto.
+    - Very likely to have it high.
     - false
   TT:
     - Normal.
     - null
   CC:
-    - Probabilidad de tenerlo alto.
+    - Likely to have it high.
     - false
 rs16969968:
   GG:
     - Normal.
     - null
   AA:
-    - Muy alta y alta dependencia a la coca&iacute;na.
+    - Very high and high cocaine dependence.
     - false
   AG:
-    - Riego de depedencia bajo.
+    - Low risk of dependence.
     - false
 rs11614913:
   CT:
     - Normal.
     - null
   CC:
-    - Riesgo Alto.
+    - High risk.
     - false
   TT:
-    - Riesgo ligero.
+    - Slight risk.
     - false
 rs4481887:
   AA:
-    - Muy probable para oler metabolitos de esp&aacute;rragos en orina.
+    - Very likely to smell asparagus metabolites in urine.
     - null
   AG:
-    - Muy probable para oler metabolitos de esp&aacute;rragos en orina.
+    - Very likely to smell asparagus metabolites in urine.
     - null
   GG:
-    - Poco probable para oler metabolitos de esp&aacute;rragos en orina.
+    - Unlikely to smell asparagus metabolites in urine.
     - null
 rs12821256:
   CC:
-    - Muy alta probabilidad de tener pelo rubio
+    - Very high probability of having blond hair
     - null
   CT:
-    - Probabilidad de tener pelo rubio
+    - Probability of having blond hair
     - null
   TT:
     - Normal
     - null
 rs1667394:
   AA:
-    - Probabilidad de ser rubio y ojos azules.
+    - Probability of being blond with blue eyes.
     - null
   GG:
-    - Probable que la piel sea m&aacute;s oscura.
+    - Skin likely to be darker.
     - null
 rs7816345:
   CC:
-    - Mayor tama&ntilde;o de senos.
+    - Larger breast size.
     - null
   CT:
-    - Tama&ntilde;o de senos m&aacute;s peque&ntilde;os.
+    - Smaller breast size.
     - null
   TT:
-    - Tama&ntilde;o muy peque&ntilde;o.
+    - Very small size.
     - null
 rs2472297:
   CC:
     - Normal.
     - true
   CT:
-    - Incremento del consumo de cafe&iacute;na
+    - Increased caffeine consumption
     - null
   TT:
-    - Incremento del consumo de cafe&iacute;na
+    - Increased caffeine consumption
     - null
 rs762551:
   AA:
-    - Muy r&aacute;pido.
+    - Very fast.
     - null
   AC:
-    - Lenta.
+    - Slow.
     - null
   CC:
-    - Lenta.
+    - Slow.
     - null
 rs7759938:
   CC:
-    - Aprox. 2 meses tarde.
+    - Approx. 2 months later.
     - null
   CT:
-    - Aprox. 1 mes tarde.
+    - Approx. 1 month later.
     - null
   TT:
     - Normal.
     - null
 rs4778138:
   AA:
-    - Pecoso.
+    - Freckled.
     - null
 rs17646946:
   AA:
-    - Rizo recto.
+    - Straight curl.
     - null
 rs7349332:
   CC:
-    - Pelo liso.
+    - Straight hair.
     - null
   TT:
-    - Pelo rizado
+    - Curly hair
     - null
 rs3827760:
   CC:
-    - M&aacute;s recto, cabello m&aacute;s grueso, y el aumento de las probabilidades de tener incisivos en forma de pala.
+    - Straighter, thicker hair, and increased chances of shovel-shaped incisors.
     - null
   CT:
-    - Recto, cabello m&aacute;s grueso, y el aumento de las probabilidades de tener incisivos en forma de pala.
+    - Straight, thicker hair, and increased chances of shovel-shaped incisors.
     - null
   TT:
     - Normal.
     - null
 rs1042725:
   CC:
-    - Aprox. 0.8cm m&aacute;s alto
+    - Approx. 0.8cm taller
     - null
   CT:
-    - Aprox. 0.4cm m&aacute;s alto
+    - Approx. 0.4cm taller
     - null
   TT:
-    - Media normal.
+    - Normal average.
     - null
 rs6625163:
   AA:
-    - Riesgo alto.
+    - High risk.
     - false
   AG:
     - Normal
@@ -1615,50 +1615,50 @@ rs6625163:
     - null
 rs2003046:
   AA:
-    - Muy bajo riesgo.
+    - Very low risk.
     - true
   AC:
-    - Muy muy muy bajo riesgo.
+    - Very, very, very low risk.
     - true
   CC:
-    - Riesgo normal.
+    - Normal risk.
     - true
 rs2073963:
   GG:
-    - Mucho riesgo.
+    - High risk.
     - false
   GT:
-    - Riesgo.
+    - Risk.
     - false
   TT:
-    - Riesgo normal.
+    - Normal risk.
     - true
 rs8085664:
   AA:
-    - Riesgo muy reducido.
+    - Greatly reduced risk.
     - true
   AC:
-    - Riesgo reducido.
+    - Reduced risk.
     - true
   CC:
-    - Riesgo normal.
+    - Normal risk.
     - false
 rs10871777:
   AA:
     - Normal
     - true
   AG:
-    - IMC probablemente alto.
+    - Probably high BMI.
     - false
   GG:
-    - IMC probablemente muy alto.
+    - Probably very high BMI.
     - false
 rs12970134:
   AA:
-    - Cintura para adultos m&aacute;s grande que el promedio 1.8cm.
+    - Adult waist 1.8cm larger than average.
     - null
   AG:
-    - Cintura para adultos m&aacute;s grande que el promedio 0.9cm.
+    - Adult waist 0.9cm larger than average.
     - null
   GG:
     - Normal.
@@ -1749,7 +1749,7 @@ rs28929474:
     - You have COPD.
     - false
   AG:
-    - EPOC carrier.
+    - COPD carrier.
     - false
   GG:
     - Normal.
@@ -1759,7 +1759,7 @@ rs17580:
     - Normal.
     - true
   AT:
-    - EPOC carrier.
+    - COPD carrier.
     - false
   TT:
     - You have COPD.

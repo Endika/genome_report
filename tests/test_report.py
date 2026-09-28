@@ -1,3 +1,4 @@
+import html
 from pathlib import Path
 
 import pytest
@@ -5,6 +6,7 @@ import pytest
 from genome import GenomeReport
 
 DEMO = Path(__file__).resolve().parent.parent / 'demo' / 'male01.txt'
+DEMOS = sorted(DEMO.parent.glob('*.txt'))
 
 
 @pytest.mark.parametrize('lang, categories, snp_result', [
@@ -42,3 +44,15 @@ def test_english_report_has_no_spanish_labels(tmp_path, monkeypatch):
         assert label in html
     for label in SPANISH_LABELS:
         assert label not in html
+
+
+@pytest.mark.parametrize('genome', DEMOS, ids=lambda p: p.stem)
+def test_english_report_has_no_spanish_characters(tmp_path, monkeypatch,
+                                                  genome):
+    monkeypatch.chdir(tmp_path)
+
+    GenomeReport(str(genome), output='report', lang='en').make_report()
+
+    text = html.unescape(
+        (tmp_path / 'report.html').read_text(encoding='utf-8'))
+    assert not set(text) & set('áéíóúñÁÉÍÓÚÑ¿¡´')
