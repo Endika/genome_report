@@ -53,54 +53,54 @@ health:
         - rs200511261
         - rs369925690
         - rs137852944
-    - title: Trastorno cong&eacute;nito de la glicosilaci&oacute;n
+    - title: Congenital disorder of glycosylation
       snp:
         - rs28936415
-    - title: Sordera asociada
+    - title: Associated deafness
       snp:
         - rs80338939
-    - title: Vida m&aacute;s larga?
+    - title: Longer life?
       snp:
         - rs10936599
-    - title: Medicamentos
+    - title: Medications
       snp:
         - rs4244285
         - rs3892097
-    - title: Riesgo de miopat&iacute;a.
+    - title: Risk of myopathy.
       snp:
         - rs4149056
-      default: La vista igual que la de un &aacute;guila.
-    - title: Hipersensibilidad
+      default: Eyesight as sharp as an eagle's.
+    - title: Hypersensitivity
       snp:
         - rs2395029
-    - title: Metabolizador de medicamentos
+    - title: Drug metabolizer
       snp:
         - rs4244285
         - rs28399504
-    - title: Metabolismo de la warfarina
+    - title: Warfarin metabolism
       snp:
         - rs1057910
-    - title: Efectos de las drogas
+    - title: Drug effects
       snp:
         - rs1800460
         - rs1142345
         - rs1800462
-    - title: Riesgo de trastornos autoinmunes
+    - title: Risk of autoimmune disorders
       snp:
         - rs2476601
-    - title: Riesgo de enfermedades
+    - title: Risk of diseases
       snp:
         - rs7574865
-    - title: Riesgo de degeneraci&oacute;n macular
+    - title: Risk of macular degeneration
       snp:
         - rs10490924
-    - title: Sufrir consecuencias metab&oacute;licas
+    - title: Suffering metabolic consequences
       snp:
         - rs780094
-    - title: Riesgo Padecer enfermedades autoinmunes
+    - title: Risk of autoimmune diseases
       snp:
         - rs11209026
-    - title: Riesgo a padecer varios tipos de c&aacute;ncer
+    - title: Risk of several types of cancer
       snp:
         - rs11614913
     - title: Peanut allergy?
@@ -111,25 +111,25 @@ diseases:
   title: Diseases
   icon: diseases.png
   data:
-    - title: Riesgo de padecer Alzheimer
+    - title: Risk of Alzheimer's
       snp:
         - rs429358
         - rs7412
         - rs4934
-    - title: C&aacute;ncer de mama
+    - title: Breast cancer
       snp:
         - rs1045485
         - i4000378
         - rs80357906
         - i4000377
         - rs80358959
-    - title: Resistencia del virus VIH
+    - title: HIV resistance
       snp:
         - rs333
         - rs9264942
         - rs2572886
         - i3003626
-    - title: Portador de fibrosis qu&iacute;stica?
+    - title: Cystic fibrosis carrier?
       snp:
         - rs121908747
         - rs113993960
@@ -141,17 +141,17 @@ diseases:
         - rs121912713
         - rs28931568
         - rs28931569
-    - title: Hipercolesterolemia
+    - title: Hypercholesterolemia
       snp:
         - rs5742904
         - rs144467873
-    - title: Polineuropat&iacute;a amiloide
+    - title: Amyloid polyneuropathy
       snp:
         - rs121918070
     - title: Parkinson
       snp:
         - rs34637584
-    - title: Trastorno neurol&oacute;gico
+    - title: Neurological disorder
       snp:
         - rs121908428
     - title: Anemia?
@@ -163,82 +163,82 @@ diseases:
         - i4000336
         - i4000412
         - i4000413
-    - title: Sindrome de Bloom
+    - title: Bloom syndrome
       snp:
         - i4000396
-    - title: Enfermedad Canavan
+    - title: Canavan disease
       snp:
         - rs28940279
-    - title: Riesgo de glimona, fibrosis pulmonar
+    - title: Risk of glioma, pulmonary fibrosis
       snp:
         - rs2736100
-    - title: Resistente a la malaria
+    - title: Malaria resistance
       snp:
         - rs2814778
-    - title: Resistencia al notrovirus?
+    - title: Norovirus resistance?
       snp:
         - rs601338
-    - title: S&iacute;ndrome de Prader-Willi-like, s&iacute;ndrome de Schaaf-Yang.
+    - title: Prader-Willi-like syndrome, Schaaf-Yang syndrome.
       snp:
         - rs398122416
         - rs398122415
-    - title: S&iacute;ndrome Orofaciodigital
+    - title: Orofaciodigital syndrome
       snp:
         - rs200322968
         - rs373900644
         - rs201662623
         - rs200649783
         - rs150681845
-    - title: Enfermedad Lipoyltransferase.
+    - title: Lipoyltransferase deficiency.
       snp:
         - rs137891647
         - rs786205156
-    - title: Riesgo de periodontitis (Inflamaci&oacute;n de las enc&iacute;as)
+    - title: Risk of periodontitis (gum inflammation)
       snp:
         - rs1537415
-    - title: C&aacute;ncer de prostata
+    - title: Prostate cancer
       snp:
         - rs1447295
         - rs6983267
-    - title: Enfermedad peroxisomal
+    - title: Peroxisomal disorder
       snp:
         - rs61750420
-    - title: S&iacute;ndrome de Usher Tipo III
+    - title: Usher syndrome type III
       snp:
         - rs111033258
         - rs111033260
-    - title: Tirosinemia tipo I.
+    - title: Tyrosinemia type I.
       snp:
         - rs80338899
         - rs80338898
         - rs80338901
         - rs80338895
         - rs121965075
-    - title: Enfermedad de Tay-Sachs
+    - title: Tay-Sachs disease
       snp:
         - rs76173977
         - rs138058578
-    - title: Anemia falciforme
+    - title: Sickle cell anemia
       snp:
         - rs334
-    - title: enfermedad de Salla
+    - title: Salla disease
       snp:
         - rs80338794
-    - title: Rizom&eacute;lico Chondrodysplasia Punctata Tipo 1
+    - title: Rhizomelic chondrodysplasia punctata type 1
       snp:
         - i3002517
-    - title: Hiperoxaluria primaria.
+    - title: Primary hyperoxaluria.
       snp:
         - rs80356708
-    - title: Enfermedad de Niemann-Pick tipo A
+    - title: Niemann-Pick disease type A
       snp:
         - i4000430
         - i4000381
         - i4000383
-    - title: Mucolipidosis tipo IV
+    - title: Mucolipidosis type IV
       snp:
         - rs104886461
-    - title: Cadena Media de Acil-CoA deshidrogenasa
+    - title: Medium-chain acyl-CoA dehydrogenase
       snp:
         - i5012759
         - i5012758
@@ -246,51 +246,51 @@ diseases:
         - i5012755
         - i5003117
         - i5003116
-    - title: La orina de jarabe de arce Enfermedad Tipo 1B
+    - title: Maple syrup urine disease type 1B
       snp:
         - i3002808
         - i4000422
-    - title: Enfermedad de la epidermolisis bullosa
+    - title: Epidermolysis bullosa
       snp:
         - rs80356682
-    - title: Enfermedad almacenamiento de gluc&oacute;geno tipo 1B, 1A
+    - title: Glycogen storage disease type 1B, 1A
       snp:
         - rs80356489
         - rs1801175
-    - title: Enfermedad de Gaucher
+    - title: Gaucher disease
       snp:
         - rs80356769
-    - title: S&iacute;ndrome de GRACILE
+    - title: GRACILE syndrome
       snp:
         - rs28937590
-    - title: Fiebre mediterr&aacute;nea
+    - title: Mediterranean fever
       snp:
         - rs104895094
         - rs3743930
         - rs11466023
-    - title: Disautonom&iacute;a familiar
+    - title: Familial dysautonomia
       snp:
         - rs137853022
-    - title: Toxicidad 5-fluorouracilo, dihidropirimidina deshidrogenasa
+    - title: 5-fluorouracil toxicity, dihydropyrimidine dehydrogenase
       snp:
         - rs3918290
         - rs55886062
-    - title: Respuesta tratamiento con PEG-IFNalpha / RBV
+    - title: Response to PEG-IFNalpha / RBV treatment
       snp:
         - rs8099917
-    - title: Deficiencia seudocolinesterasa
+    - title: Pseudocholinesterase deficiency
       snp:
         - rs28933389
-    - title: Tratamiento Hepatitis C.
+    - title: Hepatitis C treatment.
       snp:
         - rs12979860
-    - title: Riesgo de padecer enfermedades
+    - title: Risk of diseases
       snp:
         - rs1800629
-    - title: Riesgo de IL6
+    - title: IL6 risk
       snp:
         - rs1800795
-    - title: EPOC enfermedad pulmonar obstructiva cr&oacute;nica
+    - title: COPD, chronic obstructive pulmonary disease
       snp:
         - rs28929474
         - rs17580
@@ -298,13 +298,13 @@ social:
   title: Social
   icon: social.png
   data:
-    - title: Eres emp&aacute;tico?
+    - title: Are you empathetic?
       snp:
         - rs53576
-    - title: Influencia en el placer de los alimentos
+    - title: Influence on the pleasure of food
       snp:
         - rs1800497
-    - title: Dependencia a la nicotina
+    - title: Nicotine dependence
       snp:
         - rs1051730
         - rs16969968
@@ -312,7 +312,7 @@ features:
   title: Features
   icon: features.png
   data:
-    - title: Seras calvo?
+    - title: Will you go bald?
       icon_result:
         true: hair.png
         null: bald_man.png
@@ -322,87 +322,87 @@ features:
         - rs2003046
         - rs2073963
         - rs8085664
-      default: Felicidades! vas a mantener ese pelazo que tienes.
-    - title: Color de ojos
+      default: Congratulations! You're going to keep that great head of hair.
+    - title: Eye color
       snp:
         - rs7495174
         - rs12913832
-    - title: Cera de o&iacute;do y olor corporal
+    - title: Earwax and body odor
       snp:
         - rs17822931
-    - title: Memor&iacute;a y atenci&oacute;n
+    - title: Memory and attention
       snp:
         - rs4680
         - rs17070145
-    - title: Pron&oacute;stico del tama&ntilde;o del bebe
+    - title: Baby size prediction
       snp:
         - rs1799884
-    - title: Te gustan los sabores amargos?
+    - title: Do you like bitter flavors?
       snp:
         - rs713598
-    - title: Glucosa
+    - title: Glucose
       snp:
         - rs560887
-    - title: Capacidad de aprendizaje
+    - title: Learning ability
       snp:
         - rs6265
-    - title: Gen de la Serotonina
+    - title: Serotonin gene
       snp:
         - rs25531
-    - title: Olor de la orina
+    - title: Urine odor
       snp:
         - rs4481887
-    - title: Probabilidad de pelo rubio
+    - title: Probability of blond hair
       snp:
         - rs12821256
         - rs1667394
-    - title: Tama&ntilde;o de senos.
+    - title: Breast size.
       snp:
         - rs7816345
-    - title: Consumo de cafe&iacute;na
+    - title: Caffeine consumption
       snp:
         - rs2472297
-    - title: Como metabolizas la cafe&iacute;na
+    - title: How you metabolize caffeine
       snp:
         - rs762551
-    - title: Aparici&oacute;n de la primera menstruaci&oacute;n
+    - title: Age at first period
       snp:
         - rs7759938
-    - title: Pecoso?
+    - title: Freckles?
       snp:
         - rs4778138
         - rs1805007
-    - title: Pelo rizado o liso?
+    - title: Curly or straight hair?
       snp:
         - rs11803731
         - rs17646946
         - rs7349332
-    - title: Caracter&iacute;sticas del pelo
+    - title: Hair characteristics
       snp:
         - rs3827760
-    - title: Altura
+    - title: Height
       snp:
         - rs1042725
-    - title: Tama&ntilde;o de cintura
+    - title: Waist size
       snp:
         - rs12970134
-    - title: Menopausia
+    - title: Menopause
       snp:
         - rs16991615
-    - title: Reflejo estornudo photic
+    - title: Photic sneeze reflex
       snp:
         - rs10427255
-    - title: Sensibilidad a los sonidos
+    - title: Sensitivity to sounds
       snp:
         - rs2937573
-    - title: Prefieres algo dulce?
+    - title: Do you prefer something sweet?
       snp:
         - rs838133
-    - title: Dislexia
+    - title: Dyslexia
       snp:
         - rs793862
         - rs807701
-    - title: Dalt&oacute;nico
+    - title: Color blindness
       snp:
         - rs35104847
         - rs5989620
@@ -414,28 +414,28 @@ diet:
   title: Diet
   icon: diet.png
   data:
-    - title: Intolerante a la lactosa?
+    - title: Lactose intolerant?
       snp:
         - rs4988235
-      default: Felicidades! comete un cabrales a tu salud.
-    - title: C&oacute;mo perder peso?
+      default: Congratulations! Have some Cabrales blue cheese to celebrate.
+    - title: How to lose weight?
       snp:
         - rs4994
         - rs1042713
         - rs1799883
         - rs1801282
         - rs1042714
-    - title: Intolerancia al azucar?
+    - title: Sugar intolerance?
       snp:
         - rs1800546
-      default: Felicidades! una onza de chocolate a tu salud.
-    - title: Probabilidad de tener un IMC alto
+      default: Congratulations! Have a square of chocolate to celebrate.
+    - title: Probability of a high BMI
       snp:
         - rs17782313
         - rs10871777
-    - title: Riesgo de obesidad
+    - title: Risk of obesity
       snp:
         - rs5082
-    - title: Niveles HDL-C que afecta al colesterol.
+    - title: HDL-C levels, which affect cholesterol.
       snp:
         - rs1800588
