@@ -30,7 +30,7 @@
 
 <div class="container">
 
-{% for key, category in result.iteritems() %}
+{% for key, category in result.items() %}
 	<h3 onclick="showHide('{{key}}')">
 		<!--{% if category.icon %}<img src="{{ category.icon }}" />{% endif %}-->
 		{{ category.title }} <span style="font-size: 15px;">{{ category.data|length }} analizadas</span>

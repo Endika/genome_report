@@ -1,3 +1,3 @@
 # -*- coding: utf-8 -*-
 
-from genome import GenomeReport
+from .genome import GenomeReport
