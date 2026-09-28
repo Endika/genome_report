@@ -1,0 +1,19 @@
+[project]
+name = "genome-report"
+version = "0.1.0"
+description = "Turn a 23andMe raw genotype file into an HTML report."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "jinja2>=3.1",
+    "pyyaml>=6",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
